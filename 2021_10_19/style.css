@@ -1,13 +1,25 @@
-.flex-container {
-    background-color: lightskyblue;
-    margin-bottom: 500px;
-    width: 500px;
-    display: flex;
-    flex-wrap: wrap;
+/* Élőlények */
+.novenyek{
+    list-style-type: decimal;
 }
-.flex-item{
-    box-sizing: border-box;
-    border: 1px solid midnightblue;
-    padding: 10px;
-    flex: 1 1 100px;
+.mergezo{
+    list-style-type: lower-roman;
 }
+.faszombaszuromel{
+    list-style-type: upper-roman;
+}
+/* Ételek */
+.nagybetu{
+    list-style-type: upper-alpha;
+}
+.kisbetu{
+    list-style-type: lower-alpha;
+}
+.nagyRomai{
+    list-style-type: upper-roman;
+}
+.kisRomai{
+    list-style-type: lower-roman;
+}
+
+/* Marvel vs DC */
