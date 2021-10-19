@@ -1,0 +1,22 @@
+{
+  "name": "ruanderfiles",
+  "version": "1.0.0",
+  "description": "Ruander file-training",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motkany1980/Ruander.git"
+  },
+  "keywords": [
+    "Ruander"
+  ],
+  "author": "Keszericze István",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Motkany1980/Ruander/issues"
+  },
+  "homepage": "https://github.com/Motkany1980/Ruander#readme"
+}
