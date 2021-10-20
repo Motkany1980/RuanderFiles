@@ -39,8 +39,13 @@
 
 #### Kódminták
 ```html 
-<h1>Címsor</h1>    <h2>Címsor</h2>      <i>Félkövér</i>       <u>Aláhúzott</u>
-<s>Áthúzás</s>     <sub>Alsóindex</sub> <sup>FelsőIndex</sup> <strong>Erős(félkövér)</strong>
+<h1>Címsor</h1>                  <h2>Címsor</h2>              <i>Félkövér</i>             <u>Aláhúzott</u>
+<s>Áthúzás</s>                   <sub>Alsóindex</sub>         <sup>FelsőIndex</sup>       <strong>Erős(félkövér)</strong>
+<em>Kiemelt(dőlt)</em>           <address>Cím(Dőlt)</address> <var>Változó(dőlt)</var>    <ins>Beillesztett(aláhúzott)</ins>
+<strike>Áthúzás</strike>         <del>Törölt(áthúzott)</del>  <small>Kisebb</small>       <big>Nagyobb</big>
+<kbd>Billentyűzet bemenet</kbd>  <tt>Írógép betű</tt>         <samp>Kimeneti Minta</samp> <code>Számítógépes kód</code>
+<mark>Kiemelt</mark>
+
 ```
 
 ### 2021.09.28. - HTML alapok
