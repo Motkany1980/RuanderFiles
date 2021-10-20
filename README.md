@@ -17,6 +17,8 @@
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)/
 
+https://github.com/Motkany1980/RuanderFiles/blob/98fff494b8fd6705d77f6a9b6ab81328a480076d/2021_10_21/index.html
+
 ### 2021.09.21. - Ismerkedés
 
 ### 2021.09.23. - Szövegformázás
