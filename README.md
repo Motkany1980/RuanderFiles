@@ -39,9 +39,7 @@
 - [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5) 
 
 #### Kódminták
-```Javascript
-console.log("Start");
-```
+```html <h1>Címsor</h1> ```
 
 ### 2021.09.28. - HTML alapok
 
