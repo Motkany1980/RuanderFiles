@@ -1,4 +1,23 @@
 # RuanderFiles
+<<<<<<< HEAD
+[Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}
+*This folder is for my trainings in Ruander it containes the following exercises:*
+
+### Hasznos linkek
+[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Programozás - Bootstrap honlap](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Programozás - Online Tutorials](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Programozás - W3schools](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Szoftver - Apache Netbeans](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"})/
+[Szoftver - Atom](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Szoftver - Brackets](https://www.ruander.hu/webfejleszto-kepzes.html{:target="_blank"}/
+[Szoftver - Node JS](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Szoftver - Notepad++](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Szoftver - Sublime Text](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}/
+=======
 
 [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
 
@@ -18,9 +37,10 @@
 [Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)*
+>>>>>>> f8478853bc50803712f70502ad6e3b48f428cb2d
 
 #### Összes Feladat megoldása
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21){:target="_blank"}
 
 ### 2021.09.21. - Ismerkedés
 
@@ -41,7 +61,7 @@
 ### 2021.09.28. - HTML alapok
 
 #### Hasznos linkek:
-[W3Schools HTML](https://www.w3schools.com/html/default.asp)
+[W3Schools HTML](https://www.w3schools.com/html/default.asp){:target="_blank" rel="noopener"} 
 
 <!-- Listák táblázatok -->
 #### Feladatok
