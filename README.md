@@ -39,10 +39,7 @@
 
 #### Kódminták
 ```html 
-<h1>Címsor</h1>
-<h2>Címsor</h2>
-<i>Félkövér</i>
-<u>Aláhúzott</u>
+<h1>Címsor</h1>    <h2>Címsor</h2>    <i>Félkövér</i>    <u>Aláhúzott</u>
 <s>Áthúzás</s> 
 ```
 
