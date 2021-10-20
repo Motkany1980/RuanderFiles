@@ -25,7 +25,13 @@
 - [ ] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC)
 - [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
+
+
 ### 2021.09.28. - HTML alapok
+
+#### Hasznos linkek:
+[W3Schools HTML](https://www.w3schools.com/html/default.asp)/
+
 <!-- Listák táblázatok -->
 #### Feladatok
 - [ ] F01 [Lista többszintű - Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Tt4zgYBS)
@@ -34,7 +40,8 @@
 - [ ] F04 [Táblázat - HTML Infó](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PpxVDaBb)
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
 
-```HTML
+#### Kódminták
+```html
 <ol>
     <li></li>
 <\ol>
