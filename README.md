@@ -1,5 +1,5 @@
 # RuanderFiles
-<<<<<<< HEAD
+
 [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
 *This folder is for my trainings in Ruander it containes the following exercises:*
 
@@ -37,7 +37,6 @@
 [Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)*
->>>>>>> f8478853bc50803712f70502ad6e3b48f428cb2d
 
 #### Összes Feladat megoldása
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21){:target="_blank"}
