@@ -34,8 +34,10 @@
 - [ ] F04 [Táblázat - HTML Infó](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PpxVDaBb)
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
 
-```javascript 
-console.log("asfdas") 
+```css 
+body{
+    background-color:red;
+}
 ```
 ### 2021.09.30. - HTML alapok
 <!-- HEAD, Tag, Form elemek -->
