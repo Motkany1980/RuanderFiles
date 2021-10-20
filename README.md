@@ -17,7 +17,7 @@
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)/
 
-https://github.com/Motkany1980/RuanderFiles/blob/98fff494b8fd6705d77f6a9b6ab81328a480076d/2021_10_21/index.html
+
 
 ### 2021.09.21. - Ismerkedés
 
@@ -27,6 +27,10 @@ https://github.com/Motkany1980/RuanderFiles/blob/98fff494b8fd6705d77f6a9b6ab8132
 - [ ] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC)
 - [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
+
+#### Megoldások
+[Szövegformázás akció](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+
 
 
 ### 2021.09.28. - HTML alapok
