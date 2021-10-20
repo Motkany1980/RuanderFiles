@@ -39,20 +39,13 @@
 
 #### Kódminták
 ```html 
-<h1>Címsor</h1> 
-```
-```html 
-<h2>Címsor</h2> 
-```
-```html 
-<i>Félkövér</i> 
-```
-```html 
-<u>Aláhúzott</u> 
-```
-```html 
+<h1>Címsor</h1>
+<h2>Címsor</h2>
+<i>Félkövér</i>
+<u>Aláhúzott</u>
 <s>Áthúzás</s> 
 ```
+
 ### 2021.09.28. - HTML alapok
 
 #### Hasznos linkek:
