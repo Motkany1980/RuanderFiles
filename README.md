@@ -29,8 +29,12 @@
 - [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
 
-
-
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+```
 
 ### 2021.09.28. - HTML alapok
 
@@ -61,6 +65,12 @@
 - [ ] F02 [Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/KphC0DbA)
 - [ ] F03 [Youtube Csatorna Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/yooETJCb)
 
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+```
 
 ### 2021.10.05. Ritkább HTML elemek
 
