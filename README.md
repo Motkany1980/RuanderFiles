@@ -1,11 +1,14 @@
-# RuanderFiles<!-- This folder is for my trainings in Ruander.It containes teh following exercises: -->
+# RuanderFiles
+*This folder is for my trainings in Ruander.It containes teh following exercises:*
 
 ### 2021.09.21. - Ismerkedés
 
 ### 2021.09.23. - Szövegformázás
-
+Feladatok
+[ ] F01
 ### 2021.09.28. - HTML alapok
 <!-- Listák táblázatok -->
+
 
 ### 2021.09.30. - HTML alapok
 <!-- HEAD, Tag, Form elemek -->
