@@ -61,7 +61,7 @@
 ### 2021.09.28. - HTML alapok
 
 #### Hasznos linkek:
-[W3Schools HTML](https://www.w3schools.com/html/default.asp){:target="_blank" rel="noopener"} 
+[W3Schools HTML](https://www.w3schools.com/html/default.asp)
 
 <!-- Listák táblázatok -->
 #### Feladatok
