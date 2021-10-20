@@ -38,7 +38,7 @@
 <\ol>
 ```
 #### Videók:
-[![KarakterformazasLinkekKepek](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2)
+[![KarakterformazasLinkekKepek]](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2)
 
 ### 2021.09.28. - HTML alapok
 
