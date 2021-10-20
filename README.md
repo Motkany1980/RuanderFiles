@@ -22,9 +22,9 @@
 #### Összes Feladat megoldása
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
-### 2021.09.21. - Ismerkedés
+                                            ### 2021.09.21. - Ismerkedés
 
-### 2021.09.23. - Szövegformázás
+                                            ### 2021.09.23. - Szövegformázás
 #### Feladatok
 - [ ] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI)
 - [ ] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC)
@@ -55,7 +55,7 @@
 <s>Áthúzás</s> 
 ```
 
-### 2021.09.28. - HTML alapok
+                                            ### 2021.09.28. - HTML alapok
 
 #### Hasznos linkek:
 [W3Schools HTML](https://www.w3schools.com/html/default.asp)
@@ -74,7 +74,8 @@
     <li></li>
 <\ol>
 ``` 
-### 2021.09.30. - HTML alapok
+
+                                            ### 2021.09.30. - HTML alapok
 <!-- HEAD, Tag, Form elemek -->
 #### Hasznos linkek:
 [W3Schools HTML](https://www.w3schools.com/html/default.asp)
@@ -91,18 +92,17 @@
 <\ol>
 ```
 
-### 2021.10.05. Ritkább HTML elemek
+                                            ### 2021.10.05. Ritkább HTML elemek
 
-### 2021.10.07. CSS alapok
+                                            ### 2021.10.07. CSS alapok
 
-### 2021.10.12. CSS alapok
+                                            ### 2021.10.12. CSS alapok
 
-### 2021.10.14 Szövegformázás
+                                            ### 2021.10.14 Szövegformázás
 
-### 2021.10.19. CSS
+                                            ### 2021.10.19. CSS
 <!-- Listák, Outline --> 
+                                            ### 2021.10.21. Táblázatok
 
-### 2021.10.21. Táblázatok
-
-### 2021.10.26 Linkek
+                                            ### 2021.10.26 Linkek
 <!-- Pseudo classok és elemek-->
