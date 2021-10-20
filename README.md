@@ -1,8 +1,8 @@
 # RuanderFiles
 
-[Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
-
 *Ruander Webfejlesztő képzéshez létrehozott Github repo :*
+
+[Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
 
 ### Hasznos linkek
 *[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
