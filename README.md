@@ -39,8 +39,8 @@
 
 #### Kódminták
 ```html 
-<h1>Címsor</h1>    <h2>Címsor</h2>    <i>Félkövér</i>    <u>Aláhúzott</u>
-<s>Áthúzás</s> 
+<h1>Címsor</h1>    <h2>Címsor</h2>      <i>Félkövér</i>       <u>Aláhúzott</u>
+<s>Áthúzás</s>     <sub>Alsóindex</sub> <sup>FelsőIndex</sup> <strong>Erős(félkövér)</strong>
 ```
 
 ### 2021.09.28. - HTML alapok
