@@ -3,7 +3,7 @@
 *This folder is for my trainings in Ruander it containes the following exercises:*
 
 ### Hasznos linkek
-[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
+*[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Programozás - Bootstrap honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Programozás - Online Tutorials](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Programozás - W3schools](https://www.ruander.hu/webfejleszto-kepzes.html)/
@@ -15,7 +15,7 @@
 [Szoftver - Sublime Text](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
-[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)*
 
 #### Összes Feladat megoldása
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
