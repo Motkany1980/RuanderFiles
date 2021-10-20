@@ -72,11 +72,11 @@
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
 
 #### Kódminták
-```html
+<!-- ```html
 <ol>
     <li></li>
 <\ol>
-```
+``` -->
 ### 2021.09.30. - HTML alapok
 <!-- HEAD, Tag, Form elemek -->
 #### Hasznos linkek:
