@@ -38,7 +38,11 @@
 <\ol>
 ```
 #### Videók:
-[KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2)
+[KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1)
+[AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s)
+[HTMLtörtenetFeladat](https://www.youtube.com/watch?v=0D2biS86roE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=3)
+[RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s)
+[AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5)
 
 ### 2021.09.28. - HTML alapok
 
