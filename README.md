@@ -17,7 +17,8 @@
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)/
 
-
+#### Összes Feladat megoldása
+[Szövegformázás akció](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 ### 2021.09.21. - Ismerkedés
 
@@ -28,8 +29,6 @@
 - [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
 
-#### Megoldások
-[Szövegformázás akció](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 
 
