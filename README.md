@@ -5,7 +5,7 @@
 
 ### 2021.09.23. - Szövegformázás
 Feladatok
-[ ] F01
+- [ ] F01
 ### 2021.09.28. - HTML alapok
 <!-- Listák táblázatok -->
 
