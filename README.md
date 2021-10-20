@@ -1,6 +1,6 @@
 # RuanderFiles
-*This folder is for my trainings in Ruander it containes the following exercises:*
 [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
+*This folder is for my trainings in Ruander it containes the following exercises:*
 
 ### Hasznos linkek
 [Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
