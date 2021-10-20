@@ -42,6 +42,18 @@
 ```html 
 <h1>Címsor</h1> 
 ```
+```html 
+<h2>Címsor</h2> 
+```
+```html 
+<i>Félkövér</i> 
+```
+```html 
+<u>Aláhúzott</u> 
+```
+```html 
+<s>Áthúzás</s> 
+```
 
 ### 2021.09.28. - HTML alapok
 
