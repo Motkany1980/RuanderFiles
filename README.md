@@ -48,6 +48,14 @@
 ```
 ### 2021.09.30. - HTML alapok
 <!-- HEAD, Tag, Form elemek -->
+#### Hasznos linkek:
+[W3Schools HTML](https://www.w3schools.com/html/default.asp)
+
+#### Feladatok
+- [ ] F01 [Bejelentkezés](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/O0hklZTB)
+- [ ] F02 [Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/KphC0DbA)
+- [ ] F03 [Youtube Csatorna Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/yooETJCb)
+
 
 ### 2021.10.05. Ritkább HTML elemek
 
