@@ -16,8 +16,7 @@
 [Szoftver - Sublime Text](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html)/
 [Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
-[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)/
-=======
+[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)
 
 [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
 
