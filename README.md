@@ -1,5 +1,5 @@
 # RuanderFiles
-*This folder is for my trainings in Ruander.It containes teh following exercises:*
+*This folder is for my trainings in Ruander it containes the following exercises:*
 [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
 
 ### Hasznos linkek
