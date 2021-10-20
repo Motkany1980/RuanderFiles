@@ -31,12 +31,6 @@
 - [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
 
-#### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
-```
 #### Videók:
 - [KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1) 
 - [AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s) 
@@ -44,6 +38,10 @@
 - [RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s) 
 - [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5) 
 
+#### Kódminták
+```Javascript
+console.log("Start");
+```
 
 ### 2021.09.28. - HTML alapok
 
