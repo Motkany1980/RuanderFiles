@@ -1,6 +1,6 @@
 # RuanderFiles
 
-[Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
+[Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html){:target="_blank"}
 
 *This folder is for my trainings in Ruander it containes the following exercises:*
 
