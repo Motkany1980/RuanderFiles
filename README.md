@@ -88,7 +88,7 @@ console.log("Start");
 ### 2021.10.14 Szövegformázás
 
 ### 2021.10.19. CSS
-<!-- Listák, Outline -->
+<!-- Listák, Outline --> 
 
 ### 2021.10.21. Táblázatok
 
