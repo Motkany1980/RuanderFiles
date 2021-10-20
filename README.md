@@ -3,19 +3,19 @@
 [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
 
 ### Hasznos linkek
-[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Programozás - Bootstrap honlap](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Programozás - Online Tutorials](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Programozás - W3schools](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Apache Netbeans](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Atom](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Brackets](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Node JS](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Notepad++](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Sublime Text](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html)
-[Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)
-[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)
+[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Programozás - Bootstrap honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Programozás - Online Tutorials](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Programozás - W3schools](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Apache Netbeans](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Atom](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Brackets](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Node JS](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Notepad++](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Sublime Text](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - Visual Studio Code](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[Szoftver - XAMPP](https://www.ruander.hu/webfejleszto-kepzes.html)/
+[VerzióKövetőRendszer - GitHub](https://www.ruander.hu/webfejleszto-kepzes.html)/
 
 ### 2021.09.21. - Ismerkedés
 
