@@ -182,7 +182,11 @@
 * [MichaelSchumacher_feladatsor](https://www.youtube.com/watch?v=g2giwRo0ut4&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=31)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [ Kémia](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/P55hXCjC)
+- [ ] F02 [mixedBorder(szorgalmi)](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/jxxHnIrJ)
+- [ ] F03 [balOldal](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/zwxXhYYJ)
+- [ ] F04 [Michael_Schumacher_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/G4IESDzb)
+- [ ] F05 [Michael_Schumacher_megoldas](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/S0wVGQ5L)
 
 #### Kódminták
 ```html
@@ -205,7 +209,9 @@
 * [MarvelDCListaCSS](https://www.youtube.com/watch?v=SL5hpQno7ho&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=38)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [Élőlények](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PohWECQT) 
+- [ ] F02 [Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/DwpmzQ6K) 
+- [ ] F03 [Marvel vs DC](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/XsxUzSjA) 
 
 #### Kódminták
 ```html
@@ -221,7 +227,7 @@
 * []()
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [Homoktovis_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ThgRVAbZ) 
 
 #### Kódminták
 ```html
