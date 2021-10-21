@@ -109,7 +109,7 @@
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
-```html
+| ```html
 <ul>
         <li>Állatok</li>
         <ol type="A">
@@ -142,7 +142,7 @@
             </ol>
         </ol>
     </ul>
-``` 
+``` | cdvdvf |
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 4
 ### 2021.09.30. - HTML alapok [Vissza](#0)
