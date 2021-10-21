@@ -1,6 +1,6 @@
-#RuanderFiles
+# RuanderFiles
 
-*Ruander Webfejlesztő képzéshez létrehozott Github repo :*
+* Ruander Webfejlesztő képzéshez létrehozott Github repo : *
 
 ### Oldalak
 - [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
