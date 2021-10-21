@@ -74,12 +74,13 @@
 
 #### Kódminták 
 ```html 
-<h1>Címsor</h1>                  <h2>Címsor</h2>              <i>Félkövér</i>             <u>Aláhúzott</u>
-<s>Áthúzás</s>                   <sub>Alsóindex</sub>         <sup>FelsőIndex</sup>       <strong>Erős(félkövér)</strong>
-<em>Kiemelt(dőlt)</em>           <address>Cím(Dőlt)</address> <var>Változó(dőlt)</var>    <ins>Beillesztett(aláhúzott)</ins>
-<strike>Áthúzás</strike>         <del>Törölt(áthúzott)</del>  <small>Kisebb</small>       <big>Nagyobb</big>
-<kbd>Billentyűzet bemenet</kbd>  <tt>Írógép betű</tt>         <samp>Kimeneti Minta</samp> <code>Számítógépes kód</code>
-<mark>Kiemelt</mark>
+<h1>Címsor</h1>                  <h2>Címsor</h2>              <i>Félkövér</i>             
+<s>Áthúzás</s>                   <sub>Alsóindex</sub>         <sup>FelsőIndex</sup>       
+<em>Kiemelt(dőlt)</em>           <address>Cím(Dőlt)</address> <var>Változó(dőlt)</var>    
+<strike>Áthúzás</strike>         <del>Törölt(áthúzott)</del>  <small>Kisebb</small>       
+<kbd>Billentyűzet bemenet</kbd>  <tt>Írógép betű</tt>         <samp>Kimeneti Minta</samp> 
+<code>Számítógépes kód</code>    <big>Nagyobb</big>           <ins>Beillesztett(aláhúzott)</ins>
+<mark>Kiemelt</mark>             <u>Aláhúzott</u>             <strong>Erős(félkövér)</strong>
 
 ```
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
