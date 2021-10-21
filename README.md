@@ -1,12 +1,12 @@
 # RuanderFiles
 
-* Ruander Webfejlesztő képzéshez létrehozott Github repo : *
+* Ruander Webfejlesztő képzéshez létrehozott Github repo : 
 
 ### Oldalak
-- [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
-- [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
-- [Youtube - Ruander #Team08](https://www.youtube.com/playlist?list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP)
-- [MEGA - Ruander #Team08](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg)
+* [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
+* [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
+* [Youtube - Ruander #Team08](https://www.youtube.com/playlist?list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP)
+* [MEGA - Ruander #Team08](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg)
 
 ### Hasznos linkek
 *[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
