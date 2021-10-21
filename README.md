@@ -111,7 +111,11 @@
 * [FelmeroFeladatsorMegoldas](https://www.youtube.com/watch?v=84U5Gu0dHeM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=18)
 
 #### Feladatok
-* []()
+- [ ] F01 [css_tulajdonsagai](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/eg4SVS6a)
+- [ ] F02 [Stackoverflow](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/qggC1QSC)
+- [ ] F03 [HTMLtagek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Pt5y1SbS)
+- [ ] F04 [szoftverfejleszto_vizsga](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/z8gQwIJT)
+- [ ] F05 [tanfolyam_regiszracio](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/i04y3YRY)
 
 #### Kódminták
 ```html
@@ -129,7 +133,7 @@
 * [CSSalapok01(Importalas,Hivatkozas,Background,Color,Szovegformazas)](https://www.youtube.com/watch?v=Q8DfMfpT2fU&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=20)
 
 #### Feladatok
-* []()
+- [ ] F01 []()
 
 #### Kódminták
 ```html
@@ -149,7 +153,7 @@
 * [BorderTulajdonsagai](https://www.youtube.com/watch?v=VKFfIbeILYo&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=24)
 
 #### Feladatok
-* []()
+- [ ] F01 []()
 
 #### Kódminták
 ```html
@@ -171,7 +175,7 @@
 * [MichaelSchumacher_feladatsor](https://www.youtube.com/watch?v=g2giwRo0ut4&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=31)
 
 #### Feladatok
-* []()
+- [ ] F01 []()
 
 #### Kódminták
 ```html
@@ -194,7 +198,7 @@
 * [MarvelDCListaCSS](https://www.youtube.com/watch?v=SL5hpQno7ho&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=38)
 
 #### Feladatok
-* []()
+- [ ] F01 []()
 
 #### Kódminták
 ```html
@@ -210,7 +214,7 @@
 * []()
 
 #### Feladatok
-* []()
+- [ ] F01 []()
 
 #### Kódminták
 ```html
@@ -227,7 +231,7 @@
 * []()
 
 #### Feladatok
-* []()
+- [ ] F01 []()
 
 #### Kódminták
 ```html
