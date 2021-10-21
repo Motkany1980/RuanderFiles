@@ -130,6 +130,7 @@ html type="i"
 ``` 
 ``` html
 <p>Ordered</p>
+```html
 <ul>
         <li>Állatok</li>
         <ol type="A">
