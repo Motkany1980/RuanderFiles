@@ -1,6 +1,7 @@
 body{
-    padding: 15px;
+    padding: 100px;
     background-image: url('src/hatter.png');
+    margin: 0px;
 }
 
 h1{
@@ -79,4 +80,15 @@ li{
 }
 .rendez{
     text-align: justify;
+    text-indent: 5px;
+}
+
+.bogyesz{
+    list-style-image: url("src/bogyo.png");
+    display: inline-block;
+}
+.termes{
+    display: inline-block;
+    width: 200px;
+    height: 400px;;
 }
