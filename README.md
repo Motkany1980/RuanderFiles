@@ -27,7 +27,7 @@
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 ### Tartalomjegyzés
-[2021.09.21.](2021.09.21. - Ismerkedés)
+[here](### 2021.09.21. - Ismerkedés)
 
 ### 2021.09.21. - Ismerkedés
 ### 2021.09.23. - Szövegformázás
