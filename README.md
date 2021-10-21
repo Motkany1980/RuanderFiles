@@ -111,20 +111,20 @@
 #### Kódminták
 ```html 
 type="A" 
-``` Nagybetűs
+``` 
 ```html 
 type="a" 
-``` Kisbetűs
+``` 
 ```html 
 type="1" 
-``` Számozott
+``` 
 ```
 html type="I" 
-``` Római kicsi
+``` 
 ```
 html type="i" 
-``` Római bagy
-
+``` 
+``` html
 <ul>
         <li>Állatok</li>
         <ol type="A">
@@ -157,7 +157,7 @@ html type="i"
             </ol>
         </ol>
     </ul>
-
+```
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 4
 ### 2021.09.30. - HTML alapok [Vissza](#0)
