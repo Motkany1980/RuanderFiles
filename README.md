@@ -85,6 +85,13 @@
 #### Hasznos linkek:
 [W3Schools HTML](https://www.w3schools.com/html/default.asp)
 
+#### Videók:
+* [HTMLheadTagElemei](https://www.youtube.com/watch?v=JdOObF7O-jE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=14)
+* [HTMLFormElemek](https://www.youtube.com/watch?v=PCKJTXWjlE8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=14)
+* [BejelentkezesFeladat](https://www.youtube.com/watch?v=8UKblkcJomA&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=15)
+* [RegisztracioFeladat](https://www.youtube.com/watch?v=RYBUJbogiPI&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=16)
+* [YoutubeUrlapFeladat](https://www.youtube.com/watch?v=oK2KlI-sa48&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=17)
+
 #### Feladatok
 - [ ] F01 [Bejelentkezés](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/O0hklZTB)
 - [ ] F02 [Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/KphC0DbA)
@@ -98,16 +105,96 @@
 ```
 ### 2021.10.05. Ritkább HTML elemek
 
+#### Hasznos linkek:
+
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
+
 ### 2021.10.07. CSS alapok
+#### Hasznos linkek:
 
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
 ### 2021.10.12. CSS alapok
+#### Hasznos linkek:
 
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
 ### 2021.10.14 Szövegformázás
+#### Hasznos linkek:
 
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
 ### 2021.10.19. CSS
 <!-- Listák, Outline --> 
+#### Hasznos linkek:
 
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
 ### 2021.10.21. Táblázatok
+#### Hasznos linkek:
 
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
 ### 2021.10.26 Linkek
 <!-- Pseudo classok és elemek-->
+#### Hasznos linkek:
+
+#### Videók:
+
+#### Feladatok
+
+#### Kódminták
+```html
+<ol>
+    <li></li>
+<\ol>
+``` 
