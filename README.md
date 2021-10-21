@@ -4,7 +4,7 @@
 
 ### Oldalak
 * [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
-* [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
+* <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keszericze istván" height="30" width="40" /> [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
 * [Youtube - Ruander #Team08](https://www.youtube.com/playlist?list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP)
 * [MEGA - Ruander #Team08](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg)
 
