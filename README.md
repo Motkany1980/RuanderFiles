@@ -133,7 +133,10 @@
 * [CSSalapok01(Importalas,Hivatkozas,Background,Color,Szovegformazas)](https://www.youtube.com/watch?v=Q8DfMfpT2fU&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=20)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [naprendszer](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/745EjS6T)
+- [ ] F02 [frames](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/vp4GxYIB)
+- [ ] F03 [form_patter](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/H8giUKTQ)
+- [ ] F04 [BubosBanka_forrás](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/aoByXD7Z)
 
 #### Kódminták
 ```html
@@ -153,7 +156,11 @@
 * [BorderTulajdonsagai](https://www.youtube.com/watch?v=VKFfIbeILYo&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=24)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [BubosBanka_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/S9o1AKJI)
+- [ ] F02 [BubosBanka_megoldas](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Two3DSxA)
+- [ ] F03 [Szövegformázás - Akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D1xnnK5S)
+- [ ] F04 [HTML történet](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/m54DkQjZ)
+- [ ] F05 [Kémia(szorgalmi)](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/rs5XxAya)
 
 #### Kódminták
 ```html
