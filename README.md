@@ -3,10 +3,10 @@
 * Ruander Webfejlesztő képzéshez létrehozott Github repo : 
 
 ### Oldalak
-* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/Ruander.svg" alt="keszericze istván" height="30" width="40" /> [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
-* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/facebook.svg" alt="keszericze istván" height="30" width="40" /> [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
-* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/youtube.svg" alt="keszericze istván" height="30" width="40" /> [Youtube - Ruander #Team08](https://www.youtube.com/playlist?list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP)
-* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/Mega.svg" alt="keszericze istván" height="30" width="40" /> [MEGA - Ruander #Team08](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/Ruander.svg" alt="keszericze istván" height="30" width="40" height="40" /> [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/facebook.svg" alt="keszericze istván" height="30" width="40"  height="40/> [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/youtube.svg" alt="keszericze istván" height="30" width="40"  height="40/> [Youtube - Ruander #Team08](https://www.youtube.com/playlist?list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/Mega.svg" alt="keszericze istván" height="30" width="40"  height="40/> [MEGA - Ruander #Team08](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg)
 
 ### Hasznos linkek
 *[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
