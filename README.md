@@ -113,6 +113,7 @@
 
 #### Kódminták
 <p>Lista</p>
+
 ```html 
 type="A" 
 ``` 
@@ -128,6 +129,7 @@ html type="I"
 ```
 html type="i" 
 ``` 
+
 <p>Ordered</p>
 ```html
 <ul>
