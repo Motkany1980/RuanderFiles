@@ -35,6 +35,9 @@
 - [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
 
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+
 #### Videók:
 * [KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1) 
 * [AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s) 
@@ -74,6 +77,9 @@
 - [ ] F04 [Táblázat - HTML Infó](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PpxVDaBb)
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
 
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+
 #### Kódminták
 ```html
 <ol>
@@ -97,6 +103,9 @@
 - [ ] F02 [Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/KphC0DbA)
 - [ ] F03 [Youtube Csatorna Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/yooETJCb)
 
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+
 #### Kódminták
 ```html
 <ol>
@@ -116,6 +125,9 @@
 - [ ] F03 [HTMLtagek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Pt5y1SbS)
 - [ ] F04 [szoftverfejleszto_vizsga](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/z8gQwIJT)
 - [ ] F05 [tanfolyam_regiszracio](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/i04y3YRY)
+
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
 ```html
@@ -137,6 +149,9 @@
 - [ ] F02 [frames](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/vp4GxYIB)
 - [ ] F03 [form_patter](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/H8giUKTQ)
 - [ ] F04 [BubosBanka_forrás](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/aoByXD7Z)
+
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
 ```html
@@ -161,6 +176,9 @@
 - [ ] F03 [Szövegformázás - Akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D1xnnK5S)
 - [ ] F04 [HTML történet](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/m54DkQjZ)
 - [ ] F05 [Kémia(szorgalmi)](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/rs5XxAya)
+
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
 ```html
@@ -188,6 +206,9 @@
 - [ ] F04 [Michael_Schumacher_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/G4IESDzb)
 - [ ] F05 [Michael_Schumacher_megoldas](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/S0wVGQ5L)
 
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+
 #### Kódminták
 ```html
 <ol>
@@ -213,6 +234,9 @@
 - [ ] F02 [Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/DwpmzQ6K) 
 - [ ] F03 [Marvel vs DC](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/XsxUzSjA) 
 
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+
 #### Kódminták
 ```html
 <ol>
@@ -228,6 +252,9 @@
 
 #### Feladatok
 - [ ] F01 [Homoktovis_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ThgRVAbZ) 
+
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
 ```html
@@ -245,6 +272,9 @@
 
 #### Feladatok
 - [ ] F01 []()
+
+#### VS Code
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
 ```html
