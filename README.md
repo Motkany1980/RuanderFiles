@@ -1,8 +1,12 @@
 # RuanderFiles
 
-*Ruander Webfejlesztő képzéshez létrehozott Github repo :*
+* Ruander Webfejlesztő képzéshez létrehozott Github repo : 
 
-[Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
+### Oldalak
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/Ruander.svg" alt="keszericze istván" height="30" width="40" height="40" /> [Ruander webfejlesztő](https://www.ruander.hu/webfejleszto-kepzes.html)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/facebook.svg" alt="keszericze istván" height="30" width="40"  height="40"/> [Facebook - Ruander #Team08 -Junior FrontEnd](https://www.facebook.com/groups/1038541520293572)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/youtube.svg" alt="keszericze istván" height="30" width="40"  height="40"/> [Youtube - Ruander #Team08](https://www.youtube.com/playlist?list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP)
+* <img align="center" src="https://github.com/Motkany1980/RuanderFiles/blob/master/Mega.svg" alt="keszericze istván" height="30" width="40"  height="40"/> [MEGA - Ruander #Team08](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg)
 
 ### Hasznos linkek
 *[Angular Honlap](https://www.ruander.hu/webfejleszto-kepzes.html)/
@@ -23,7 +27,6 @@
 <!-- [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21) -->
 
 ### 2021.09.21. - Ismerkedés
-
 ### 2021.09.23. - Szövegformázás
 #### Feladatok
 - [ ] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI)
@@ -32,15 +35,21 @@
 - [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
 
 #### Videók:
-- [KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1) 
-- [AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s) 
-- [HTMLtörtenetFeladat](https://www.youtube.com/watch?v=0D2biS86roE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=3) 
-- [RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s) 
-- [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5) 
+* [KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1) 
+* [AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s) 
+* [HTMLtörtenetFeladat](https://www.youtube.com/watch?v=0D2biS86roE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=3) 
+* [RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s) 
+* [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5) 
 
 #### Kódminták
-```Javascript
-console.log("Start");
+```html 
+<h1>Címsor</h1>                  <h2>Címsor</h2>              <i>Félkövér</i>             <u>Aláhúzott</u>
+<s>Áthúzás</s>                   <sub>Alsóindex</sub>         <sup>FelsőIndex</sup>       <strong>Erős(félkövér)</strong>
+<em>Kiemelt(dőlt)</em>           <address>Cím(Dőlt)</address> <var>Változó(dőlt)</var>    <ins>Beillesztett(aláhúzott)</ins>
+<strike>Áthúzás</strike>         <del>Törölt(áthúzott)</del>  <small>Kisebb</small>       <big>Nagyobb</big>
+<kbd>Billentyűzet bemenet</kbd>  <tt>Írógép betű</tt>         <samp>Kimeneti Minta</samp> <code>Számítógépes kód</code>
+<mark>Kiemelt</mark>
+
 ```
 
 ### 2021.09.28. - HTML alapok
@@ -78,7 +87,6 @@ console.log("Start");
     <li></li>
 <\ol>
 ```
-
 ### 2021.10.05. Ritkább HTML elemek
 
 ### 2021.10.07. CSS alapok
@@ -88,7 +96,7 @@ console.log("Start");
 ### 2021.10.14 Szövegformázás
 
 ### 2021.10.19. CSS
-<!-- Listák, Outline -->
+<!-- Listák, Outline --> 
 
 ### 2021.10.21. Táblázatok
 
