@@ -42,7 +42,7 @@
 * [RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s) 
 * [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5) 
 
-#### Kódminták
+#### Kódminták 
 ```html 
 <h1>Címsor</h1>                  <h2>Címsor</h2>              <i>Félkövér</i>             <u>Aláhúzott</u>
 <s>Áthúzás</s>                   <sub>Alsóindex</sub>         <sup>FelsőIndex</sup>       <strong>Erős(félkövér)</strong>
@@ -56,7 +56,6 @@
 ### 2021.09.28. - HTML alapok
 
 #### Hasznos linkek:
-[W3Schools HTML](https://www.w3schools.com/html/default.asp)
 
 <!-- Listák táblázatok -->
 #### Feladatok
