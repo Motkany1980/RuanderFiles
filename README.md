@@ -1,4 +1,6 @@
 # RuanderFiles
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Motkany1980&" alt="Motkany1980" /></p>
+<a href="https://www.ruander.hu/multimedia-tanfolyam.html?gclid=CjwKCAjwn8SLBhAyEiwAHNTJbaKBbup6r_i_88vVXPYAFd6Jecdxhyh6QPEVxyo9vEVaLqxW7w-EbRoCsU0QAvD_BwE"><img src="https://i.ytimg.com/vi/6vrkdw32WHs/maxresdefault.jpg" width= "500px"/></a>
 
 *Ruander Webfejlesztő képzéshez létrehozott Github repo :*
 
