@@ -110,9 +110,38 @@
 
 #### Kódminták
 ```html
-<ol>
-    <li></li>
-<\ol>
+<ul>
+        <li>Állatok</li>
+        <ol type="A">
+            <li>Elefánt</li>
+            <ol type="a">
+                <li>Afrikai</li>
+            </ol>
+            <li>Farkas</li>
+            <ol type="a">
+                <li>Szürke farkas</li>
+            </ol>
+            <li>Disznó</li>
+            <ol type="a">
+                <li>Szavannai varacskosdisznó</li>
+            </ol>
+        </ol>
+        <li>Növények</li>
+        <ol type="1">
+            <li>Mohák</li>
+        </ol>
+        <li>Gombák</li>
+        <ol type="I">
+            <li>Mérgező</li>
+            <ol type="i">
+                <li>Gyilkos galóca</li>
+            </ol>
+            <li>NEM Mérgező</li>
+            <ol type="i">
+                <li>Csiperke</li>
+            </ol>
+        </ol>
+    </ul>
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 4
