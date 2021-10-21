@@ -108,8 +108,10 @@
 #### Hasznos linkek:
 
 #### Videók:
+* [FelmeroFeladatsorMegoldas](https://www.youtube.com/watch?v=84U5Gu0dHeM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=18)
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
@@ -120,10 +122,14 @@
 
 ### 2021.10.07. CSS alapok
 #### Hasznos linkek:
+* []()
 
 #### Videók:
+* [RitkábbHTMLelemek](https://www.youtube.com/watch?v=m_qpLYFqZ5M&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=19)
+* [CSSalapok01(Importalas,Hivatkozas,Background,Color,Szovegformazas)](https://www.youtube.com/watch?v=Q8DfMfpT2fU&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=20)
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
@@ -133,10 +139,17 @@
 ``` 
 ### 2021.10.12. CSS alapok
 #### Hasznos linkek:
+* []()
+* []()
 
 #### Videók:
+* [Bubosbanka_feladatsor](https://www.youtube.com/watch?v=zsVv7rJlIJk&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=21)
+* [AkcioCSS](https://www.youtube.com/watch?v=mcTA8bS0B5I&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=22)
+* [HTMLtortenetCSS](https://www.youtube.com/watch?v=VJ1-gaNLK7w&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=23)
+* [BorderTulajdonsagai](https://www.youtube.com/watch?v=VKFfIbeILYo&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=24)
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
@@ -146,10 +159,19 @@
 ``` 
 ### 2021.10.14 Szövegformázás
 #### Hasznos linkek:
+* []()
 
 #### Videók:
+* [KemiaCSS](https://www.youtube.com/watch?v=ZGpfRmfQwIw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=25)
+* [Padding](https://www.youtube.com/watch?v=do9sL601zBM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=26)
+* [Margin](https://www.youtube.com/watch?v=2we0pD8OPQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=27)
+* [Width&Height](https://www.youtube.com/watch?v=W7MNKE-YeNI&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=28)
+* [BoxModell](https://www.youtube.com/watch?v=1itZNFaMG1c&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=29)
+* [BalOldalFeladat](https://www.youtube.com/watch?v=-NOU9Wk1dfU&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=30)
+* [MichaelSchumacher_feladatsor](https://www.youtube.com/watch?v=g2giwRo0ut4&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=31)
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
@@ -160,10 +182,19 @@
 ### 2021.10.19. CSS
 <!-- Listák, Outline --> 
 #### Hasznos linkek:
+* []()
 
 #### Videók:
+* [Outline]https://www.youtube.com/watch?v=u5V8JIlXflE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=32)
+* [Lista](https://www.youtube.com/watch?v=8QNIebdWFgI&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=33)
+* [OutlineÉsListaMintafile](https://www.youtube.com/watch?v=m0gv-Hhp2uQ&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=34)
+* [OutlineÉsListaW3Schools](https://www.youtube.com/watch?v=CMP_J7Y5kC8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=35)
+* [ElolenyekListaCSS](https://www.youtube.com/watch?v=BAWU8h31p0U&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=36)
+* [EtelekListaCSS](https://www.youtube.com/watch?v=WvkG1SX3CzE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=37)
+* [MarvelDCListaCSS](https://www.youtube.com/watch?v=SL5hpQno7ho&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=38)
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
@@ -173,10 +204,13 @@
 ``` 
 ### 2021.10.21. Táblázatok
 #### Hasznos linkek:
+* []()
 
 #### Videók:
+* []()
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
@@ -187,10 +221,13 @@
 ### 2021.10.26 Linkek
 <!-- Pseudo classok és elemek-->
 #### Hasznos linkek:
+* []()
 
 #### Videók:
+* []()
 
 #### Feladatok
+* []()
 
 #### Kódminták
 ```html
