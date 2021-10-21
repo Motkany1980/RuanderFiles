@@ -131,6 +131,7 @@ html type="i"
 ``` 
 
 <p>Ordered</p>
+
 ```html
 <ul>
         <li>Állatok</li>
@@ -165,7 +166,9 @@ html type="i"
         </ol>
     </ul>
 ```
+
 <p>Undered</p>
+
 ```html
 <ul>
   <li>Coffee</li>
@@ -173,7 +176,9 @@ html type="i"
   <li>Milk</li>
 </ul>
 ```
+
 <p>Description</p>
+
 ```html
 <dl>
   <dt>Coffee</dt>
