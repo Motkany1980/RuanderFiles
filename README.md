@@ -109,11 +109,21 @@
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
-```html type="A" ``` 
-```html type="a" ``` 
-```html type="1" ``` 
-```html type="I" ``` 
-```html type="i" ``` 
+```html 
+type="A" 
+``` 
+```html 
+type="a" 
+``` 
+```html 
+type="1" 
+``` 
+```
+html type="I" 
+``` 
+```
+html type="i" 
+``` 
 ``` html
 <ul>
         <li>Állatok</li>
