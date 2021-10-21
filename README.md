@@ -87,6 +87,9 @@
 ### 2021.09.28. - HTML alapok [Vissza](#0)
 
 #### Hasznos linkek:
+[W3School Lists](https://www.w3schools.com/html/html_lists.asp)
+[W3School Table](https://www.w3schools.com/html/html_tables.asp)
+
 
 #### Videók:
 * [HTMLListaElmelet](https://www.youtube.com/watch?v=NagoYmdsX-k&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=6)
@@ -109,6 +112,7 @@
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
+<p>Lista</p>
 ```html 
 type="A" 
 ``` 
@@ -125,6 +129,7 @@ html type="I"
 html type="i" 
 ``` 
 ``` html
+<p>Ordered</p>
 <ul>
         <li>Állatok</li>
         <ol type="A">
@@ -158,6 +163,25 @@ html type="i"
         </ol>
     </ul>
 ```
+<p>Undered</p>
+```html
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+```
+<p>Description</p>
+```html
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+```
+<p>Tábla</p>
+
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 4
 ### 2021.09.30. - HTML alapok [Vissza](#0)
