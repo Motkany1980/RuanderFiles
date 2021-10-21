@@ -57,6 +57,15 @@
 
 #### Hasznos linkek:
 
+#### Videók:
+* [HTMLListaElmelet](https://www.youtube.com/watch?v=NagoYmdsX-k&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=6)
+* [EtelekFeldat](https://www.youtube.com/watch?v=R07uhkKC1_0&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=7)
+* [ElolenyekFeladat](https://www.youtube.com/watch?v=-e90Pq2JboY&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=8)
+* [MarvelDcFeladat](https://www.youtube.com/watch?v=Fvog3Y4InTc&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=9)
+* [HTMLTablazatElmelet](https://www.youtube.com/watch?v=pz6CrBfJVgs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=10)
+* [HTMLInfoFeladat](https://www.youtube.com/watch?v=R1PjGPz4utk&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=11)
+* [ProgramozasInfoFeladat](https://www.youtube.com/watch?v=hkMovoWXuCs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=12)
+
 <!-- Listák táblázatok -->
 #### Feladatok
 - [ ] F01 [Lista többszintű - Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Tt4zgYBS)
