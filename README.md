@@ -111,19 +111,19 @@
 #### Kódminták
 ```html 
 type="A" 
-``` 
+``` Nagybetűs
 ```html 
 type="a" 
-``` 
+``` Kisbetűs
 ```html 
 type="1" 
-``` 
+``` Számozott
 ```
 html type="I" 
-``` 
+``` Római kicsi
 ```
 html type="i" 
-``` 
+``` Római bagy
 
 <ul>
         <li>Állatok</li>
