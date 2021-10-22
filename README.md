@@ -237,7 +237,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </tr>
 </table>
 
-<p>Undered</p>
+<p>Unordered</p>
 <table>
 <tr>
 <td>
