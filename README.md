@@ -114,7 +114,6 @@
     banán <s>220 Ft</s> 220-(220*0,15) helyett <b>187 Ft</b><br>
     <mark>további ajánlataink: datolya, ananász<br>
     kókuszdió, kiwi, naspolya.</mark><br>
-    
     <h1>Jó étvágyat kíván a <sup>P</sup>K<sup>P</sup> <i>zöldségbolt.</i></h1>
 </td>
 </tr>
