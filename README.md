@@ -119,6 +119,7 @@
 <p>Lista</p>
 
 ```html 
+<!-- Lista típusok beállítása :-->
 type="A" <!-- nagybetűs --> type="a" <!-- kisbetűs --> type="1"<!-- számozott --> 
 type="I" <!-- római --> type="i" <!-- kis római --> 
 ``` 
