@@ -125,7 +125,9 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 ``` 
 
 <p>Ordered</p>
-
+<table>
+<td>
+<tr>
 ```html
 <!-- Példa feladat -->
 <ul>
@@ -161,6 +163,43 @@ type="I" <!-- római --> type="i" <!-- kis római -->
         </ol>
     </ul>
 ```
+</tr>
+<tr>
+<ul>
+        <li>Állatok</li>
+        <ol type="A">
+            <li>Elefánt</li>
+            <ol type="a">
+                <li>Afrikai</li>
+            </ol>
+            <li>Farkas</li>
+            <ol type="a">
+                <li>Szürke farkas</li>
+            </ol>
+            <li>Disznó</li>
+            <ol type="a">
+                <li>Szavannai varacskosdisznó</li>
+            </ol>
+        </ol>
+        <li>Növények</li>
+        <ol type="1">
+            <li>Mohák</li>
+        </ol>
+        <li>Gombák</li>
+        <ol type="I">
+            <li>Mérgező</li>
+            <ol type="i">
+                <li>Gyilkos galóca</li>
+            </ol>
+            <li>NEM Mérgező</li>
+            <ol type="i">
+                <li>Csiperke</li>
+            </ol>
+        </ol>
+    </ul>
+</tr>
+</td>
+</table>
 
 <p>Undered</p>
 
