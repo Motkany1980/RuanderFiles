@@ -124,20 +124,16 @@ type="a"
 ```html 
 type="1" 
 ``` 
-```
-html 
+```html 
 type="I" 
 ``` 
-```
-html 
+```html 
 type="i" 
 ``` 
-```
-html 
+```html 
 <font color="red"></font> 
 ```
-```
-html 
+```html 
 <font size="5"></font>
 ```  
 
