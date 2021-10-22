@@ -362,8 +362,14 @@ html type="i"
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 10
 ### 2021.10.21. Táblázatok [Vissza](#0)
+
+### Megjegyzés:
+W3School-ban a display/position/float feladatok a házi.
+
 #### Hasznos linkek:
-* []()
+* [CSS position Property](https://www.w3schools.com/cssref/pr_class_position.asp)
+* [CSS display Property](https://www.w3schools.com/cssref/pr_class_display.asp)
+* [CSS float Property](https://www.w3schools.com/cssref/pr_class_float.asp)
 
 #### Videók:
 * [Homoktovis_feladatsor](https://www.youtube.com/watch?v=hlROuL2zFrA&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=40)
