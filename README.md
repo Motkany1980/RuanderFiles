@@ -123,12 +123,11 @@
 type="A" <!-- nagybetűs --> type="a" <!-- kisbetűs --> type="1"<!-- számozott --> 
 type="I" <!-- római --> type="i" <!-- kis római --> 
 ``` 
-```html 
-
 
 <p>Ordered</p>
 
 ```html
+<!-- Példa feladat -->
 <ul>
         <li>Állatok</li>
         <ol type="A">
