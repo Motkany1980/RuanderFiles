@@ -125,11 +125,21 @@ type="a"
 type="1" 
 ``` 
 ```
-html type="I" 
+html 
+type="I" 
 ``` 
 ```
-html type="i" 
+html 
+type="i" 
 ``` 
+```
+html 
+<font color="red"></font> 
+```
+```
+html 
+<font size="5"></font>
+```  
 
 <p>Ordered</p>
 
