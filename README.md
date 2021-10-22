@@ -108,7 +108,8 @@
     <mark>további ajánlataink: datolya, ananász<br>
     kókuszdió, kiwi, naspolya.</mark><br>
     
-    <h1>Jó étvágyat kíván a <sup>P</sup>K<sup>P</sup> <i>zöldségbolt.</i></h1>
+    <h1>Jó étvágyat kíván a <sup>P</sup>K<sup>P</sup>
+     <i>zöldségbolt.</i></h1>
 ```
 
 </td>
