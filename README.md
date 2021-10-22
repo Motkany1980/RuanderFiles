@@ -149,7 +149,7 @@
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
-<p>Lista</p>
+#### Lista
 
 ```html 
 <!-- Lista típusok beállítása :-->
@@ -157,7 +157,7 @@ type="A" <!-- nagybetűs --> type="a" <!-- kisbetűs --> type="1"<!-- számozott
 type="I" <!-- római --> type="i" <!-- kis római --> 
 ``` 
 
-<p>Ordered</p>
+#### Ordered
 <table>
 <tr>
 <td>
@@ -236,7 +236,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </tr>
 </table>
 
-<p>Unordered</p>
+#### Unordered
 <table>
 <tr>
 <td>
@@ -260,7 +260,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </tr>
 </table>
 
-<p>Description</p>
+#### Description
 
 <table>
 <tr>
@@ -287,7 +287,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <tr>
 </table>
 
-<p>Tábla</p>
+#### Tábla
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 4
