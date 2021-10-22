@@ -87,9 +87,9 @@
 <font color="red"></font> <font size="5"></font>
 ```
 
-<table >
+<table style="width:100%">
 <tr>
-<td style="width:20px">
+<td style="width:50%">
 
 ```html
   <font size="5"><i><u>Vásároljon rendkívüli akciós termékeinkből!</u></i></font><br>
@@ -105,7 +105,7 @@
 ```
 
 </td>
-<td style="width:20px">
+<td style="width:50%">
   <font size="5"><i><u>Vásároljon rendkívüli akciós termékeinkből!</u></i></font><br>
     Az <b>áraink</b> <font color="red"> napi árak!</font> Kívánságára <u>nagyobb</u> mennyiségre<br>
     rendelést is felveszünk, helyben ingyenes házhozszállítás.<br>
