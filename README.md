@@ -1,5 +1,5 @@
 # RuanderFiles
-# teszt
+
 * Ruander Webfejlesztő képzéshez létrehozott Github repo : 
 
 ### Oldalak
@@ -366,10 +366,13 @@ html type="i"
 * []()
 
 #### Videók:
-* []()
+* [Homoktovis_feladatsor](https://www.youtube.com/watch?v=hlROuL2zFrA&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=40)
+* [TáblázatokCssFormázása(PPT)](https://www.youtube.com/watch?v=DThOPCme754&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=40)
+* [CssPozícionálás(PPT)](https://www.youtube.com/watch?v=nEbkPLHtxDs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=41)
+* [CssPozicionlálás(W3)+Float&Display](https://www.youtube.com/watch?v=RL6iCnuAoDA&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=42)
 
 #### Feladatok
-- [ ] F01 [Homoktovis_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ThgRVAbZ) 
+- [ ] F01 [Homoktovis_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ThgRVAbZ) - [Megoldás](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/vxggzK6b) 
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)

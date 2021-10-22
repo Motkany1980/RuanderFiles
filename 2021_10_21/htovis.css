@@ -1,30 +1,31 @@
 body{
-    padding: 100px;
-    background-image: url('src/hatter.png');
-    margin: 0px;
-}
-
-h1{
+    padding: 15px;
+    background-image: url("src/hatter.png");
+  }
+  
+  h1{
     text-align:center;
     font-size: 222%;
     margin: 0px 0px 10px;
-    color: #eb7100;
-}
-
-
-p{
+  }
+  h1,h2{
+    color:#eb7100;
+    text-transform: uppercase;
+  }
+  
+  p{
     text-align:justify;
-}
-
-p:first-letter{
+  }
+  
+  p:first-letter{
     margin-left: 25px;
-}
-
-.f{
+  }
+  
+  .f{
     font-weight:bold;
-}
-
-.keret{
+  }
+  
+  .keret{
     margin: 10px auto;
     text-align: center;
     padding: 10px;
@@ -32,9 +33,9 @@ p:first-letter{
     font-size: 75%;
     background-color: #f1f1f1;
     box-shadow: 10px 10px 5px #cfb7a2;
-}
-
-#erdekesseg{
+  }
+  
+  #erdekesseg{
     width:250px;
     float:right;
     margin: 0px 0px 20px 15px;
@@ -42,53 +43,28 @@ p:first-letter{
     -ms-transform: rotate(5deg);
     -webkit-transform: rotate(5deg);
     transform: rotate(5deg)
-}
-
-#bokor{
+  }
+  
+  #bokor{
     width: 550px;
     border: 5px solid #eb7100;
-}
-
-#termes{
+  }
+  
+  #termes{
     float:left;
     height:400px;
     margin-right: 25px;
-}
-ul{
-    /* list-style-image: url('src/termes.png'); */
-}
-
-li{
+  }
+  
+  li{
     margin: 3px 0px;
     font-style: italic;
-}
-
-.blokktores{
-    clear: both;
-}
-.nagyBetus {
-    text-transform: uppercase;
-    color: #eb7100;
-    text-align: justify;
-    text-indent: 5px;
-}
-#azonositokijelolo{
-    width: 600px;
-}
-#bevezeto{
-    width: 70%;
-}
-.rendez{
-    text-align: justify;
-    text-indent: 5px;
-}
-
-.bogyesz{
     list-style-image: url("src/bogyo.png");
-    display: inline-block;
-}
-.termes{
-    display: inline-block;
-    width: 200px;
-    height: 400px;;
-}
+  }
+  
+  .blokktores{
+    clear: both;
+  }
+  #bevezeto{
+    width:600px;
+  }
