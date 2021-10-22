@@ -83,6 +83,12 @@
 <mark>Kiemelt</mark>             <u>Aláhúzott</u>             <strong>Erős(félkövér)</strong>
 
 ```
+```html 
+<font color="red"></font> 
+```
+```html 
+<font size="5"></font>
+```  
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 3
 ### 2021.09.28. - HTML alapok [Vissza](#0)
@@ -130,12 +136,7 @@ type="I"
 ```html 
 type="i" 
 ``` 
-```html 
-<font color="red"></font> 
-```
-```html 
-<font size="5"></font>
-```  
+
 
 <p>Ordered</p>
 
