@@ -119,20 +119,10 @@
 <p>Lista</p>
 
 ```html 
-type="A" 
+type="A" <!-- nagybetűs --> type="a" <!-- kisbetűs --> type="1"<!-- számozott --> 
+type="I" <!-- római --> type="i" <!-- kis római --> 
 ``` 
 ```html 
-type="a" 
-``` 
-```html 
-type="1" 
-``` 
-```html 
-type="I" 
-``` 
-```html 
-type="i" 
-``` 
 
 
 <p>Ordered</p>
