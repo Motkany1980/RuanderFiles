@@ -87,9 +87,9 @@
 <font color="red"></font> <font size="5"></font>
 ```
 
-<table style="width:100%">
+<table>
 <tr>
-<td style="width:50%">
+<td>
 
 ```html
   <font size="5"><i><u>Vásároljon rendkívüli akciós termékeinkből!</u></i></font><br>
@@ -105,7 +105,7 @@
 ```
 
 </td>
-<td style="width:50%">
+<td>
   <font size="5"><i><u>Vásároljon rendkívüli akciós termékeinkből!</u></i></font><br>
     Az <b>áraink</b> <font color="red"> napi árak!</font> Kívánságára <u>nagyobb</u> mennyiségre<br>
     rendelést is felveszünk, helyben ingyenes házhozszállítás.<br>
@@ -114,6 +114,7 @@
     banán <s>220 Ft</s> 220-(220*0,15) helyett <b>187 Ft</b><br>
     <mark>további ajánlataink: datolya, ananász<br>
     kókuszdió, kiwi, naspolya.</mark><br>
+    
     <h1>Jó étvágyat kíván a <sup>P</sup>K<sup>P</sup> <i>zöldségbolt.</i></h1>
 </td>
 </tr>
