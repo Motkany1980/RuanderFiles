@@ -126,8 +126,9 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 <p>Ordered</p>
 <table>
-<td>
 <tr>
+<td>
+
 ```html
 <!-- Példa feladat -->
 <ul>
@@ -163,8 +164,9 @@ type="I" <!-- római --> type="i" <!-- kis római -->
         </ol>
     </ul>
 ```
-</tr>
-<tr>
+
+</td>
+<td>
 <ul>
         <li>Állatok</li>
         <ol type="A">
@@ -197,8 +199,8 @@ type="I" <!-- római --> type="i" <!-- kis római -->
             </ol>
         </ol>
     </ul>
-</tr>
 </td>
+</tr>
 </table>
 
 <p>Undered</p>
