@@ -240,6 +240,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <p>Undered</p>
 <table>
 <tr>
+<td>
 
 ```html
 <ul>
@@ -249,13 +250,14 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </ul>
 ```
 
-</tr>
-<tr>
+</td>
+<td>
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
+</td>
 </tr>
 </table>
 
