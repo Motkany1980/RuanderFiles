@@ -263,6 +263,10 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 <p>Description</p>
 
+<table>
+<tr>
+<td>
+
 ```html
 <dl>
   <dt>Coffee</dt>
@@ -271,6 +275,18 @@ type="I" <!-- római --> type="i" <!-- kis római -->
   <dd>- white cold drink</dd>
 </dl>
 ```
+
+</td>
+<td>
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+</td>
+<tr>
+</table>
 
 <p>Tábla</p>
 
