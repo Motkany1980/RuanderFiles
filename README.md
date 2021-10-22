@@ -94,12 +94,17 @@
 ```html
   <font size="5"><i><u>Vásároljon rendkívüli 
       akciós termékeinkből!</u></i></font><br>
-    Az <b>áraink</b> <font color="red"> napi árak!</font>
+    Az <b>áraink</b> <font color="red"> napi 
+        árak!</font>
      Kívánságára <u>nagyobb</u> mennyiségre<br>
-    rendelést is felveszünk, helyben ingyenes házhozszállítás.<br>
-    alma <s>110 Ft</s> 110-(110*0,2) helyett <b>88 Ft</b><br>
-    körte <s>240 Ft</s> 240-(240*0,3) helyett <b>168 Ft</b><br>
-    banán <s>220 Ft</s> 220-(220*0,15) helyett <b>187 Ft</b><br>
+    rendelést is felveszünk, helyben ingyenes
+     házhozszállítás.<br>
+    alma <s>110 Ft</s> 110-(110*0,2) helyett <b>
+        88 Ft</b><br>
+    körte <s>240 Ft</s> 240-(240*0,3) helyett <b>
+        168 Ft</b><br>
+    banán <s>220 Ft</s> 220-(220*0,15) helyett <b>
+        187 Ft</b><br>
     <mark>további ajánlataink: datolya, ananász<br>
     kókuszdió, kiwi, naspolya.</mark><br>
     
