@@ -397,8 +397,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </tr>
 <tr>
 <td>sor2/oszlop1</td>
-<td>sor2/oszlop2</td>
-<td>sor2/oszlop3</td>
+<td colspan="2">sor2/oszlop2</td>
 </tr>
 <tr>
 <td>sor3/oszlop1</td>
