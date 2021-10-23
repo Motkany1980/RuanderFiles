@@ -441,6 +441,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 <table>
 <tr>
+
 <td>
 
 ```html
@@ -479,6 +480,7 @@ body {font-family: Times, serif;}
 
 </td>
 <td>
+
 <b>Bevezetés a stíluslapok használatába</b><br>
 <b>Stíluslap csatolási módok</b><br>
 <ul>
@@ -488,6 +490,7 @@ body {font-family: Times, serif;}
 <li>Stíluslap beimportálása</li>
 <li>A @media szabály használata</li>
 <td/>
+
 </tr>
 </table>
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
