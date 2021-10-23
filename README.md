@@ -296,6 +296,44 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </table>
 
 #### Tábla
+<table>
+<tr>
+<td>
+
+```html
+<table>
+<tr>
+<th>Head</th>
+</tr>
+<tr>
+<td>sor1/oszlop1</td>
+<td>sor1/oszlop2</td>
+</tr>
+<tr>
+<td>sor2/oszlop1</td>
+<td>sor2/oszlop2</td>
+</tr>
+</table>
+```
+
+</td>
+<td>
+<table>
+<tr>
+<th>Head</th>
+</tr>
+<tr>
+<td>sor1/oszlop1</td>
+<td>sor1/oszlop2</td>
+</tr>
+<tr>
+<td>sor2/oszlop1</td>
+<td>sor2/oszlop2</td>
+</tr>
+</table>
+<td>
+</tr>
+</table>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 4
