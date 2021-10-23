@@ -304,6 +304,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <table>
 <tr>
 <th>Head</th>
+<th>Head</th>
 </tr>
 <tr>
 <td>sor1/oszlop1</td>
