@@ -354,6 +354,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <!--  kód  --> 
 
 ```html
+
 <table>
 <caption>Felirat</caption>
 <tr>
@@ -376,8 +377,11 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <td>sor3/oszlop2</td>
 </tr>
 </table>
+
 ```
 
+</td>
+<td>
 <table>
 <caption>Felirat</caption>
 <tr>
@@ -403,30 +407,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 <!--  kód  --> 
 </td>
-<td>
-<table>
-<caption>Felirat</caption>
-<tr>
-<th>Head/1</th>
-<th>Head/2</th>
-<th>Head/3</th>
-<th>Head/4</th>
-</tr>
-<tr>
-<td rowspan="2">sor1-2/oszlop1</td>
-<td colspan="2">sor1/oszlop2-3</td>
-<td>sor1/oszlop3</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">sor2-3/oszlop2</td>
-<td>sor2/oszlop2</td>
-</tr>
-<tr>
-<td>sor3/oszlop1</td>
-<td>sor3/oszlop2</td>
-</tr>
-</table>
-<td>
+
 </tr>
 </table>
 
