@@ -479,13 +479,14 @@ body {font-family: Times, serif;}
 
 </td>
 <td>
-#### Bevezetés a stíluslapok használatába
-#### Stíluslap csatolási módok
-* Beágyazott, inline megadás
-* Lapon belüli definíció létrehozása a style tag segítségével:
-* Hivatkozás külső stíluslapra, a link elem segítségével:
-* Stíluslap beimportálása
-* A @media szabály használata
+<b>Bevezetés a stíluslapok használatába</b><br>
+<b>Stíluslap csatolási módok</b><br>
+<ul>
+<li>Beágyazott, inline megadás</li>
+<li>Lapon belüli definíció létrehozása a style tag segítségével:</li>
+<li>Hivatkozás külső stíluslapra, a link elem segítségével:</li>
+<li>Stíluslap beimportálása</li>
+<li>A @media szabály használata</li>
 <td/>
 </tr>
 </table>
