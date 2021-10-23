@@ -303,6 +303,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 #### Tábla
 <table>
 <tr>
+
 <td>
 <!--  kód  --> 
 
@@ -325,9 +326,9 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 ```
 
-<!--  kód  --> 
 </td>
 <td>
+
 <table>
 <caption>Felirat</caption>
 <tr>
@@ -343,7 +344,8 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <td>sor2/oszlop2</td>
 </tr>
 </table>
-<td>
+</td>
+
 </tr>
 </table>
 
