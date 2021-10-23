@@ -302,6 +302,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 ```html
 <table>
+<caption>Felirat</caption>
 <tr>
 <th>Head</th>
 <th>Head</th>
@@ -320,6 +321,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </td>
 <td>
 <table>
+<caption>Felirat</caption>
 <tr>
 <th>Head/1</th>
 <th>Head/2</th>
