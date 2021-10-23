@@ -388,21 +388,25 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <th>Head/1</th>
 <th>Head/2</th>
 <th>Head/3</th>
+<th>Head/4</th>
 
 </tr>
 <tr>
-<td>sor1/oszlop1</td>
+<td rowspan="2">sor1/oszlop1</td>
 <td>sor1/oszlop2</td>
 <td>sor1/oszlop3</td>
 </tr>
 <tr>
-<td>sor2/oszlop1</td>
-<td colspan="2">sor2/oszlop2</td>
+<td colspan="2" rowspan="2">sor2/oszlop1</td>
+<td>sor2/oszlop2</td>
+<td>sor2/oszlop3</td>
+<td>sor2/oszlop4</td>
 </tr>
 <tr>
 <td>sor3/oszlop1</td>
 <td>sor3/oszlop2</td>
 <td>sor3/oszlop3</td>
+<td>sor3/oszlop4</td>
 </tr>
 </table>
 <td>
