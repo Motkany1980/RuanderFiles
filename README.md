@@ -447,25 +447,26 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--  CSS file-ok HTML többsoros megjegyzés -->
-     <!-- külső stíluslap belinkelése -->
-     <link rel=stylesheet type="text/css" href="css/stilus1.css" title="alap">
-     <!-- lapon belüli definíció -->
-     <style type="text/css">
-     <!--
-     h1 {color: blue}
-     @import url("css/stilus2.css");
-        <!-- A fenti szabállyal külső stíluslapot importálunk -->
-        <!-- Az alábbival pedig a nyomtatott médiára vonatkozó tulajdonságot adunk meg -->
-      @media print { 
-               body {font-family: Times, serif;}
-                   }
-     -->
-     </style>
-    <title>Document</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--  CSS file-ok HTML többsoros megjegyzés -->
+<!-- külső stíluslap belinkelése -->
+<link rel=stylesheet type="text/css" href="css/stilus1.css" title="alap">
+<!-- lapon belüli definíció -->
+<style type="text/css">
+<!--
+h1 {color: blue}
+@import url("css/stilus2.css");
+<!-- A fenti szabállyal külső stíluslapot importálunk -->
+<!-- Az alábbival pedig a nyomtatott médiára vonatkozó 
+tulajdonságot adunk meg -->
+@media print { 
+body {font-family: Times, serif;}
+}
+-->
+</style>
+<title>Document</title>
 </head>
 <body>
 
