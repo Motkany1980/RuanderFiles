@@ -437,11 +437,57 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
+
+
+<table>
+<tr>
+<td>
+
 ```html
-<ol>
-    <li></li>
-<\ol>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--  CSS file-ok HTML többsoros megjegyzés -->
+     <!-- külső stíluslap belinkelése -->
+     <link rel=stylesheet type="text/css" href="css/stilus1.css" title="alap">
+     <!-- lapon belüli definíció -->
+     <style type="text/css">
+     <!--
+     h1 {color: blue}
+     @import url("css/stilus2.css");
+        <!-- A fenti szabállyal külső stíluslapot importálunk -->
+        <!-- Az alábbival pedig a nyomtatott médiára vonatkozó tulajdonságot adunk meg -->
+      @media print { 
+               body {font-family: Times, serif;}
+                   }
+     -->
+     </style>
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Ide Kerül a kód</h1>
+
+    <script src="script.js"></script>
+</body>
+</html>
 ```
+
+</td>
+<td>
+#### Bevezetés a stíluslapok használatába
+#### Stíluslap csatolási módok
+* Beágyazott, inline megadás
+* Lapon belüli definíció létrehozása a style tag segítségével:
+* Hivatkozás külső stíluslapra, a link elem segítségével:
+* Stíluslap beimportálása
+* A @media szabály használata
+<td/>
+</tr>
+</table>
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 5
 ### 2021.10.05. Ritkább HTML elemek [Vissza](#0)
