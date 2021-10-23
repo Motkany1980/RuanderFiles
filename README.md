@@ -169,6 +169,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <table>
 <tr>
 <td>
+<!--  kód  --> 
 
 ```html
 <!-- Példa feladat -->
@@ -205,6 +206,8 @@ type="I" <!-- római --> type="i" <!-- kis római -->
         </ol>
     </ul>
 ```
+
+<!--  kód  --> 
 
 </td>
 <td>
@@ -273,6 +276,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <table>
 <tr>
 <td>
+<!--  kód  --> 
 
 ```html
 <dl>
@@ -283,6 +287,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </dl>
 ```
 
+<!--  kód  --> 
 </td>
 <td>
 <dl>
@@ -299,6 +304,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <table>
 <tr>
 <td>
+<!--  kód  --> 
 
 ```html
 <table>
@@ -318,6 +324,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </table>
 ```
 
+<!--  kód  --> 
 </td>
 <td>
 <table>
@@ -344,6 +351,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <table>
 <tr>
 <td>
+<!--  kód  --> 
 
 ```html
 <table>
@@ -371,6 +379,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </table>
 ```
 
+<!--  kód  --> 
 </td>
 <td>
 <table>
