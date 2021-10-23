@@ -322,6 +322,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 <td>sor2/oszlop2</td>
 </tr>
 </table>
+
 ```
 
 <!--  kód  --> 
