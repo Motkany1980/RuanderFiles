@@ -339,6 +339,8 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 </tr>
 </table>
 
+#### Sor-Oszlop összevonás
+
 <table>
 <tr>
 <td>
