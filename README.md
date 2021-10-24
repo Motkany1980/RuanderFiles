@@ -434,7 +434,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 - [ ] F03 [Youtube Csatorna Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/yooETJCb)
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 
