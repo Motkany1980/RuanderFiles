@@ -57,11 +57,11 @@
 ### 2021.09.23. - Szövegformázás [Vissza](#0)
 
 #### Feladatok
-- [x] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI) - [Megoldás](https://github.dev/Motkany1980/2021_09_23/F01_Szövegformázás/index.html)
+- [x] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F01_Szövegformázás/index.html)
 - [x] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F02_Szövegformázás/index.html)
 - [x] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F03_Képlink/index.html)
 - [x] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F04_Képlink/nyitott.html)
-- [x] SZ01 [Szorgalmi_Képlink](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/v5wl3YzK) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/Szorgalmi_Szövegformázás-Kémia/index.html)
+- [x] SZ01 [Szorgalmi_Képlink](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/v5wl3YzK) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/Szorgalmi_Képlink-Microsoft Logo/index.html)
 - [x] SZ02 [Szorgalmi_Szövegformázás](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/et4zVC5J) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/Szorgalmi_Szövegformázás-Kémia/index.html)
 
 #### VS Code
