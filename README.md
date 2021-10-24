@@ -57,20 +57,22 @@
 ### 2021.09.23. - Szövegformázás [Vissza](#0)
 
 #### Feladatok
-- [x] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI)
-- [x] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC)
-- [x] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
-- [x] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
+- [x] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI) - [Megoldás](https://github.dev/Motkany1980/2021_09_23/F01_Szövegformázás/index.htmlRuanderFiles/)
+- [x] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F02_Szövegformázás/index.html)
+- [x] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F03_Képlink/index.html)
+- [x] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/F04_Képlink/nyitott.html)
+- [x] SZ01 [Szorgalmi_Képlink](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/v5wl3YzK) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/Szorgalmi_Képlink-Microsoft Logo/index.html)
+- [x] SZ02 [Szorgalmi_Szövegformázás](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/et4zVC5J) - [Megoldás](https://github.dev/Motkany1980/RuanderFiles/2021_09_23/Szorgalmi_Szövegformázás-Kémia/index.html)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Videók:
-* [KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1) 
-* [AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s) 
-* [HTMLtörtenetFeladat](https://www.youtube.com/watch?v=0D2biS86roE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=3) 
-* [RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s) 
-* [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5) 
+* [KarakterformazasLinkekKepek](https://www.youtube.com/watch?v=8uPGMxufDDw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=1)
+* [AkcióFeladat](https://www.youtube.com/watch?v=u5Jbnd9p7cg&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=2&t=531s)
+* [HTMLtörtenetFeladat](https://www.youtube.com/watch?v=0D2biS86roE&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=3)
+* [RuanderLogoFeladat](https://www.youtube.com/watch?v=O4woh5o-x50&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=4&t=5s)
+* [AjtoNyitZarFeladat](https://www.youtube.com/watch?v=W3ETdJypWQ8&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=5)
 
 #### Kódminták 
 ```html 
@@ -132,7 +134,7 @@
 ### 2021.09.28. - HTML alapok [Vissza](#0)
 
 #### Hasznos linkek:
-[W3School Lists](https://www.w3schools.com/html/html_lists.asp)
+[W3School Lists](https://www.w3schools.com/html/html_lists.asp) /
 [W3School Table](https://www.w3schools.com/html/html_tables.asp)
 
 
