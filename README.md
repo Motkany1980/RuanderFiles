@@ -153,7 +153,7 @@
 - [x] F02 [Lista többszintű - Élőlények](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D4xVyKzB)
 - [x] F03 [Lista többszintű - Marvel vs DC](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Xo5HnCpI)
 - [x] F04 [Táblázat - HTML Infó](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PpxVDaBb)
-- [ ] F05 [Táblázat - Programozás infő](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Lw51CADQ)
+- [x] F05 [Táblázat - Programozás infő](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Lw51CADQ)
 - [x] SZ01 [Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
 
 #### VS Code
