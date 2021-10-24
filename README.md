@@ -58,9 +58,9 @@
 
 #### Feladatok
 - [x] F01 [Szövegformázás akció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/u0xTDIDI)
-- [ ] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC)
-- [ ] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
-- [ ] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
+- [x] F02 [Szövegformázás html feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ChgHHYYC)
+- [x] F03 [Ruander logo feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/L841TY6Y)
+- [x] F04 [Ajtó feladat](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/3hhDCa4K)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
@@ -147,8 +147,8 @@
 
 <!-- Listák táblázatok -->
 #### Feladatok
-- [ ] F01 [Lista többszintű - Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Tt4zgYBS)
-- [ ] F02 [Lista többszintű - Élőlények](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D4xVyKzB)
+- [x] F01 [Lista többszintű - Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Tt4zgYBS)
+- [] F02 [Lista többszintű - Élőlények](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D4xVyKzB)
 - [ ] F03 [Lista többszintű - Marvel vs DC](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Xo5HnCpI)
 - [ ] F04 [Táblázat - HTML Infó](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PpxVDaBb)
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
