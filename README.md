@@ -154,7 +154,7 @@
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 #### Lista
@@ -595,7 +595,7 @@ body {font-family: Times, serif;}
 - [ ] F05 [Michael_Schumacher_megoldas](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/S0wVGQ5L)
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -655,7 +655,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 [Homoktovis_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ThgRVAbZ) - [Megoldás](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/vxggzK6b) 
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -677,7 +677,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -699,7 +699,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -721,7 +721,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -743,7 +743,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -765,7 +765,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -787,7 +787,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -809,7 +809,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -831,7 +831,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -853,7 +853,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
@@ -875,7 +875,7 @@ W3School-ban a display/position/float feladatok a házi.
 - [ ] F01 []()
 
 #### VS Code
-[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
+[Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
 ```html
