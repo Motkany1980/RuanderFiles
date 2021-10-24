@@ -150,7 +150,7 @@
 <!-- Listák táblázatok -->
 #### Feladatok
 - [x] F01 [Lista többszintű - Ételek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Tt4zgYBS)
-- [ ] F02 [Lista többszintű - Élőlények](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D4xVyKzB)
+- [x] F02 [Lista többszintű - Élőlények](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/D4xVyKzB)
 - [ ] F03 [Lista többszintű - Marvel vs DC](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Xo5HnCpI)
 - [ ] F04 [Táblázat - HTML Infó](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/PpxVDaBb)
 - [ ] F05 [Szorgalmi_Táblázat - Tanulói Statisztika](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ogp3BAYa)
