@@ -580,10 +580,10 @@ body {font-family: Times, serif;}
 
 #### Feladatok
 - [x] F01 [css_tulajdonsagai](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/eg4SVS6a)
-- [ ] F02 [Stackoverflow](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/qggC1QSC)
-- [ ] F03 [HTMLtagek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Pt5y1SbS)
-- [ ] F04 [szoftverfejleszto_vizsga](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/z8gQwIJT)
-- [ ] F05 [tanfolyam_regiszracio](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/i04y3YRY)
+- [x] F02 [Stackoverflow](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/qggC1QSC)
+- [x] F03 [HTMLtagek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Pt5y1SbS)
+- [x] F04 [szoftverfejleszto_vizsga](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/z8gQwIJT)
+- [x] F05 [tanfolyam_regiszracio](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/i04y3YRY)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
