@@ -502,24 +502,28 @@ body {font-family: Times, serif;}
 
 <table>
 <tr>
+<th>Code</th>
+<th>Leírás</th>
+</tr>
+<tr>
 <td>_blank</td>
-<td>The response is displayed in a new window or tab</td>
+<td>A válasz egy új ablakban vagy lapon jelenik meg</td>
 </tr>
 <tr>
 <td>_self</td>
-<td>The response is displayed in the current window</td>
+<td>A válasz megjelenik az aktuális ablakban</td>
 </tr>
 <tr>
 <td>_parent</td>
-<td>The response is displayed in the parent frame</td>
+<td>A válasz a szülőkeretben jelenik meg</td>
 </tr>
 <tr>
 <td>_top</td>
-<td>The response is displayed in the full body of the window</td>
+<td>A válasz az ablak teljes szövegében jelenik meg</td>
 </tr>
 <tr>
 <td>framename</td>
-<td>The response is displayed in a named iframe</td>
+<td>A válasz megnevezett iframe -ben jelenik meg</td>
 </tr>
 </table>
 
