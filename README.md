@@ -512,7 +512,6 @@ body {font-family: Times, serif;}
         <input type="text" name="catorna_név" placeholder="Csatorna név" required><br>
         <textarea name="Csatorna leírás" cols="20" rows="5" placeholder="csatorna Leírás"></textarea>
         <br>
-
         <select>
             <option value="travel" selected>Travel</option>
             <option value="travel">Film</option>
