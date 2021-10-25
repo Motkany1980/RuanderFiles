@@ -441,6 +441,7 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 
 #### Kódminták
 
+#### Minta oldal
 
 <table>
 <tr>
@@ -497,6 +498,37 @@ body {font-family: Times, serif;}
 </tr>
 </table>
 
+#### Target
+
+<table>
+<tr>
+<td>_blank</td>
+<td>The response is displayed in a new window or tab</td>
+</tr>
+<tr>
+<td>_self</td>
+<td>The response is displayed in the current window</td>
+</tr>
+<tr>
+<td>_parent</td>
+<td>The response is displayed in the parent frame</td>
+</tr>
+<tr>
+<td>_top</td>
+<td>The response is displayed in the full body of the window</td>
+</tr>
+<tr>
+<td>framename</td>
+<td>The response is displayed in a named iframe</td>
+</tr>
+</table>
+
+```html
+<form action="/action_page.php" target="_blank">
+<!--  Bevitel -->
+</form>
+```
+
 #### Űrlap
 
 <table>
@@ -506,6 +538,7 @@ body {font-family: Times, serif;}
 
 ```html
     <form action="regisztracio.php" method="post">
+        <label for="Regisztráció">Regisztráció</label>
         <input type="text" name="Teljes_név" placeholder="Teljes Név" required ><br>
         <input type="email" name="Email" placeholder="E-mail cím" required><br>
         <input type="text" name="catorna_név" placeholder="Csatorna név" required><br>
