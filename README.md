@@ -432,9 +432,9 @@ type="I" <!-- római --> type="i" <!-- kis római -->
 * [YoutubeUrlapFeladat](https://www.youtube.com/watch?v=oK2KlI-sa48&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=17)
 
 #### Feladatok
-- [ ] F01 [Bejelentkezés](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/O0hklZTB)
-- [ ] F02 [Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/KphC0DbA)
-- [ ] F03 [Youtube Csatorna Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/yooETJCb)
+- [x] F01 [Bejelentkezés](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/O0hklZTB)
+- [x] F02 [Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/KphC0DbA)
+- [x] F03 [Youtube Csatorna Regiszráció](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/yooETJCb)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
@@ -579,7 +579,7 @@ body {font-family: Times, serif;}
 * [FelmeroFeladatsorMegoldas](https://www.youtube.com/watch?v=84U5Gu0dHeM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=18)
 
 #### Feladatok
-- [ ] F01 [css_tulajdonsagai](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/eg4SVS6a)
+- [x] F01 [css_tulajdonsagai](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/eg4SVS6a)
 - [ ] F02 [Stackoverflow](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/qggC1QSC)
 - [ ] F03 [HTMLtagek](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Pt5y1SbS)
 - [ ] F04 [szoftverfejleszto_vizsga](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/z8gQwIJT)
