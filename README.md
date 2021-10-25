@@ -590,7 +590,7 @@ body {font-family: Times, serif;}
 
 #### Kódminták
 
-#### Imag emap
+#### Image emap
 
 ```html
 <image src="kép.jpg" width="1200" height="400" alt="naprendszerünk" usermap="#naprendszer">
