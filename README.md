@@ -492,7 +492,7 @@ body {font-family: Times, serif;}
 <li>Hivatkozás külső stíluslapra, a link elem segítségével:</li>
 <li>Stíluslap beimportálása</li>
 <li>A @media szabály használata</li>
-<td/>
+<td>
 
 </tr>
 </table>
