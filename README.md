@@ -589,10 +589,14 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
+
+#### Imag emap
+
 ```html
-<ol>
-    <li></li>
-<\ol>
+<image src="kép.jpg" width="1200" height="400" alt="naprendszerünk" usermap="#naprendszer">
+
+    <map name="naprendszer">
+
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 6
