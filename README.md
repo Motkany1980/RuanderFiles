@@ -496,6 +496,42 @@ body {font-family: Times, serif;}
 
 </tr>
 </table>
+
+#### Űrlapok
+
+<table>
+<tr>
+<td>
+
+
+</td>
+<td>
+    <form action="regisztracio.php" method="post">
+        <input type="text" name="Teljes_név" placeholder="Teljes Név" required ><br>
+        <input type="email" name="Email" placeholder="E-mail cím" required><br>
+        <input type="text" name="catorna_név" placeholder="Csatorna név" required><br>
+        <textarea name="Csatorna leírás" cols="20" rows="5" placeholder="csatorna Leírás"></textarea>
+        <br>
+
+        <select>
+            <option value="travel" selected>Travel</option>
+            <option value="travel">Film</option>
+            <option value="travel">Beauty</option>
+            <option value="travel">Podcast</option>
+            <option value="travel">Vlogger</option>
+            <option value="travel">Hardver</option>
+            <option value="travel">Szoftver</option>
+            <option value="travel">Programozás</option>
+        </select>
+<br>
+        <input type="submit" value="Csatorna regisztráció">
+    </form>
+</td>
+
+
+</tr>
+</table>
+
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
 # 5
