@@ -775,7 +775,7 @@ Milyen értékeket vehet fel?
 
 #### BoxModell
 
-<img src="https://github.com/Motkany1980/RuanderFiles/blob/master/src/Boxmodell.PNG" alt="Boxmodell">
+<img src="https://github.com/Motkany1980/RuanderFiles/blob/master/src/Boxmodell.PNG?raw=true" alt="Boxmodell">
 
 ```css
 #elso_box {
