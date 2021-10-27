@@ -772,10 +772,33 @@ Milyen értékeket vehet fel?
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### BoxModell
+<img src="" alt="Boxmodell">
+```css
+#elso_box {
+	background-color: red;
+	width:200px;
+	height:200px;
+	border:1px solid black;
+	margin:100px;
+}
+
+#masodik_box {
+	background-color: orange;
+	width:400px;
+	height:200px;
+	border:1px solid black;
+	margin:100px;
+}
+
+/*
+A box modell elemei:
+width: az adott css elem szélessége
+height: az adott css elem magassága
+padding: a css elem tartalma és a szegély közti távolság
+border: a css elem szegélyének vastagsága
+margin: a css elem másik css elemektől való távolsága (FONTOS, a margók több elem esetén nem adódnak össze
+*/
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 8
