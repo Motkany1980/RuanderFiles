@@ -750,7 +750,7 @@ W3School-ban a display/position/float feladatok a házi.
 #### Hasznos linkek:
 * [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
 * [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
-* [W3School feladatok](https://www.w3schools.com/css/css_exercises.asp)
+* [W3School feladatok](https://www.w3schools.com/css/exercise.asp)
 
 #### Videók:
 * [Team08_2021_10_26_p1_PoziciokMindenutt_megoldas](https://www.youtube.com/watch?v=07kG3VxHipM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=44)
