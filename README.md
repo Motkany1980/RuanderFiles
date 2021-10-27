@@ -678,10 +678,160 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+```css
+/*A betűszínt többféle képpen is megadhatjuk, hasonlóan mint ahogy az a színeknél láthattuk 
+betűszín konkrét kifejezéssel - pl.: "red"
+HEXA kóddal - pl.: #ff0000
+RGB színnel - pl.: rgb(255,0,0)
+RGBA színnel - pl.: rgb(255,0,0,0.5) */
+.betuszin1 {
+    color: red;
+}
+
+.betuszin2 {
+    color: #00FF00;
+}
+
+.betuszin3 {
+    color: rgb(0, 0, 255);
+}
+
+.betuszin4 {
+    color: rgb(0, 0, 255, 0.5);
+}
+
+/* A szövegeket a megszokott alap módon igazíthatjuk jobbra, balra, középre és sorkizártan  */
+.kozepre {
+    text-align: center;
+}
+
+.jobbra {
+    text-align: right;
+}
+
+.balra {
+    text-align: left;
+}
+
+.sorkizart {
+    text-align: justify;
+}
+
+/* Szöveg "dekorálása" segítségével azt vízszintes vonallal ruházhatjuk fel különböző pozíciókban*/
+.vonalFelulre {
+    text-decoration: overline;
+}
+
+.vonalAlul {
+    text-decoration: underline;
+}
+
+.vonalKozepen {
+    text-decoration: line-through;
+}
+
+.vonalMegszuntetes {
+    text-decoration: none;
+    /*Alapértelmezett beállítás, sima szöveg estén*/
+}
+
+/*Át is alakíthatjuk a szöveget amennyiben szükségünk van rá több féle módban is a szöveget*/
+.nagyBetusSzoveg {
+    text-transform: uppercase;
+}
+
+.kisBetusSzoveg {
+    text-transform: lowercase;
+}
+
+.nagyKezdobetusSzoveg {
+    text-transform: capitalize;
+}
+
+/*A különböző betűk-szavak közti távolságot is beállíthatjuk több féle módon is, amennyiben szükségünk van rá*/
+.elsoSorBehuzas {
+    text-indent: 50px;
+}
+
+.betuTavolsag {
+    letter-spacing: 5px;
+}
+
+.sorMagassag {
+    line-height: 2.5;
+}
+
+.szoTavolsag {
+    word-spacing: 10px;
+}
+
+.sortoresKikapcsolo {
+    white-space: nowrap;
+}
+
+/*A szövegnek árnyékot is állíthatunk CSS segítségével amennyiben szeretnénk.*/
+.simaArnyek {
+    text-shadow: 1px 1px;
+}
+
+.szinesArnyek {
+    text-shadow: 1px 1px blue;
+}
+
+.elmosottArnyek {
+    text-shadow: 1px 1px 3px blue;
+    /*A harmadik paraméter az elmosás mértéke*/
+}
+
+/*Természetes az alapformázások mellett a dőlt betűstílust is beállíthatjuk CSS segítségével*/
+/*DŐLT*/
+.alapBetu {
+    font-style: normal;
+    /*Olyankor használjuk, ha az alapérték el lenne állítva...*/
+}
+
+.doltBetu1 {
+    font-style: italic;
+}
+
+.doltBetu2 {
+    font-style: oblique;
+}
+
+/*FÉLKÖVÉR*/
+.alapBetu2 {
+    font-weight: normal;
+    /*Olyankor használjuk, ha az alapérték el lenne állítva...*/
+}
+
+.felkoverBetu {
+    font-weight: bold;
+}
+
+.alapBetu3 {
+    font-variant: normal;
+    /*Olyankor használjuk, ha az alapérték el lenne állítva...*/
+}
+
+.kisKapitalisSzoveg
+{
+    font-variant: small-caps;
+}
+
+/*Betű méretét is beállíthatjuk több féle opcióval*/
+.betuMeretPixelben {
+    font-size: 26px;
+}
+
+.betuMeretEm {
+    font-size: 2em;
+    /*Az aktuális mérettől eltérő arányszám megadása*/
+}
+
+.betumeretVw {
+    font-size: 5vw;
+    /*Szintén mérettől függ a ViewPort Width(nézet szélességétől) Százalékos arányban*/
+}
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 9
@@ -708,11 +858,102 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### Listák
+```css
+/*Hivatkozás az elemekre*/
+ul {
+	
+}
+
+ol {
+	
+}
+
+/*
+UL lista módosításai:*/
+[list-style-type: circle;] /* - Üres kör */
+[list-style-type: disc;] /* Teli Kör */
+[list-style-type: square;] /* - Négyzet */
+
+[list-style-type: armenian;]
+[list-style-type: cjk-ideographic;]
+[list-style-type: decimal;]
+[list-style-type: decimal-leading-zero;]
+[list-style-type: georgian;]
+[list-style-type: hebrew;]
+[list-style-type: hiragana;]
+[list-style-type: hiragana-iroha;]
+[list-style-type: katakana;]
+[list-style-type: katakana-iroha;]
+[list-style-type: lower-alpha;]
+[list-style-type: lower-greek;]
+[list-style-type: lower-latin;]
+[list-style-type: lower-roman;]
+[list-style-type: upper-alpha;]
+[list-style-type: upper-greek;]
+[list-style-type: upper-latin;]
+[list-style-type: upper-roman;]
+[list-style-type: none;]
+[list-style-type: inherit;]
+
+
+/*Lista elem pozícionálása:*/
+[outside] /* - A listajel kívül található */
+[inside] /* - A listajel belül található, a szöveggel együtt */
+
+/* ALL IN ONE */
+
+ul {
+  list-style: square inside;
+}
+
 ``` 
+
+#### Outline
+````css
+#kulso_szegelyes_elem {
+	/*Tulajdonság*/
+	border: 10px solid black;
+	outline: 5px solid green;
+	outline-offset:5px;
+}
+
+/*Szegély Stílusa*/
+outline-style: dotted; - pontozott vonal
+outline-style: dashed; - szaggatott vonal
+outline-style: solid; - sima vonal
+outline-style: double; - dupla vonal
+outline-style: groove; - 3D hatású outline
+outline-style: ridge; - 3D hatású outline
+outline-style: inset; - 3D hatású outline
+outline-style: outset; - 3D hatású outline
+outline-style: none; - szegély kikapcsolása
+outline-style: hidden; - szegély elrejtése
+
+/*Szegély vastagsága(szélessége)*/
+outline-width: 10px; - konkrét értékkel megadva
+outline-width: medium; - szöveggel megadva( medium-közepes, thin-vékony, thick-vastag)
+
+/*Külső szegély színének megadása
+pl.: outline-color:#ff0000;
+
+A színt 4 fél képpen is megadhatjuk
+	1. HEX értékben : pl.:#ff0000;
+	2. RGB kódban : pl.: rgb(255,0,0);
+	3. RGBA kódban : pl.: rgba(255,0,0,0.5); //A 4. érték 0 és 1.0 közötti értékű
+	4. A szín nevét használva : pl.: red;	
+*/
+
+/*Az outlineokat sajnos NEM lehet oldalanként megadni*/
+
+/*Outline OFFSET*/
+outline-offset:10px; 
+/* Az outline offset tulajdonsáságval azt állítjuk be, hogy milyen távolságra legyen a szegélytől a külső szegélyünk*/ */
+
+/*ALL IN ONE!*/
+outline:1px solid red;
+
+````
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 10
 ### 2021.10.21. Táblázatok [Vissza](#0)
