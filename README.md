@@ -1044,7 +1044,7 @@ ul {
 }
 
 /*Szegély Stílusa*/
-outline-style: dotted; - pontozott vonal
+/* outline-style: dotted; - pontozott vonal
 outline-style: dashed; - szaggatott vonal
 outline-style: solid; - sima vonal
 outline-style: double; - dupla vonal
@@ -1053,11 +1053,11 @@ outline-style: ridge; - 3D hatású outline
 outline-style: inset; - 3D hatású outline
 outline-style: outset; - 3D hatású outline
 outline-style: none; - szegély kikapcsolása
-outline-style: hidden; - szegély elrejtése
+outline-style: hidden; - szegély elrejtése */
 
 /*Szegély vastagsága(szélessége)*/
-outline-width: 10px; - konkrét értékkel megadva
-outline-width: medium; - szöveggel megadva( medium-közepes, thin-vékony, thick-vastag)
+/* outline-width: 10px; - konkrét értékkel megadva
+outline-width: medium; - szöveggel megadva( medium-közepes, thin-vékony, thick-vastag) */
 
 /*Külső szegély színének megadása
 pl.: outline-color:#ff0000;
