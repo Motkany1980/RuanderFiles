@@ -618,10 +618,135 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### Border
+```css
+#szegely {
+	/*Tulajdonság*/
+	border-bottom: 3px solid green;
+	border-top: 3px solid green;
+}
+
+/*Szegély Stílusa*/
+border-style: dotted; - pontozott vonal
+border-style: dashed; - szaggatott vonal
+border-style: solid; - sima vonal
+border-style: double; - dupla vonal
+border-style: groove; - 3D hatású border
+border-style: ridge; - 3D hatású border
+border-style: inset; - 3D hatású border
+border-style: outset; - 3D hatású border
+border-style: none; - szegély kikapcsolása
+border-style: hidden; - szegély elrejtése
+
+/*Szegély vastagsága(szélessége)*/
+border-width: 10px; - konkrét értékkel megadva
+border-width: medium; - szöveggel megadva( medium-közepes, thin-vékony, thick-vastag)
+
+/*Szegély színének megadása
+pl.: border-color:#ff0000;
+
+A színt 4 fél képpen is megadhatjuk
+	1. HEX értékben : pl.:#ff0000;
+	2. RGB kódban : pl.: rgb(255,0,0);
+	3. RGBA kódban : pl.: rgba(255,0,0,0.5); //A 4. érték 0 és 1.0 közötti értékű
+	4. A szín nevét használva : pl.: red;	
+*/
+
+/*Oldalanként beállított szegély
+Felső szegély beállítása:*/
+border-top-style:	border-top-width:	border-top-color:
+
+/* Jobb oldali szegély beállítása: */
+border-right-style:	border-right-width:	border-right-color:
+
+/* Alsó szegély beállítása: */
+border-bottom-style:	border-bottom-width:	border-bottom-color:
+
+/* Baloldali szegély beállítása: */
+border-left-style:	border-left-width:	border-left-color:
+
+
+/*ALL IN ONE!
+border:1px solid red;
+vagy speciálisan oldalaként is megadható! border-top, border-right, border-bottom, border-left;
+*/
+
+/*Illetve lezetik border-radius(szegély lekerekítés) és border-image(szegélyre kép beillesztése) tulajdonság de ezekről majd CSS3 résznél beszélünk!*/
+``` 
+#### Padding
+```css
+#padding {
+	background-color: red;
+	/*Csak hogy látszódjanak a változások*/
+	border: 1px solid black;
+	padding: 50px 20px;
+}
+
+/*A padding segítségével meghatározhatjuk a tartalom és a div elem széle(border), közötti távolságot*/
+
+/*Hogyan adhatjuk meg? Alapértelmezetten minden irányba, ugyanazt az értéket adjuk meg így!*/
+padding:10px;
+
+/*Milyen értékeket vehet fel?
+- értékeket pixelben: padding:10px;
+- értékeket százalékban: padding:5%;
+- "inherit" érték esetén a szülő elem értékeit örökli
+
+Értékek beállítása külön-külön:
+- padding-top;
+- padding-right;
+- padding-bottom;
+- padding-left;
+
+Értékek beállítása egyszerre: 
+- pixelben megadott értékkel: padding: 10px 5px 5px 10px;
+- százalékban megadva:  padding: 10% 5% 5% 10%;
+
+	1.- top			1.- top				1.- top bottom		1. top, bottom, right, left
+	2.- right		2.- right,left		2.- right left
+	3.- bottom		3.- bottom
+	4.- left
+*/
+``` 
+#### Margin
+```css
+#margin {
+	background-color: red;
+	/*A könnyeb áttekinthetőség miatt*/
+	border: 1px solid black;
+	width: 400px;
+	height: 40px;
+	margin: 40px auto 20px auto;
+}
+
+/*A margin segítségével meghatározhatjuk a div elemek közötti távolságot, valamint az oldal szélétől való távolságát is az elemnek.*/
+
+/*Hogyan adhatjuk meg? Alapértelmezetten minden irányba, ugyanazt az értéket adjuk meg így!
+margin:10px;
+
+Milyen értékeket vehet fel?
+- értékeket pixelben: margin:10px;
+- értékeket százalékban: margin:5%;
+- "inherit" érték esetén a szülő elem értékeit örökli
+- automatikus érték: margin-left: auto; & margin-left: auto;
+
+Értékek beállítása külön-külön:
+- margin-top;
+- margin-right;
+- margin-bottom;
+- margin-left;
+
+Értékek beállítása egyszerre: 
+- pixelben megadott értékkel: margin 40px 20px 40px 20px;
+- százalékban megadva:  margin: 20% 10% 10% 20%;
+
+	1.- top			1.- top				1.- top bottom		1. top, bottom, right, left
+	2.- right		2.- right,left		2.- right left
+	3.- bottom		3.- bottom
+	4.- left
+	
+- margó távolság pontos megadása, elemek közti távolság számítása
+*/
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 7
