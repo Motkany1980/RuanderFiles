@@ -1104,7 +1104,126 @@ W3School-ban a display/position/float feladatok a házi.
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
+#### Táblázatok
 ```css
+/* Alap formázás minden táblázat leformázására
+table{
+	
+}
+*/
+.SzegelyesTablazat {
+	border: 1px solid black;
+}
+.AdottMeretuTabla{
+	width:900px;
+	height:500px;
+}
+
+.KozepreIgazitottTabla {
+	text-align: center;
+	vertical-align: center;
+	width: 80%;
+	margin: 0px auto;
+}
+
+
+/*
+BORDER:
+A táblázathoz a régi html tulajdonság helyett használhatjuk immár a CSS border tulajdonságot
+Ezen elemek rendelhetők a TABLE mellett a TH és a TD emelekhez is!
+
+[border-collapse] Adott elemek beállított szegélyének eltüntetése
+
+SZÉLESSSÉG, MAGASSÁG:
+A táblák szélességét a width tulajdonsággal is beállíthatjuk
+
+-konkrét értékkel: px, cm, stb...
+width:200px;
+height:200px;
+
+-Százalékosan:
+width:30%;
+height:30%;
+	
+TARTALOM IGAZÍTÁSA
+A szövegeket a megszokott alap módon igazíthatjuk jobbra, balra, középre és sorkizártan  */
+.Hkozepre {
+	text-align: center;
+	/*Cell tartalmának középre igazítása*/
+}
+
+.Hjobbra {
+	text-align: right;
+	/*Cell tartalmának jobbra igazítása*/
+}
+
+.Hbalra {
+	text-align: left;
+	/*Cell tartalmának balra igazítása*/
+}
+
+.Hsorkizart {
+	text-align: justify;
+	/*Cell tartalmának sorkizárt igazításúvá tétele*/
+}
+
+/* A szövegeket a megszokott alap módon igazíthatjuk VÍZSZINTESEN felülre, középre és alulra  */
+
+.Vfelulre {
+	vertical-align: top;
+	/*Cell tartalmának függőlegesen felülre igazítása*/
+}
+
+.Vkozepre {
+	vertical-align: middle;
+	/*Cell tartalmának függőlegesen középre igazítása*/
+}
+
+.Valulra {
+	vertical-align: bottom;
+	/*Cell tartalmának függőlegesen alulra igazítása*/
+}
+
+
+/* EGYÉB FORMÁZÁSOK 
+
+BOX-modell formázások közül használhatjuk az lábbiakat az elemekre is külön-külön
+- widht
+- height
+- padding
+- valamint a szövegformázásokat is mindet!
+- illetve a színbeállításokat is!
+
+ADOTT SOR KIJELÖLÉSE
+[tr:nth-child(even);] - Páros sorok jelölése
+[tr:nth-child(odd);] - Páratlan sorok jelölése
+[tr:nth-child(1);] - Adott sor jelölése
+*/
+tr:nth-child(even) {
+	background-color: green;
+}
+
+tr:nth-child(odd) {
+	background-color: blue;
+}
+tr:nth-child(1)
+{
+	background-color: red;
+}
+
+/*
+HOVER EFFECT
+[tr:hover] - Ha a sorokhoz hover effektet rendelünk, akkor elérjük, azt hogy ha felé menjünk egérrel akkor az másképp nézzen ki, mint az alaptulajdonság
+
+RESZPONZÍV TÁBLÁZAT: 
+div kontéren elem esetén az alábbi tulajdonsággal azt felruházva responsive táblázatot hozhatunk létre
+[overflow-x:auto]
+*/
+``` 
+
+#### Pozicionálás 
+
+````css
 /*
 Pozíció típusok
 Static: Az elem nem módosítható semmilyen pozícionálású tulajdonsággal
@@ -1191,7 +1310,7 @@ Bottom – Az elemet ragadási pozícióját lentről felfellé mozdítja
 Negatív érték adása esetén, a mozgatás irány megfordul!
 
 */
-``` 
+````
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 11
 ### 2021.10.26 Linkek [Vissza](#0)
