@@ -385,13 +385,21 @@ html type="i"
 ### 2021.10.26 Linkek [Vissza](#0)
 <!-- Pseudo classok és elemek-->
 #### Hasznos linkek:
-* []()
+* [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+* [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
+* [W3School feladatok](https://www.w3schools.com/css/css_exercises.asp)
 
 #### Videók:
-* []()
+* [Team08_2021_10_26_p1_PoziciokMindenutt_megoldas](https://www.youtube.com/watch?v=07kG3VxHipM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=44)
+* [Team08_2021_10_26_p2_VizszintesFloatMenu_megoldas](https://www.youtube.com/watch?v=kFZqaCtmFIs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=45)
+* [Team08_2021_10_26_p3_HtmlElemekCSS_megoldas](https://www.youtube.com/watch?v=h_A6OcSC5ts&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=46)
+* [Team08_2021_10_26_p4_CSS_linkek](https://www.youtube.com/watch?v=xEwtKg8atI4&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=47)
+* [Team08_2021_10_26_p5_CSS_pseudoElemek](https://www.youtube.com/watch?v=vHRCTTaN5Qc&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=48)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [F01_PoziciokMindenuttForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/jtQRDSIK) 
+- [ ] F02 [F02_VizszintesMenuForras01](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/mlJjUQxR) 
+- [ ] F03 [F03_HtmlAlapokCssForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/egYFTYZC) 
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
