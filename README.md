@@ -773,7 +773,9 @@ Milyen értékeket vehet fel?
 
 #### Kódminták
 #### BoxModell
-<img src="" alt="Boxmodell">
+
+<img src="https://github.com/Motkany1980/RuanderFiles/blob/master/src/Boxmodell.PNG" alt="Boxmodell">
+
 ```css
 #elso_box {
 	background-color: red;
