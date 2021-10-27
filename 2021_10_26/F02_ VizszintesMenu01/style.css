@@ -1,0 +1,17 @@
+#tartalom {
+    background-color: midnightblue;
+    margin: 0px auto;
+    width: 720px;
+}
+
+.gomb {
+    float: left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100px;
+    padding: 25px;
+    margin: 10px;
+    border: 5px solid gray;
+
+}

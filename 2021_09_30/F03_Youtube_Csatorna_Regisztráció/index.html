@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Youtube csatorna</title>
+</head>
+<body>
+    <form action="regisztracio.php" method="post">
+        <input type="text" name="Teljes_név" placeholder="Teljes Név" required ><br>
+        <input type="email" name="Email" placeholder="E-mail cím" required><br>
+        <input type="text" name="catorna_név" placeholder="Csatorna név" required><br>
+        <textarea name="Csatorna leírás" cols="20" rows="5" placeholder="csatorna Leírás"></textarea>
+        <br>
+
+        <select>
+            <option value="travel" selected>Travel</option>
+            <option value="Film">Film</option>
+            <option value="Beauty">Beauty</option>
+            <option value="Podcast">Podcast</option>
+            <option value="Vlogger">Vlogger</option>
+            <option value="Hardver">Hardver</option>
+            <option value="Szoftver">Szoftver</option>
+            <option value="Programozás">Programozás</option>
+        </select>
+<br>
+        <input type="submit" value="Csatorna regisztráció">
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>

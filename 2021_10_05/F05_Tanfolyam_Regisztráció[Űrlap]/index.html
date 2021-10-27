@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tanfolyam_regisztrácio_feladata</title>
+</head>
+<body>
+
+    <form action="regisztracio.php" method="post">
+        <input type="text" name="Keresztnév" placeholder="Keresztnév" required ><br>
+        <input type="text" name="Vezetéknév" placeholder="Vezetéknév" required ><br>
+        <input type="password" name="Jelszó" placeholder="Jelszó" required><br>
+        <input type="email" name="email" placeholder="Email cím" required><br>
+        <input type="text" name="email_megerősítése" placeholder="Email cím megerősítése" required><br>
+
+        <select required>
+            <option value="travel" selected>Szoftverfejlesztő OKJ    (Értéke:szoftver)</option>
+            <option value="Film">Rendszerüzemeltető OKJ    (Értéke:rendszer)</option>
+            <option value="Beauty">Junior Frontend Fejlesztő tanfolyam    (Értéke:frontend)</option>
+            <option value="Podcast">Webfejlesztő tanfolyam    (Értéke:web)</option>
+            <option value="Vlogger">MySQL tanfolyam    (Értéke:mysql)/option>
+        </select><br>
+        <input type="submit" value="Regisztrálok a tanfolyamra">
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
