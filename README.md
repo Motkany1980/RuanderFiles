@@ -772,6 +772,7 @@ Milyen értékeket vehet fel?
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
+
 #### BoxModell
 
 <img src="https://github.com/Motkany1980/RuanderFiles/blob/master/src/Boxmodell.PNG" alt="Boxmodell">
