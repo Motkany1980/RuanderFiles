@@ -618,10 +618,135 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### Border
+```css
+#szegely {
+	/*Tulajdonság*/
+	border-bottom: 3px solid green;
+	border-top: 3px solid green;
+}
+
+/*Szegély Stílusa*/
+border-style: dotted; - pontozott vonal
+border-style: dashed; - szaggatott vonal
+border-style: solid; - sima vonal
+border-style: double; - dupla vonal
+border-style: groove; - 3D hatású border
+border-style: ridge; - 3D hatású border
+border-style: inset; - 3D hatású border
+border-style: outset; - 3D hatású border
+border-style: none; - szegély kikapcsolása
+border-style: hidden; - szegély elrejtése
+
+/*Szegély vastagsága(szélessége)*/
+border-width: 10px; - konkrét értékkel megadva
+border-width: medium; - szöveggel megadva( medium-közepes, thin-vékony, thick-vastag)
+
+/*Szegély színének megadása
+pl.: border-color:#ff0000;
+
+A színt 4 fél képpen is megadhatjuk
+	1. HEX értékben : pl.:#ff0000;
+	2. RGB kódban : pl.: rgb(255,0,0);
+	3. RGBA kódban : pl.: rgba(255,0,0,0.5); //A 4. érték 0 és 1.0 közötti értékű
+	4. A szín nevét használva : pl.: red;	
+*/
+
+/*Oldalanként beállított szegély
+Felső szegély beállítása:*/
+border-top-style:	border-top-width:	border-top-color:
+
+/* Jobb oldali szegély beállítása: */
+border-right-style:	border-right-width:	border-right-color:
+
+/* Alsó szegély beállítása: */
+border-bottom-style:	border-bottom-width:	border-bottom-color:
+
+/* Baloldali szegély beállítása: */
+border-left-style:	border-left-width:	border-left-color:
+
+
+/*ALL IN ONE!
+border:1px solid red;
+vagy speciálisan oldalaként is megadható! border-top, border-right, border-bottom, border-left;
+*/
+
+/*Illetve lezetik border-radius(szegély lekerekítés) és border-image(szegélyre kép beillesztése) tulajdonság de ezekről majd CSS3 résznél beszélünk!*/
+``` 
+#### Padding
+```css
+#padding {
+	background-color: red;
+	/*Csak hogy látszódjanak a változások*/
+	border: 1px solid black;
+	padding: 50px 20px;
+}
+
+/*A padding segítségével meghatározhatjuk a tartalom és a div elem széle(border), közötti távolságot*/
+
+/*Hogyan adhatjuk meg? Alapértelmezetten minden irányba, ugyanazt az értéket adjuk meg így!*/
+padding:10px;
+
+/*Milyen értékeket vehet fel?
+- értékeket pixelben: padding:10px;
+- értékeket százalékban: padding:5%;
+- "inherit" érték esetén a szülő elem értékeit örökli
+
+Értékek beállítása külön-külön:
+- padding-top;
+- padding-right;
+- padding-bottom;
+- padding-left;
+
+Értékek beállítása egyszerre: 
+- pixelben megadott értékkel: padding: 10px 5px 5px 10px;
+- százalékban megadva:  padding: 10% 5% 5% 10%;
+
+	1.- top			1.- top				1.- top bottom		1. top, bottom, right, left
+	2.- right		2.- right,left		2.- right left
+	3.- bottom		3.- bottom
+	4.- left
+*/
+``` 
+#### Margin
+```css
+#margin {
+	background-color: red;
+	/*A könnyeb áttekinthetőség miatt*/
+	border: 1px solid black;
+	width: 400px;
+	height: 40px;
+	margin: 40px auto 20px auto;
+}
+
+/*A margin segítségével meghatározhatjuk a div elemek közötti távolságot, valamint az oldal szélétől való távolságát is az elemnek.*/
+
+/*Hogyan adhatjuk meg? Alapértelmezetten minden irányba, ugyanazt az értéket adjuk meg így!
+margin:10px;
+
+Milyen értékeket vehet fel?
+- értékeket pixelben: margin:10px;
+- értékeket százalékban: margin:5%;
+- "inherit" érték esetén a szülő elem értékeit örökli
+- automatikus érték: margin-left: auto; & margin-left: auto;
+
+Értékek beállítása külön-külön:
+- margin-top;
+- margin-right;
+- margin-bottom;
+- margin-left;
+
+Értékek beállítása egyszerre: 
+- pixelben megadott értékkel: margin 40px 20px 40px 20px;
+- százalékban megadva:  margin: 20% 10% 10% 20%;
+
+	1.- top			1.- top				1.- top bottom		1. top, bottom, right, left
+	2.- right		2.- right,left		2.- right left
+	3.- bottom		3.- bottom
+	4.- left
+	
+- margó távolság pontos megadása, elemek közti távolság számítása
+*/
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 7
@@ -647,10 +772,36 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/tree/master/2021_10_21)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+
+#### BoxModell
+
+<img src="https://github.com/Motkany1980/RuanderFiles/blob/master/src/Boxmodell.PNG?raw=true" alt="Boxmodell">
+
+```css
+#elso_box {
+	background-color: red;
+	width:200px;
+	height:200px;
+	border:1px solid black;
+	margin:100px;
+}
+
+#masodik_box {
+	background-color: orange;
+	width:400px;
+	height:200px;
+	border:1px solid black;
+	margin:100px;
+}
+
+/*
+A box modell elemei:
+width: az adott css elem szélessége
+height: az adott css elem magassága
+padding: a css elem tartalma és a szegély közti távolság
+border: a css elem szegélyének vastagsága
+margin: a css elem másik css elemektől való távolsága (FONTOS, a margók több elem esetén nem adódnak össze
+*/
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 8
@@ -678,10 +829,160 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+```css
+/*A betűszínt többféle képpen is megadhatjuk, hasonlóan mint ahogy az a színeknél láthattuk 
+betűszín konkrét kifejezéssel - pl.: "red"
+HEXA kóddal - pl.: #ff0000
+RGB színnel - pl.: rgb(255,0,0)
+RGBA színnel - pl.: rgb(255,0,0,0.5) */
+.betuszin1 {
+    color: red;
+}
+
+.betuszin2 {
+    color: #00FF00;
+}
+
+.betuszin3 {
+    color: rgb(0, 0, 255);
+}
+
+.betuszin4 {
+    color: rgb(0, 0, 255, 0.5);
+}
+
+/* A szövegeket a megszokott alap módon igazíthatjuk jobbra, balra, középre és sorkizártan  */
+.kozepre {
+    text-align: center;
+}
+
+.jobbra {
+    text-align: right;
+}
+
+.balra {
+    text-align: left;
+}
+
+.sorkizart {
+    text-align: justify;
+}
+
+/* Szöveg "dekorálása" segítségével azt vízszintes vonallal ruházhatjuk fel különböző pozíciókban*/
+.vonalFelulre {
+    text-decoration: overline;
+}
+
+.vonalAlul {
+    text-decoration: underline;
+}
+
+.vonalKozepen {
+    text-decoration: line-through;
+}
+
+.vonalMegszuntetes {
+    text-decoration: none;
+    /*Alapértelmezett beállítás, sima szöveg estén*/
+}
+
+/*Át is alakíthatjuk a szöveget amennyiben szükségünk van rá több féle módban is a szöveget*/
+.nagyBetusSzoveg {
+    text-transform: uppercase;
+}
+
+.kisBetusSzoveg {
+    text-transform: lowercase;
+}
+
+.nagyKezdobetusSzoveg {
+    text-transform: capitalize;
+}
+
+/*A különböző betűk-szavak közti távolságot is beállíthatjuk több féle módon is, amennyiben szükségünk van rá*/
+.elsoSorBehuzas {
+    text-indent: 50px;
+}
+
+.betuTavolsag {
+    letter-spacing: 5px;
+}
+
+.sorMagassag {
+    line-height: 2.5;
+}
+
+.szoTavolsag {
+    word-spacing: 10px;
+}
+
+.sortoresKikapcsolo {
+    white-space: nowrap;
+}
+
+/*A szövegnek árnyékot is állíthatunk CSS segítségével amennyiben szeretnénk.*/
+.simaArnyek {
+    text-shadow: 1px 1px;
+}
+
+.szinesArnyek {
+    text-shadow: 1px 1px blue;
+}
+
+.elmosottArnyek {
+    text-shadow: 1px 1px 3px blue;
+    /*A harmadik paraméter az elmosás mértéke*/
+}
+
+/*Természetes az alapformázások mellett a dőlt betűstílust is beállíthatjuk CSS segítségével*/
+/*DŐLT*/
+.alapBetu {
+    font-style: normal;
+    /*Olyankor használjuk, ha az alapérték el lenne állítva...*/
+}
+
+.doltBetu1 {
+    font-style: italic;
+}
+
+.doltBetu2 {
+    font-style: oblique;
+}
+
+/*FÉLKÖVÉR*/
+.alapBetu2 {
+    font-weight: normal;
+    /*Olyankor használjuk, ha az alapérték el lenne állítva...*/
+}
+
+.felkoverBetu {
+    font-weight: bold;
+}
+
+.alapBetu3 {
+    font-variant: normal;
+    /*Olyankor használjuk, ha az alapérték el lenne állítva...*/
+}
+
+.kisKapitalisSzoveg
+{
+    font-variant: small-caps;
+}
+
+/*Betű méretét is beállíthatjuk több féle opcióval*/
+.betuMeretPixelben {
+    font-size: 26px;
+}
+
+.betuMeretEm {
+    font-size: 2em;
+    /*Az aktuális mérettől eltérő arányszám megadása*/
+}
+
+.betumeretVw {
+    font-size: 5vw;
+    /*Szintén mérettől függ a ViewPort Width(nézet szélességétől) Százalékos arányban*/
+}
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 9
@@ -708,11 +1009,102 @@ body {font-family: Times, serif;}
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### Listák
+```css
+/*Hivatkozás az elemekre*/
+ul {
+	
+}
+
+ol {
+	
+}
+
+/*
+UL lista módosításai:*/
+[list-style-type: circle;] /* - Üres kör */
+[list-style-type: disc;] /* Teli Kör */
+[list-style-type: square;] /* - Négyzet */
+
+[list-style-type: armenian;]
+[list-style-type: cjk-ideographic;]
+[list-style-type: decimal;]
+[list-style-type: decimal-leading-zero;]
+[list-style-type: georgian;]
+[list-style-type: hebrew;]
+[list-style-type: hiragana;]
+[list-style-type: hiragana-iroha;]
+[list-style-type: katakana;]
+[list-style-type: katakana-iroha;]
+[list-style-type: lower-alpha;]
+[list-style-type: lower-greek;]
+[list-style-type: lower-latin;]
+[list-style-type: lower-roman;]
+[list-style-type: upper-alpha;]
+[list-style-type: upper-greek;]
+[list-style-type: upper-latin;]
+[list-style-type: upper-roman;]
+[list-style-type: none;]
+[list-style-type: inherit;]
+
+
+/*Lista elem pozícionálása:*/
+[outside] /* - A listajel kívül található */
+[inside] /* - A listajel belül található, a szöveggel együtt */
+
+/* ALL IN ONE */
+
+ul {
+  list-style: square inside;
+}
+
 ``` 
+
+#### Outline
+````css
+#kulso_szegelyes_elem {
+	/*Tulajdonság*/
+	border: 10px solid black;
+	outline: 5px solid green;
+	outline-offset:5px;
+}
+
+/*Szegély Stílusa*/
+/* outline-style: dotted; - pontozott vonal
+outline-style: dashed; - szaggatott vonal
+outline-style: solid; - sima vonal
+outline-style: double; - dupla vonal
+outline-style: groove; - 3D hatású outline
+outline-style: ridge; - 3D hatású outline
+outline-style: inset; - 3D hatású outline
+outline-style: outset; - 3D hatású outline
+outline-style: none; - szegély kikapcsolása
+outline-style: hidden; - szegély elrejtése */
+
+/*Szegély vastagsága(szélessége)*/
+/* outline-width: 10px; - konkrét értékkel megadva
+outline-width: medium; - szöveggel megadva( medium-közepes, thin-vékony, thick-vastag) */
+
+/*Külső szegély színének megadása
+pl.: outline-color:#ff0000;
+
+A színt 4 fél képpen is megadhatjuk
+	1. HEX értékben : pl.:#ff0000;
+	2. RGB kódban : pl.: rgb(255,0,0);
+	3. RGBA kódban : pl.: rgba(255,0,0,0.5); //A 4. érték 0 és 1.0 közötti értékű
+	4. A szín nevét használva : pl.: red;	
+*/
+
+/*Az outlineokat sajnos NEM lehet oldalanként megadni*/
+
+/*Outline OFFSET*/
+outline-offset:10px; 
+/* Az outline offset tulajdonsáságval azt állítjuk be, hogy milyen távolságra legyen a szegélytől a külső szegélyünk*/ */
+
+/*ALL IN ONE!*/
+outline:1px solid red;
+
+````
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 10
 ### 2021.10.21. Táblázatok [Vissza](#0)
@@ -738,32 +1130,365 @@ W3School-ban a display/position/float feladatok a házi.
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### Táblázatok
+```css
+/* Alap formázás minden táblázat leformázására
+table{
+	
+}
+*/
+.SzegelyesTablazat {
+	border: 1px solid black;
+}
+.AdottMeretuTabla{
+	width:900px;
+	height:500px;
+}
+
+.KozepreIgazitottTabla {
+	text-align: center;
+	vertical-align: center;
+	width: 80%;
+	margin: 0px auto;
+}
+
+
+/*
+BORDER:
+A táblázathoz a régi html tulajdonság helyett használhatjuk immár a CSS border tulajdonságot
+Ezen elemek rendelhetők a TABLE mellett a TH és a TD emelekhez is!
+
+[border-collapse] Adott elemek beállított szegélyének eltüntetése
+
+SZÉLESSSÉG, MAGASSÁG:
+A táblák szélességét a width tulajdonsággal is beállíthatjuk
+
+-konkrét értékkel: px, cm, stb...
+width:200px;
+height:200px;
+
+-Százalékosan:
+width:30%;
+height:30%;
+	
+TARTALOM IGAZÍTÁSA
+A szövegeket a megszokott alap módon igazíthatjuk jobbra, balra, középre és sorkizártan  */
+.Hkozepre {
+	text-align: center;
+	/*Cell tartalmának középre igazítása*/
+}
+
+.Hjobbra {
+	text-align: right;
+	/*Cell tartalmának jobbra igazítása*/
+}
+
+.Hbalra {
+	text-align: left;
+	/*Cell tartalmának balra igazítása*/
+}
+
+.Hsorkizart {
+	text-align: justify;
+	/*Cell tartalmának sorkizárt igazításúvá tétele*/
+}
+
+/* A szövegeket a megszokott alap módon igazíthatjuk VÍZSZINTESEN felülre, középre és alulra  */
+
+.Vfelulre {
+	vertical-align: top;
+	/*Cell tartalmának függőlegesen felülre igazítása*/
+}
+
+.Vkozepre {
+	vertical-align: middle;
+	/*Cell tartalmának függőlegesen középre igazítása*/
+}
+
+.Valulra {
+	vertical-align: bottom;
+	/*Cell tartalmának függőlegesen alulra igazítása*/
+}
+
+
+/* EGYÉB FORMÁZÁSOK 
+
+BOX-modell formázások közül használhatjuk az lábbiakat az elemekre is külön-külön
+- widht
+- height
+- padding
+- valamint a szövegformázásokat is mindet!
+- illetve a színbeállításokat is!
+
+ADOTT SOR KIJELÖLÉSE
+[tr:nth-child(even);] - Páros sorok jelölése
+[tr:nth-child(odd);] - Páratlan sorok jelölése
+[tr:nth-child(1);] - Adott sor jelölése
+*/
+tr:nth-child(even) {
+	background-color: green;
+}
+
+tr:nth-child(odd) {
+	background-color: blue;
+}
+tr:nth-child(1)
+{
+	background-color: red;
+}
+
+/*
+HOVER EFFECT
+[tr:hover] - Ha a sorokhoz hover effektet rendelünk, akkor elérjük, azt hogy ha felé menjünk egérrel akkor az másképp nézzen ki, mint az alaptulajdonság
+
+RESZPONZÍV TÁBLÁZAT: 
+div kontéren elem esetén az alábbi tulajdonsággal azt felruházva responsive táblázatot hozhatunk létre
+[overflow-x:auto]
+*/
 ``` 
+
+#### Pozicionálás 
+
+````css
+/*
+Pozíció típusok
+Static: Az elem nem módosítható semmilyen pozícionálású tulajdonsággal
+Relative: Az adott elem pozícióját módosíthatjuk, az eredeti helyétől számítva
+Fixed: A viewporthoz (böngészési felülethez) viszonyítva adom meg az elem helyét, és az abból a pozícióból nem mozdul el, görgetés hatására sem
+Absolute: A viewporthoz, vagy az őt tartalmazó div elemhez igazodik.
+Sticky: A relative és fixed pozíció kombinálása, a lényege, hogy amint az adott elem eltűnne a képernyőről, az eltűnés helyett oda „ragad”
+
+*/
+.Mozdithatatlan{
+	position:static;
+	background-color:grey;
+}
+.Elmozditott{
+	position:relative;
+	left:100px;
+	top: 30px;
+	background-color: blue;;
+}
+.AzAbszolUt{
+	position:absolute;
+	left:100px;
+	top: 30px;
+	background-color: yellow;;
+}
+
+.FixPanel {
+	
+	position:fixed;
+	left:0px;
+	top:50px;
+	background-color: red;
+}
+.Ragados{
+	position: sticky;
+	top:0px;
+	background-color: green;
+}
+
+
+/*
+-------------------------STATIC---------------------------
+Static beállítás esetén mint fentebb is olvasható nincs lehetőség pozícionálásra.
+
+
+Az értéket általában pixelben adjuk meg
+
+
+-------------------------RELATIVE--------------------------
+
+Top – Az elemet föntről lefelé mozdítja, eredeti pozíciójából
+Left – Az elemet balról jobbra mozdítja, eredeti pozíciójából
+Right – Az elemet jobbról balra mozdítja, eredeti pozíciójából
+Bottom – Az elemet lentről felfellé mozdítja, eredeti pozíciójából
+
+
+
+-------------------------FIXED-----------------------------
+
+Az értéket általában pixelben adjuk meg
+Top – Az elemet az viewport felső részéről mozdítja lefelé
+Left – Az elemet az viewport bal oldaláról mozdítja jobbra
+Right – Az elemet az viewport jobb oldaláról mozdítja balra
+Bottom – Az elemet az viewport alsó részéről mozdítja felfelé
+
+
+
+-------------------------ABSOLUTE---------------------------
+
+Top – Az elemet az viewport / szülő div felső részéről mozdítja lefelé
+Left – Az elemet az viewport / szülő div bal oldaláról mozdítja jobbra
+Right – Az elemet az viewport / szülő div jobb oldaláról mozdítja balra
+Bottom – Az elemet az viewport / szülő div alsó részéről mozdítja felfelé
+
+
+-------------------------STICKY-----------------------------
+Top – Az elemet ragadási pozícióját a felső résztől lefelé mozdítja, 
+Left – Az elemet ragadási pozícióját bal oldalról jobbra mozdítja
+Right – Az elemet ragadási pozícióját jobb oldalról balra mozdítja
+Bottom – Az elemet ragadási pozícióját lentről felfellé mozdítja
+
+
+
+Negatív érték adása esetén, a mozgatás irány megfordul!
+
+*/
+````
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 11
 ### 2021.10.26 Linkek [Vissza](#0)
 <!-- Pseudo classok és elemek-->
 #### Hasznos linkek:
-* []()
+* [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+* [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
+* [W3School feladatok](https://www.w3schools.com/css/exercise.asp)
 
 #### Videók:
-* []()
+* [Team08_2021_10_26_p1_PoziciokMindenutt_megoldas](https://www.youtube.com/watch?v=07kG3VxHipM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=44)
+* [Team08_2021_10_26_p2_VizszintesFloatMenu_megoldas](https://www.youtube.com/watch?v=kFZqaCtmFIs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=45)
+* [Team08_2021_10_26_p3_HtmlElemekCSS_megoldas](https://www.youtube.com/watch?v=h_A6OcSC5ts&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=46)
+* [Team08_2021_10_26_p4_CSS_linkek](https://www.youtube.com/watch?v=xEwtKg8atI4&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=47)
+* [Team08_2021_10_26_p5_CSS_pseudoElemek](https://www.youtube.com/watch?v=vHRCTTaN5Qc&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=48)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [F01_PoziciokMindenuttForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/jtQRDSIK) 
+- [ ] F02 [F02_VizszintesMenuForras01](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/mlJjUQxR) 
+- [ ] F03 [F03_HtmlAlapokCssForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/egYFTYZC) 
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+```css
+
+/* Alap formázás minden link állapot leformázására */
+a{
+	
+}
+a:link {
+	/*Alapértelmezett link beállításai kerülnek ide*/
+	color: red;
+	/*Az alapértelmezett link aláhúzott*/
+	font-size: 16px;
+	cursor: crosshair;
+	margin: 30px;
+	padding: 10px;
+	background-color: black;
+}
+
+a:visited {
+	/*Látogatott link beállításai kerülnek ide(amire már kattintottunk)*/
+	color: green;
+	text-decoration: none;
+	font-size: 2em;
+	cursor: e-resize;
+	margin: 30px;
+	padding: 10px;
+	background-color: black;
+}
+
+a:hover {
+	/*Azok a linkek kerülnek ide, amik felé épp az egér kurzora került*/
+	color: blue;
+	text-decoration: none;
+	font-size: 80%;
+	cursor: help;
+	margin: 30px;
+	padding: 10px;
+	background-color: black;
+}
+
+a:active {
+	/*A link kinézetét állíthatjuk be a kattintás pillanatában*/
+	color: yellow;
+	text-decoration: underline;
+	font-size: 100%;
+	cursor: progress;
+	margin: 30px;
+	padding: 10px;
+	background-color: black;
+}
+
+
+/* ÁLTALÁNOS BEÁLLÍTÁSI LEHETŐSÉGEK: */
+
+
+/* 1) Aláhúzás megjelenítés/eltüntetés */
+
+/* Aláhúzás megjelenítése: */
+text-decoration: underline; 
+
+/* Aláhúzás eltüntetés */
+text-decoration: none; 
+
+____________________________________________________________
+
+/* 2) Karakterek színének beállítása
+
+Hexa kóddal: */
+color: #00FF00;
+
+/* Adott szín nevével: */
+color: green;
+
+/* RGB kóddal: */
+color: rgb(0,255,0);
+
+/* RGBA kóddal: */
+color: rgba(0,255,0,0.5);
+
+/* HSL kóddal: */
+color: hsl(100,100%,50%);
+
+/* HSLA kóddal */
+color: hsla(100,100%,50%,0.5);
+
+____________________________________________________________
+
+/* 3) Háttérszín beállítása, hasonló módokon lehet mint a betűszínt,
+de az attributum amit beállítunk az a: */
+[background-color]
+____________________________________________________________
+
+/* 4) Betűméret beállítása
+A betűméret beállítása a korábban megadott módokon folyhat a font-size tulajdonsággal. */
+
+font-size:10px; /* - konkrét értékkel: px, cm, stb... */
+font-size:150%; /* - százalékos értékkel(ilyenkor az erdeti mérethez való viszonított arányt adjuk meg */
+
+____________________________________________________________
+
+/* 5) Kurzor beállítása, ha az elem felé megyünk egérrel */
+
+[cursor: auto;]
+[cursor: crosshair;]
+[cursor: default;]
+[cursor: e-resize;]
+[cursor: help;]
+[cursor: move;]
+[cursor: n-resize;]
+[cursor: ne-resize;]
+[cursor: nw-resize;]
+[cursor: pointer;]
+[cursor: progress;]
+[cursor: s-resize;]
+[cursor: se-resize;]
+[cursor: sw-resize;]
+[cursor: text;]
+[cursor: w-resize;]
+[cursor: wait;]
+
+____________________________________________________________
+
+/* 6) Egyéb tulajdonságok,
+
+- ha a linknek adunk padding tulajdonságot, akár gombméretűre is rakhatjuk
+- alap linket sok mindenre, akár külön div elemre, vagy képre is beállíthatunk
+- linkeket vízszintes, függőleges vagy esetleg legördülő menük készítésére is használhatunk */
+
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 12
