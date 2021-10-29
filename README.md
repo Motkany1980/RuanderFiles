@@ -39,7 +39,7 @@
 * [2021.10.19.](#9) - OutlineListak&GyakorlasiLehetosegek
 * [2021.10.21.](#10) - TablazatokHomoktovis&Pozicionalas
 * [2021.10.26.](#11) - Linkek+PseudoClassok&Elemek
-* [2021.10.28.](#12) - 
+* [2021.10.28.](#12) - Űrlapok&PozícionálásiLehetőségek
 * [2021.11.02.](#13) - 
 * [2021.11.04.](#14) - 
 * [2021.11.09.](#15) - 
