@@ -1498,19 +1498,141 @@ ____________________________________________________________
 * []()
 
 #### Videók:
-* []()
+* [Hungaroring_feladatsor](https://www.youtube.com/watch?v=P3S16YNcdLo&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=49)
+* [PozícionálásiLehetőségek](https://www.youtube.com/watch?v=MFhH4c9u0lA&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=50)
+* [CSS_formok](https://www.youtube.com/watch?v=Zqdr6hWpk1E&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=51)
+* [egyszerűLink_megoldas](https://www.youtube.com/watch?v=LRVIQr2YGaM&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=52)
+* [VízszintesLinkMenu_megoldas](https://www.youtube.com/watch?v=13n4OnN2St0&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=53)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [Hungaroring_forras(Beküldős)](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/S0JHXKxC)
+- [ ] F02 [EgyszeruLink](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ykog2LTS)
+- [ ] F03 [VizszintesMenuForras02](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/T4xyxR5A)
+- [ ] Sz01 [Balatongyorok_forras(SzorgalmiHétvégére)](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/q9gSgRgK)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+```css
+/* Alap formázás
+
+input{
+
+}
+select{
+
+}
+*/
+input {
+	display: block;
+	/*Az adott elemet blokk szintűvé állította, nem kell sortörés*/
+	margin: 10px;
+}
+/*
+1) Input elem típusa szerinti kiválasztása
+*/
+
+input[type=text]
+input[type=password]
+input[type=email]
+input[type=number]
+input[type=text]
+{
+	background-color:green;
+}
+input[type=password]
+{
+	background-color:black;
+	color:white;
+}
+input[type=email]
+{
+	background-color:red;
+}
+input[type=number]
+{
+	background-color:blue;
+}
+/*
+
+2) Bármi fölé megyünk egérrel
+[formElem:hover] formElem, ami felé az egér korzort helyezzük
+*/
+
+input[type=text]:hover {
+	font-weight: bold;
+	font-size: 16x;
+	width:100%;
+}
+/*
+____________________________________________________________
+4) Űrlap elemek kiválasztása tulajdonságuk(attributumuk) alapján
+
+[InputElem:checked] - Minden checked tulajdonsággal rendelkező input elem
+[InputElem:disabled] - Minden disabled tulajdonsággal rendelkező input elem
+[InputElem:enabled] - Minden enabled tulajdonsággal rendelkező input elem
+[InputElem:focus] - Minden focus-t kapott input elem(pl.: belekattintunk)
+[InputElem:in-range] - Megfelelő értékekkel rendelkező input elem(min-max segítségével beállított)
+[InputElem:out-of-range] -NEM megfelelő értékekkel rendelkező input elem(min-max segítségével beállított)
+[InputElem:invalid] - Minden NEM megfelelő értékekkel rendelkező input elem
+[InputElem:optional] - Minden required attribútum nélküli elem
+[InputElem:read-only] - Minden readonly tulajdonsággal rendelkező input elem
+[InputElem:read-write] - Minden NEM readonly tulajdonsággal rendelkező input elem
+[InputElem:required] - Minden required tulajdonsággal rendelkező input elem
+[InputElem:valid] - Minden megfelelő értékekkel rendelkező input elem
+
+*/
+
+input:focus {
+	background-color: #777777;
+	color: #333333;
+}
+
+input:required {
+	border: 1px solid red;
+}
+
+input:optional {
+	border: 1px solid green;
+}
+
+input:out-of-range {
+	color: red;
+	font-weight:bold;
+}
+
+input:in-range {
+	color: green;
+	font-weight:bold;
+}
+
+input:disabled {
+	color: grey;
+}
+input:checked{
+	color:green;
+}
+select{
+	font-weight:bold;
+}
+
+/*További tulajdonságok:
+
+Szélesség és magasság beállítása(width és height)
+
+Belső és külső margó(padding és margin)
+
+Szegélyek (külső és belső) beállítása(outline & border)
+
+Betű és háttérszín(color és background-color)
+
+Animációk, erről később... :)
+
+A további tulajdonságok tekintetében, lásd a korábbi nekik megfelelő jegyzeteket
+
+
+*/
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 13
