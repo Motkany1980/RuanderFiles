@@ -1,11 +1,10 @@
 a{
     border: solid 1px black;
-    color: green;
-    font-size: 20px;
-
 }
 a:link{
-
+text-decoration: none;
+font-size: 20px;
+color: green;
 }
 
 a:visited{
@@ -19,4 +18,10 @@ text-decoration: underline;
 font-size: 24px;
 color: red;
 background-color: black;
+}
+a:hover{
+    text-decoration: underline;
+    font-size: 24px;
+    color: red;
+    background-color: black;
 }
