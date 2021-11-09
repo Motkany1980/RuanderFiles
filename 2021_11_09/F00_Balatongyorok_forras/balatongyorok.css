@@ -1,0 +1,56 @@
+body {
+    background-image: url("Feladat/back.jpg");
+    background-size: cover;
+}
+
+#torzs {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+p {
+    text-indent: 20px;
+    font-weight: bold;
+}
+
+#header {
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url("Feladat/panorama.jpg");
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    height: 200px;
+}
+
+#cimer {
+    margin: 20px 50px;
+    height: 150px;
+    position: absolute;
+    right: 50px;
+    top: 20px;
+}
+
+.informaciok {
+    width: 450px;
+    background-color: #5b9cea;
+    display: inline-block;
+    padding: 20px;
+}
+
+table {
+    background-color: #B0D1F1;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+h1{
+    padding: 20px 0px 0 20px;
+}
+.source{
+    padding: 8px;
+}
