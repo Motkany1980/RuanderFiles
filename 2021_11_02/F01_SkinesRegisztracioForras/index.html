@@ -5,9 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Regisztráció</title>
 </head>
 <body>
-    
+    <form action="">
+        <h2>Regisztráció</h2>
+        <input type="text" name="Vezeték név" placeholder="Vezeték név" required pattern="[A-ZÁÉÍÓÜÖŐÜŰ]{1}[a-záéióöőüű]"><br>
+        <input type="text" name="Kereszt név" placeholder="Kereszt név" required pattern="[A-ZÁÉÍÓÜÖŐÜŰ]{1}[a-záéióöőüű]"><br>
+        <input type="text" name="User név" id="" placeholder="User név" required pattern="[A-Za-z0-9]{5,30}"><br>
+        <input type="password" name="Jelszó" placeholder="Jelszó" required pattern="(?=.*\d)"><br>
+        <input type="password" name="Jelszó megerősítése" placeholder="Jelszó megerősítése" required><br>
+        <input type="email" name="E-mail" placeholder="E-mail" required><br>
+        <input type="email" name="E-mail megerősítése" placeholder="E-mail megerősítése" required><br>
+        <input type="button" value="Regisztrálok">
+    </form>
 </body>
 </html>

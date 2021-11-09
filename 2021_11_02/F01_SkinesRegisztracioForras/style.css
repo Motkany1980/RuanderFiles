@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h2{
+    color: white;
+    margin: 5px;
+}
+form{
+    text-align: center;
+    margin: 0 auto;;
+    width: 25vh;
+    background-color:#15172b ;
+    color: #eee;
+}
+input{
+    background-color: #303245;
+    color: #eee;
+    margin: 5px auto;
+}
+input:focus{
+    font-weight: bold;
+}
+input:invalid{
+border: 1px solid black;
+}
+input[type="submit"]{
+    width:300px;
+}
