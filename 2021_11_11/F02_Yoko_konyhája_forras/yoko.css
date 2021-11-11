@@ -32,11 +32,13 @@ nav, footer {
 nav ul {
 	margin: 0px;
 	padding: 5px 0px 5px 30px;
+	text-decoration: none;
 }
 
 nav li {
 	margin-right: 40px;
 	display: inline-block;
+	text-decoration: none;
 }
 
 nav li a {
