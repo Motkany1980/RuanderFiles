@@ -127,3 +127,12 @@ aside a {
 	color: #de6581;
 	text-decoration: none;
 }
+
+article p{
+	text-align: justify;
+}
+aside{
+	width: 230px;
+	padding-left: 20px;
+	float: right;
+}
