@@ -40,13 +40,13 @@
 * [2021.10.21.](#10) - TablazatokHomoktovis&Pozicionalas
 * [2021.10.26.](#11) - Linkek+PseudoClassok&Elemek
 * [2021.10.28.](#12) - Űrlapok&PozícionálásiLehetőségek
-* [2021.11.02.](#13) - 
-* [2021.11.04.](#14) - 
-* [2021.11.09.](#15) - 
-* [2021.11.11.](#16) - 
-* [2021.11.16.](#17) - 
-* [2021.11.18.](#18) - 
-* [2021.11.23.](#19) - 
+* [2021.11.02.](#13) - SzínátmenetekÁrnyékok
+* [2021.11.04.](#14) - 2Dés3Dtranszformációk
+* [2021.11.09.](#15) - Animálás(IsmétlősExtraÓra)
+* [2021.11.11.](#16) - MédiaElemek&Responsivitás
+* [2021.11.16.](#17) - TovábbiCSSelemek
+* [2021.11.18.](#18) - BootstrapRácsÉsTáblázatok
+* [2021.11.23.](#19) - BootstrapŰrlapok(IsmétlősExtraÓra)
 * [2021.11.25.](#20) - HTML&CSS HivatalosVége
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
