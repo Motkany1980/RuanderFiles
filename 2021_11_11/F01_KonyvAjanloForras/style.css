@@ -1,0 +1,77 @@
+body {
+    background-image: url('Feladat/konyv_hatter.jpg');
+    color: rgb(68, 51, 33);
+}
+
+#keret {
+    width: 70%;
+    border: 1px solid #ca8;
+    box-shadow: 1px 1px 3px;
+    background-color: rgb(204, 170, 135);
+    border: 1px solid rgb(239, 205, 170);
+    margin: 50px auto 0px;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {}
+
+.konyv {
+    box-shadow: 1px 1px 7px black;
+    border: 1px solid rgb(68, 51, 33);
+    background-color: rgb(238, 204, 169);
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 90%;
+    background-image: url('Feladat/book_icon.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 100px;
+}
+
+.konyv h1 {
+    padding: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.konyv h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.konyv h3 {
+
+}
+
+img {
+    width: 150px;
+    border: 1px solid #4a3928;
+    float: left;
+    margin: 15px;
+}
+
+.elvalaszto {
+    clear: both;
+}
+
+p {
+    text-align: justify;
+    padding: 15px;
+}
+
+.kiemelt {
+    font-weight: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
