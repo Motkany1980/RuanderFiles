@@ -5,9 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Admin</title>
 </head>
 <body>
-    
+<form action="">
+    <h1>Regisztráció</h1>
+    <input type="text" name="firstName" id="FirstName" placeholder="First name" pattern="[A-ZÁÉÍÓÖŐÚÜŰ]{1}[a-záéíóöőúüű]{1,}">
+    <input type="text" name="LastName" id="LastName" placeholder="Last name" pattern="">
+    <input type="text" name="User" id="User" placeholder="User" pattern="">
+    <input type="password" name="Password" id="Password" placeholder="password" pattern="">
+    <input type="password" name="PasswordCopy" id="PassordCopy" placeholder="password" pattern="">
+    <input type="email" name="Email" id="Email" placeholder="email" pattern="">
+    <input type="email" name="Emailcopy" id="EmailCopy" placeholder="email" pattern="">
+    <input type="submit" value="Regisztrálok">
+</form>
 </body>
 </html>
