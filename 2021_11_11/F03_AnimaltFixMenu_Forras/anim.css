@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-image: url(Feladatok/hatter.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 100px;
+}
+
+span {
+	display: inline-block;
+	width: 150px;
+	position: relative;
+	bottom: 20px;
+	margin-left: 20px ;
+	margin-right: 50px;
+}
+
+img {
+	width: 50px; 
+}
+
+a {
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 0 10px 10px 0;
+	box-shadow: black 2px 2px 5px;
+	font-weight: bold;
+	font-size: 30px;
+	display: block;
+	margin: 40px 0;
+	width: 300px;
+	height: 100px;
+	color: white;
+	padding: 10px 0;
+	background-color: rgba(0,0,0, 0.5);
+	position: relative;
+	left: -200px;
+	transition: left 2s;
+}
+a:hover {
+	left: 0;
+	transition: left 2s;
+}
