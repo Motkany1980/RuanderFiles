@@ -29,3 +29,10 @@ section:first-child() h1 {
 ul {
     list-style-type: '- ';
 }
+p{
+    text-align: justify;
+}
+.container{
+    width: 960px;
+    min-height: 100vh;
+}
