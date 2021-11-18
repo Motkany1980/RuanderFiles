@@ -1,42 +1,27 @@
 body {
-    font-family: Verdana, sans-serif;
+    margin:0 auto;
 }
 
-body > div {
-    margin: 0 3px;
+section {
+    padding: 50px;
 }
 
-.foto {
-    width: 300px;
-    margin-left: 10px;
+section:first-child() h1 {
+    margin-top: 200px;
 }
-.foto img {
-    width: 100%;
-}
-.kepalairas{
+
+.kep {
     text-align: center;
 }
-
-h2, nav {
-    margin: 10px -10px 10px -10px;
-    padding: 15px 0 15px 15px;
-    background-color: lightgray;
+.kep h2{
+    text-align: left;
 }
 
-img {
-    max-height: 350px;
+.kepalairas p{
+    text-align: right;
+    font-style: italic;
 }
 
-dd {
-    margin-left: 20px;
-}
-
-a {
-    color:red;
-}
-
-a:hover {
-    text-decoration: none;  
-    font-weight: bold;
-    color:red;
+ul {
+    list-style-type: '- ';
 }
