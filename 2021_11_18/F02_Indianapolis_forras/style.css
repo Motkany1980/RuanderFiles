@@ -1,0 +1,45 @@
+body {
+    margin: 0 auto;
+    color: navy;
+    font-family: Verdana, Arial;
+}
+
+section {
+    padding: 50px;
+    border-bottom: 2px solid lightgrey;
+}
+
+section:first-child() h1 {
+    margin-top: 200px;
+}
+
+.kep {
+    text-align: center;
+}
+
+.kep h2 {
+    text-align: left;
+}
+
+.kepalairas p {
+    text-align: right;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: '- ';
+}
+
+p {
+    text-align: justify;
+}
+
+.container {
+    width: 960px;
+    min-height: 100vh;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}

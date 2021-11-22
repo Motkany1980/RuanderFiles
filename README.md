@@ -40,13 +40,13 @@
 * [2021.10.21.](#10) - TablazatokHomoktovis&Pozicionalas
 * [2021.10.26.](#11) - Linkek+PseudoClassok&Elemek
 * [2021.10.28.](#12) - Űrlapok&PozícionálásiLehetőségek
-* [2021.11.02.](#13) - 
-* [2021.11.04.](#14) - 
-* [2021.11.09.](#15) - 
-* [2021.11.11.](#16) - 
-* [2021.11.16.](#17) - 
-* [2021.11.18.](#18) - 
-* [2021.11.23.](#19) - 
+* [2021.11.02.](#13) - SzínátmenetekÁrnyékok
+* [2021.11.04.](#14) - 2Dés3Dtranszformációk
+* [2021.11.09.](#15) - Animálás(IsmétlősExtraÓra)
+* [2021.11.11.](#16) - MédiaElemek&Responsivitás
+* [2021.11.16.](#17) - TovábbiCSSelemek
+* [2021.11.18.](#18) - BootstrapRácsÉsTáblázatok
+* [2021.11.23.](#19) - BootstrapŰrlapok(IsmétlősExtraÓra)
 * [2021.11.25.](#20) - HTML&CSS HivatalosVége
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
@@ -1642,19 +1642,113 @@ A további tulajdonságok tekintetében, lásd a korábbi nekik megfelelő jegyz
 * []()
 
 #### Videók:
-* []()
+* [CSS_SkinesRegisztraciosFelulet](https://www.youtube.com/watch?v=tHxkC9cNAuw&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=54&t=791s)
+* [Színátmenetek(Gradients)](https://www.youtube.com/watch?v=vQezELnVHWc&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=55)
+* [Árnyékok(Shadows)](https://www.youtube.com/watch?v=aMaDVQD3g4o&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=56)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [F01_SkinesRegisztracioForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/b9BznQpZ)
+- [ ] F02 [F02_SkinesAdminFeluletForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/qgRT2CKK)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+```css
+/* Három féle lehetőségünk van színátmenetek megadására CSS-ben
+
+Linear(Egyenes vonalú)
+-jobbról balra
+-balról jobbra
+-átlósan
+
+Radial(Kör vagy elipszis alakú)
+- elipszis az alapértelmezett
+- "kör" vagy "elipszis" belsejéből külseje felé
+
+Conic(Kúp formájú)
+-központi pont körül
+-torta diagrammok készítésére is használhatjuk akár, bizonyos állítható verzióit
+*/
+
+/*Linear gradient(Egyenes vonalú színátmenet)*/
+.balrolJobbra{
+	background-image: linear-gradient(to right, blue , green);
+}
+.fentrolLefele{
+	background-image: linear-gradient(blue, green);
+}
+.keresztbeBalfelulrolJobbalulra{
+	background-image: linear-gradient(to bottom right, blue, green);
+}
+.szogetMegadva{
+	background-image: linear-gradient(60deg, blue,green);
+}
+.tobbSzinu{
+	background-image: linear-gradient(red,white,green);
+}
+.szivarvany{
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+}
+.attetszo{
+	background-image: linear-gradient(rgba(0,0,255,0), rgba(0,255,0,1));
+}
+.ismetlodo{
+	background-image: repeating-linear-gradient(blue, green 25%);
+}
+
+
+/* Radiális (körkörös színátmenet*/
+.korkorosAlap{
+	background-image: radial-gradient(green, white, red);
+}
+.korkorosSzazalek{
+	background-image: radial-gradient(green 25%, white 25%, red 50%);
+}
+.korAlaku{
+	background-image: radial-gradient(circle, green, white, red);
+}
+.ismetlodoKorkoros{
+	background-image: repeating-radial-gradient(green, white, red 20%);
+}
+
+/*Arányokat is megadhatunk ha szeretnénk, erre van 4 lehetőségünk:
+
+[closest-side]
+[farthest-side]
+[closest-corner]
+[farthest-corner]
+
+pl.: 
+background-image: radial-gradient(closest-side at 60% 55%, green, white, red);
+*/
+
+/*Conic típusú (kúpos aka TortaDiagramm szerű*/
+.alapKupos{
+	background-image: conic-gradient(red, white, green);
+}
+.szivarvanySzinuKupos{
+background-image: conic-gradient(red,orange,yellow,green,blue,indigo,violet);
+}
+.kuposSzogekkel{
+	background-image: conic-gradient(red 60deg, white 240deg, green 60deg);
+}
+.tortaDiagramm{
+	background-image: conic-gradient(red 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg);
+	border-radius:50%;
+}
+.eltoltKozeppont{
+	background-image: conic-gradient(at 60% 45%, red, white, green);
+}
+.ismetlodoConic{
+	background-image: repeating-conic-gradient(blue, green 20%);
+}
+/*
+Színátmenet generátor: https://cssgradient.io/
+User Interface színátmenetek: https://uigradients.com/
+További színátmenet sémák: https://www.eggradients.com/
+*/
+
 ``` 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 14
@@ -1664,20 +1758,259 @@ A további tulajdonságok tekintetében, lásd a korábbi nekik megfelelő jegyz
 * []()
 
 #### Videók:
-* []()
+* [SkinesAdminFelulet](https://www.youtube.com/watch?v=8TgYQ6wl9Vs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=57)
+* [2Dés3Dtranszformációk](https://www.youtube.com/watch?v=XcddA9qnzdA&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=58)
+* [Pitagorasz_feladatsor](https://www.youtube.com/watch?v=hPQapbuCI-U&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=59)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [SkinesAdminFeluletForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/j9x0yTyR)
+- [ ] F02 [Pitagorasz_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Ghw2ibQT)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
+#### Árnyékok
+```CSS
+/*
+2 lehetőségünk van árnyékot adni egy elemnek:
+[text-shadow] - Adott szöveges elem köré helyezünk árnyékot
+[box-shadow] - Adott div elem box modellje köré helyezünk árnyékot
+Árnyékok esetében 2-4 paraméterrel dolgozhatunk
+
+2 paraméter esetén
+-első: az árnyék x irányú eltolása, pixelben
+-második: az árnyék y irányú eltolása, pixelben
+-az árnyék színe alapértelmezetten fekete
+
+3 paraméter esetén
+-első: az árnyék x irányú eltolása, pixelben
+-második: az árnyék y irányú eltolása, pixelben
+-az árnyék színének megadása, névvel, hexa kóddal, rgb, rgba, hsl, hsla módszerrel
+
+4 paraméter esetén
+-első: az árnyék x irányú eltolása, pixelben
+-második: az árnyék y irányú eltolása, pixelben
+-harmadik: az árnyék elmosásának nagysága, pixelben megadva
+-az árnyék színének megadása, névvel, hexa kóddal, rgb, rgba, hsl, hsla módszerrel
+
+Lehetőségünk van ha szeretnénk, egyszerre több árnyékot is adni egy elemnek
+*/
+
+/* Szöveg árnyék*/
+.alapSzovegArnyek {
+	text-shadow: 2px 2px;
+}
+
+.zoldSzovegArnyek {
+	text-shadow: 2px 2px green;
+}
+
+.kekElmosottSzovegArnyek {
+	text-shadow: 2px 2px 5px blue;
+}
+.kiemeltSzoveg{
+	color: white;
+  	text-shadow: 2px 2px 4px #000000;
+}
+.tobbSzovegArnyek{
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.szovegSzegely{
+	color:white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+/*Doboz árnyék*/
+.alapDobozArnyek {
+	box-shadow: 10px 10px;
+}
+
+.zoldDobozArnyek {
+	box-shadow: 5px 5px green;
+}
+
+.kekElmosottDobozArnyek {
+	box-shadow: 5px 5px 10px blue;
+}
+.tobbDobozArnyek{
+	box-shadow: 0 0 5px #FF0000, 0 0 5px #0000FF;
+}
+/*CSS dobozok esetén nincs szükségünk árnyékból készült szegélyre, 
+hisz arra ott van a hivatalos [border] tulajdonság!
 ``` 
+
+2D transzformációk
+```css
+/*
+2D Transzformációk
+translate() - Az elem elmozdítása, x és y irányba
+rotate() - Az elem elforgatása adott szögben
+scaleX() - Az elem átméretezése X tengely mentén
+scaleY() - Az elem átméretezése Y tengely mentén
+scale() - Az elem átméretezése X és Y tengely mentén
+skewX() - Az elem megdöntése X tengely mentén
+skewY() - Az elem megdöntése Y tengely mentén
+skew() - Az elem megdöntése X és Y tengely mentén
+matrix() - Több 2D-s transzformáció megadása egyszerre
+*/
+
+/*translate() - Elmozdítás*/
+.mozgatas:hover {
+    transform: translate(30px, 20px);
+}
+
+/*rotate() - Forgatás*/
+.forgatas:hover {
+    transform: rotate(30deg)
+        /*Negatív irány, az ellentétes irányú mozgást jelöli*/
+}
+
+/*scale() - Átméretezés*/
+.atmeretezesXY:hover {
+    transform: scale(2, 2);
+    /*Egy alatti értékek esetén kicsinyítés figyelhező meg*/
+}
+
+.atmeretezesX:hover {
+    transform: scaleX(1.5);
+    /*Egy alatti érték esetén X irányú összefűzés van*/
+}
+
+.atmeretezesY:hover {
+    transform: scaleY(0.5);
+    /*Egynél nagyobb érték esetén Y irányú nyújtás van*/
+}
+
+/*skew() - Döntés*/
+.dontes:hover {
+    transform: skew(20deg, 10deg);
+    /*Ha csak egy értéket adunk meg akkor a második érték 0-nak számít, így csak X irányú döntés lesz*/
+}
+
+.dontesX:hover {
+    transform: skewX(30deg);
+    /*X irányú döntés*/
+}
+
+.dontesY:hover {
+    transform: skewY(45deg);
+    /*Y irányú döntés*/
+}
+
+/*matrix() - All in ONE*/
+.matrix:hover {
+    transform: matrix(2, 0, 1, 2, 100, 100);
+}
+
+/*
+A formázások matrix() esetén a következő:
+matrix(scaleX(),skewY(),skewX(),scaleY(),translateX(),translateY())
+*/
+```
+
+#### 3d Transzformációk
+
+
+```css
+/*
+3D Transzformációk
+
+translateX() - Az elem elmozdítása, X irányba
+translateY() - Az elem elmozdítása, Y irányba
+translateZ() - Az elem elmozdítása, Z irányba
+translate3D() - Az elem elmozdítása, X, Y és Z irányba
+
+rotateX() - Az elem elforgatása X tengelyen adott szögben
+rotateY() - Az elem elforgatása Y tengelyen adott szögben
+rotateZ() - Az elem elforgatása Z tengelyen adott szögben
+rotate3D() - Az elem elforgatása X, Y és Z tengelyen adott szögben
+
+scaleX() - Az elem átméretezése X tengely mentén
+scaleY() - Az elem átméretezése Y tengely mentén
+scaleZ() - Az elem átméretezése Z tengely mentén
+scale3D() - Az elem átméretezése X és Y és Z tengely mentén
+
+skew - Erre a formázásra 3D esetében nincs lehetőség!
+
+matrix() - Több 3D-s transzformáció megadása egyszerre
+*/
+
+/*translate() - Elmozdítás*/
+.elmozditasX:hover {
+    transform: translateX(30px);
+}
+
+.elmozditasY:hover {
+    transform: translateY(30px);
+}
+
+.elmozditasZ:hover {
+    transform: translateZ(300px);
+}
+
+.elmozditas3D:hover {
+    transform: translate3d(30px, 40px, 10px);
+}
+
+/*rotate() - Forgatás*/
+.forgatasX:hover {
+    transform: rotateX(60deg);
+    /*Negatív irány, az ellentétes irányú mozgást jelöli*/
+}
+
+.forgatasY:hover {
+    transform: rotateY(60deg);
+    /*Negatív irány, az ellentétes irányú mozgást jelöli*/
+}
+
+.forgatasZ:hover {
+    transform: rotateZ(30deg);
+    /*Negatív irány, az ellentétes irányú mozgást jelöli*/
+}
+
+.forgatas3D:hover {
+    transform: rotate3d(1, 1, 1, 45deg);
+}
+
+/*scale() - Átméretezés*/
+
+.atmeretezesX:hover {
+    transform: scaleX(1.5);
+    /*Egy alatti érték esetén X irányú összefűzés van*/
+}
+
+.atmeretezesY:hover {
+    transform: scaleY(0.5);
+    /*Egynél nagyobb érték esetén Y irányú nyújtás van*/
+}
+
+.atmeretezesZ:hover {
+    transform: scaleZ(2);
+    /*Egy alatti értékek esetén kicsinyítés figyelhező meg*/
+}
+
+.atmeretezes3D:hover {
+    transform: scale3d(0.5, 2, 2);
+}
+
+/*matrix3d() - All in ONE*/
+.matrix3D:hover {
+    transform: matrix3d(1, 0.2, 0.8, 0, -0.5, 0.8, 0.2, 0, -0.6, -0.5, 0.5, 0, 0, 0, 0, 1);
+}
+
+/*
+A formázások matrix() esetén a következő:
+rotate3d(), rotateX(), rotateY(), rotateZ(), translate3d(), translateZ(), scale3d(), scaleZ(), és perspective().
+*/
+
+/*perspective() - Nézőpont [3D elemeknél használjuk]*/
+.nezoPont {
+    perspective: 100px;
+}
+```
+
+
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 15
 ### 2021.11.09 <b>[Vissza](#0)</b>
@@ -1686,20 +2019,199 @@ A további tulajdonságok tekintetében, lásd a korábbi nekik megfelelő jegyz
 * []()
 
 #### Videók:
-* []()
+* [Balatongyorok](https://www.youtube.com/watch?v=YZxcA7nBhQo&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=60)
+* [FuggolegesFixMenu](https://www.youtube.com/watch?v=Bqxt0Vjwufs&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=61)
+* [CssAnimaciok](https://www.youtube.com/watch?v=GIpNyjbhe2M&list=PLXQrbKBNdVyACMCf4GHExDIp3e1kcnGtP&index=62)
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [Balatongyorok_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ftggiLqZ)
+- [ ] F02 [FuggolegesFixMenuForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/Tpg3AajK)
+- [ ] F03 [KonyvAjanloForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/ywR1TSob)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
 
 #### Kódminták
-```html
-<ol>
-    <li></li>
-<\ol>
-``` 
+
+### Animációk
+
+```css
+/*
+Animációk tulajdonságai
+
+    [@keyframes] - Animáció leírása, pontosan milyen állapotok találhatóak meg benne
+    [animation-name] - Az animáció neve, ami alapján meghívhatjuk
+    [animation-duration] - Az animáció időtartama, másodpercben (pl.: 2s)
+    [animation-delay] - Az animáció késleltetésének mértéke, szintén másodpercben
+    [animation-iteration-count] - Animáció futtatásának mennyisége:darabra megadva, vagy végtelen
+    [animation-direction] - Animáció iránya, lásd lentebb
+    [animation-timing-function] -Animálás sebesség görbéjének változtatása
+    [animation-fill-mode] - Kezdeti és végső kinézet megtartása
+    [animation] - Minden tulajsonság megadása 1 sorban
+*/
+
+/*Keyframes - Kulcspontok*/
+@keyframes ketAllapotosSzinezo {
+    from {background-color: blue;}/*Kezdőállapot*/
+    to {background-color: green;}/*Végállapot*/
+  }
+
+  @keyframes negyAllapotosSzinezo {
+    0%   {background-color: red;}
+    25%  {background-color: white;}
+    50%  {background-color: green;}
+    100% {background-color: red;}
+  }
+  @keyframes mozgato{
+    0%{left:0px;}
+    50%{left:100px;}
+    100%{left:0px;}
+  }
+  @keyframes divBoxVerseny{
+    0%{left:0px;}
+    100%{left:300px;}
+  }
+/*animation-name(NÉV) & animation-duration(HOSSZ)*/
+.alapAnimacio{
+  animation-name:ketAllapotosSzinezo;
+  animation-duration:4s;
+}
+.alapAnimacio2:hover{
+  animation-name:negyAllapotosSzinezo;
+  animation-duration:10s;
+}
+
+/*animation-delay(VÁRAKOZTATÁS*/
+.kesleltetettAnimacio:hover{
+  animation-name:ketAllapotosSzinezo;
+  animation-duration:4s;
+  animation-delay: 4s;
+}
+/*animation-iteration-count(ISMÉTLÉSSZÁM)*/
+.ismetlodoAnimacio{
+  animation-name:mozgato;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-iteration-count: 3;
+}
+/*animation-direction(ANIMÁLÁS IRÁNYA)*/
+.vegtelenAnimacio{
+  animation-name:mozgato;
+  animation-duration:4s;
+  animation-delay:2s;
+  animation-iteration-count: infinite;
+}
+
+/*animation-timing-function(IDŐZÍTÉS)*/
+
+/*
+normal - Az animáció normal módban hajtódik végre, ez az alapértelmezett
+reverse - Az animáció fordítottan hajtódik végre (visszelé)
+alternate - Az animációt először előre, majd visszafelé játssza le 
+alternate-reverse - Az animációt először hátrafelé, majd előrefelé játssza le
+
+Alapértelmezett beállítás: [normal]
+*/
+.alapMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-direction: alternate;
+}
+.forditottMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-direction:reverse;
+}
+.odavisszaMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-direction:alternate-reverse;
+}
+
+/*animation-timing-function(Animálás sebességének változtatása)*/
+
+/* 
+ease - Lassan kezdődő, majd gyors, majd lassan befejeződő animációt állít be (Alapértelmezett érték)
+linear - Az elejétől a végéig azonos sebességű animációt  állít be 
+ease-in - Lassú indítású animációt állít be 
+ease-out - Lassú végű animációt állít be 
+ease-in-out - Lassú kezdetű és végű animációt állít be  
+*/
+
+.easeMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:10s;
+  animation-delay:2s;
+  animation-timing-function: ease;
+}
+.linearMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:10s;
+  animation-delay:2s;
+  animation-timing-function: linear;
+}
+.easeinMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:10s;
+  animation-delay:2s;
+  animation-timing-function: ease-in;
+}
+.easeoutMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:10s;
+  animation-delay:2s;
+  animation-timing-function: ease-out;
+}
+.easeinoutMozgatoAnimacio{
+  animation-name:divBoxVerseny;
+  animation-duration:10s;
+  animation-delay:2s;
+  animation-timing-function: ease-in-out;
+}
+
+/*animation-fill-mode(Kezdeti és végső kinézet megtartása)*/
+
+/* 
+none - Alapértelmezett érték. Az animáció semmilyen stílust nem alkalmaz az elemre a végrehajtás előtt vagy után 
+forwards - Az elem megtartja az utolsó kulcsképkocka által beállított stílusértékeket (az animáció irányától és az animáció iterációinak számától függően) 
+backwards - Az elem megkapja az első kulcsképkocka által beállított stílusértékeket (az animáció irányától függően), és megtartja ezt az animáció késleltetési időszaka alatt 
+both - Az animáció követni fogja az előre és visszafelé vonatkozó szabályokat, mindkét irányba kiterjesztve az animáció tulajdonságait  
+*/
+.kezdetiAllapotMegtartoAnimacio{
+  animation-name:negyAllapotosSzinezo;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-fill-mode:backwards;
+}
+.vegAllapotMegtartoAnimacio{
+  animation-name:negyAllapotosSzinezo;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-fill-mode:forwards;
+}
+.kezdetiEsVegAllapotMegtartoAnimacio{
+  animation-name:negyAllapotosSzinezo;
+  animation-duration:4s;
+  animation-delay:1s;
+  animation-fill-mode:both;
+}
+/*animation(All In One)*/
+.allInOne{
+  animation-name: negyAllapotosSzinezo;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  /*Helyett:*/
+  animation: negyAllapotosSzinezo example 5s linear 2s infinite alternate;
+}
+
+```
+ 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 # 16
 ### 2021.11.11 <b>[Vissza](#0)</b>
@@ -1711,7 +2223,9 @@ A további tulajdonságok tekintetében, lásd a korábbi nekik megfelelő jegyz
 * []()
 
 #### Feladatok
-- [ ] F01 []()
+- [ ] F01 [KonyvAjanloForras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/fk4miZ7Y)
+- [ ] F02 [Yoko_konyhája_forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/S8onySIK)
+- [ ] F03 [AnimaltFixMenu_Forras](https://mega.nz/folder/m4o03I7Y#w-QjJOIEAMUqnOLUdx0wyg/folder/zoQTjSJB)
 
 #### VS Code
 [Feladatok linkje Web editorban:](https://github.dev/Motkany1980/RuanderFiles/)
