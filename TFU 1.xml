@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://spr.hungary.richter/RMPCommIT/_api/" xmlns="http://www.w3.org/2005/Atom"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss"
+    xmlns:gml="http://www.opengis.net/gml">
+    <id>add930c8-2903-4528-9747-e83a62a65fa2</id>
+    <title />
+    <updated>2022-01-24T05:48:03Z</updated>
+    <entry m:etag="&quot;6&quot;">
+        <id>Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)</id>
+        <category term="SP.Data.DocRegListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject"
+            type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments"
+            type="application/atom+xml;type=feed" title="RoleAssignments"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType"
+            type="application/atom+xml;type=entry" title="ContentType"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml"
+            type="application/atom+xml;type=entry" title="FieldValuesAsHtml"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText"
+            type="application/atom+xml;type=entry" title="FieldValuesAsText"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit"
+            type="application/atom+xml;type=entry" title="FieldValuesForEdit"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File"
+            type="application/atom+xml;type=entry" title="File"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder"
+            type="application/atom+xml;type=entry" title="Folder"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList"
+            type="application/atom+xml;type=entry" title="ParentList"
+            href="Web/Lists(guid'a5764a70-edec-4e03-9f8b-98ce894cdf0e')/Items(1229)/ParentList" />
+        <title />
+        <updated>2022-01-24T05:48:03Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">1229</d:Id>
+                <d:Title xml:space="preserve">Teriflunomid 14 mg film-coated tablets </d:Title>
+                <d:RMPD_OIDId m:type="Edm.Int32">1229</d:RMPD_OIDId>
+                <d:RMPD_PIDId m:type="Edm.Int32">1229</d:RMPD_PIDId>
+                <d:RMP_ID>RMPD_1229</d:RMP_ID>
+                <d:Subm_IDsId m:type="Collection(Edm.Int32)">
+                    <d:element>1413</d:element>
+                </d:Subm_IDsId>
+                <d:RMP_Ver>0.1</d:RMP_Ver>
+                <d:RMPD_Link m:type="SP.FieldUrlValue">
+                    <d:Description>RMPD_1229</d:Description>
+                    <d:Url>http://spr.hungary.richter/RMPCommIT/RMPDocs/RMPD_1229</d:Url>
+                </d:RMPD_Link>
+                <d:Active_x0020_IngredientsId m:type="Collection(Edm.Int32)">
+                    <d:element>383</d:element>
+                </d:Active_x0020_IngredientsId>
+                <d:PPG_LookUpId m:type="Edm.Int32">456</d:PPG_LookUpId>
+                <d:RMPD_Status>Pending</d:RMPD_Status>
+                <d:Writing_x0020_Resp_x002e__x0020_>NA</d:Writing_x0020_Resp_x002e__x0020_>
+                <d:Writing_x0020_Resp_x002e__x0020_0Id m:null="true" />
+                <d:Writing_x0020_Resp_x002e__x0020_1 m:null="true" />
+                <d:Writing_x0020_Due_x0020_Date m:null="true" />
+                <d:QC_x0020_Resp_x002e__x0020_Type>NA</d:QC_x0020_Resp_x002e__x0020_Type>
+                <d:QC_x0020_Resp_x002e__x0020_PersoId m:null="true" />
+                <d:QC_x0020_Due_x0020_Date m:null="true" />
+                <d:Review_x0020_Resp_x002e__x0020_T>GR</d:Review_x0020_Resp_x002e__x0020_T>
+                <d:Review_x0020_Resp_x002e__x0020_PId m:type="Edm.Int32">2280</d:Review_x0020_Resp_x002e__x0020_PId>
+                <d:Review_x0020_Due_x0020_Date m:type="Edm.DateTime">2021-09-22T22:00:00Z
+                </d:Review_x0020_Due_x0020_Date>
+                <d:Approval_x0020_Resp_x002e__x0020>GR</d:Approval_x0020_Resp_x002e__x0020>
+                <d:Approval_x0020_Resp_x002e__x00200Id m:type="Edm.Int32">2226</d:Approval_x0020_Resp_x002e__x00200Id>
+                <d:Approval_x0020_Due_x0020_Date m:type="Edm.DateTime">2021-09-26T22:00:00Z
+                </d:Approval_x0020_Due_x0020_Date>
+                <d:Comment>&lt;div class="ExternalClass2B0D0B16092E41E1B42AE72AC37AD7A7"&gt;&lt;html&gt;
+                    &lt;p&gt;​RMP was prepared by our licence partner&amp;#58; &lt;span lang="EN-GB"
+                    style="font-family&amp;#58;&amp;quot;verdana&amp;quot;,sans-serif;font-size&amp;#58;9pt;"&gt;&lt;font
+                    color="#000000"&gt;Pharmascience International Limited&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+                    &lt;/html&gt;&lt;/div&gt;</d:Comment>
+                <d:First_x0020_Type>REV</d:First_x0020_Type>
+                <d:Approved_x0020_date m:type="Edm.DateTime">2021-09-23T22:00:00Z</d:Approved_x0020_date>
+                <d:WF_Set_x0020_RMP_x0020_Approval_ m:null="true" />
+                <d:CommITypesId m:type="Collection(Edm.Int32)">
+                    <d:element>337</d:element>
+                    <d:element>338</d:element>
+                    <d:element>339</d:element>
+                </d:CommITypesId>
+                <d:ContentTypeId>0x0100152B5CD98EF2094592EB75B4D93A76DC</d:ContentTypeId>
+                <d:AuthorId m:type="Edm.Int32">562</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">562</d:EditorId>
+                <d:Modified m:type="Edm.DateTime">2021-09-30T07:32:44Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2021-09-22T06:42:58Z</d:Created>
+                <d:StartCom m:null="true" />
+                <d:Archived m:type="Edm.DateTime">2021-09-26T22:00:00Z</d:Archived>
+                <d:DLP m:type="Edm.DateTime">2021-09-06T22:00:00Z</d:DLP>
+                <d:SPR_x0020_decision m:null="true" />
+                <d:Archived_x0020_ID>KEDP/DAED2A</d:Archived_x0020_ID>
+                <d:Object_x0020_name>PhVig005220/1</d:Object_x0020_name>
+                <d:TFUsId m:type="Collection(Edm.Int32)">
+                    <d:element>250</d:element>
+                    <d:element>251</d:element>
+                    <d:element>252</d:element>
+                    <d:element>253</d:element>
+                    <d:element>254</d:element>
+                    <d:element>255</d:element>
+                </d:TFUsId>
+                <d:Add_new_TFU_Link>
+                    http://spr.hungary.richter/RMPCommIT/Lists/TFUTL/Task/newifs.aspx?PPG_ID=456RMPD_1229&amp;DefaultView=TFU&amp;DefaultItemOpen=1
+                </d:Add_new_TFU_Link>
+                <d:RMP_DocSet_Link>
+                    http://spr.hungary.richter/RMPCommIT/RMPDocs/Forms/Document%20Set/docsethomepage.aspx?ID=3559&amp;FolderCTID=0x0120D52000ED53C20A6BB2B240AF43B9652CB0D9EC&amp;List=a2430497-815f-45e6-aa75-da29164d004e&amp;RootFolder=%2FRMPCommIT%2FRMPDocs%2FRMPD%5FRMPD_1229
+                </d:RMP_DocSet_Link>
+                <d:Education_x0020_MaterialId m:type="Collection(Edm.Int32)">
+                    <d:element>173</d:element>
+                    <d:element>174</d:element>
+                </d:Education_x0020_MaterialId>
+                <d:QCRespPartnerPerson m:null="true" />
+                <d:ReviewRespPartnerPerson m:null="true" />
+                <d:ApprovalRespPartnerPerson m:null="true" />
+                <d:DocumentSetDescription m:null="true" />
+                <d:SPR_UID m:null="true" />
+                <d:Subm_OID>1413</d:Subm_OID>
+                <d:Suum_UID>Subm_1413</d:Suum_UID>
+                <d:ID m:type="Edm.Int32">1229</d:ID>
+                <d:OData__UIVersionString>6.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">b4713f94-a467-431c-9122-7ebfce1f3d5e</d:GUID>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
