@@ -1,46 +1,60 @@
-#keret{
-    margin:auto;
+#keret {
+    margin: auto;
     border-style: none solid;
-	border-color:gray;
+    border-color: gray;
     border-width: 20px;
     width: 70%;
     padding: 20px;
 }
-.ritka{
-    
+
+.ritka {
+    letter-spacing: 4px;
 }
-#kep{
-    width:40%;
+
+#kep {
+    width: 40%;
     box-shadow: 8px 8px 5px gray;
-    -ms-transform: rotate(5deg); /* IE 9 */
-    -webkit-transform: rotate(5deg); /* Chrome, Safari, Opera */
+    -ms-transform: rotate(5deg);
+    /* IE 9 */
+    -webkit-transform: rotate(5deg);
+    /* Chrome, Safari, Opera */
     transform: rotate(5deg);
     border-radius: 10px;
     border-style: solid;
-}
-input{
-    font-family:cursive; 
-    font-weight: bold;
-    border-radius: 5px;   
-}
-body{
-    font-family: cursive;
-    background-image: url('Sárgatúró_forras/hatter.jpg');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-h1,h2,h3,p{
-text-align: justify;
-letter-spacing: 4px;
+    margin: 30px;
+    float: right;
+    border-width: 3px;
 }
 
-ul li{
+input {
+    font-family: cursive;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+body {
+    font-family: cursive;
+    background-image: url('Sárgatúró_forras/hatter.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1,
+h2,
+h3,
+p {
+    text-align: justify;
+    letter-spacing: 4px;
+}
+
+ul li {
     font-style: italic;
     font-weight: bold;
     list-style-type: square;
 }
-input{
+
+input {
     width: 40px;
     color: forestgreen;
     font-size: 18px;
