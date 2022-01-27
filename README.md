@@ -2324,3 +2324,54 @@ both - Az animáció követni fogja az előre és visszafelé vonatkozó szabál
     <li></li>
 <\ol>
 ``` 
+
+```mermaid
+sequenceDiagram
+participant U as User
+participant C as Client
+participant S as Server
+participant DB as Database
+
+U ->> C: Fill username
+U ->> C: Fill password
+C ->> U: Enable "Login" button
+U ->> C: Click "Login" button
+C ->>+ S: POST /login
+S ->>+ DB: SELECT FROM users
+Note over S,DB: See login.py for impl. details
+DB -->>- S: results
+S -->>- C: { authenticated: true }
+C ->> U: redirect /home
+```
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Adding GANTT diagram to mermaid
+excludes weekdays 2014-01-10
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2               :         des4, after des3, 5d
+```
+
+```mermaid
+classDiagram
+Class01 <|-- AveryLongClass : Cool
+<<interface>> Class01
+Class09 --> C2 : Where am i?
+Class09 --* C3
+Class09 --|> Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  <<service>>
+  int id
+  size()
+  }
+```
