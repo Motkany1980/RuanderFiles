@@ -1,38 +1,45 @@
 console.log("Start");
 
-let tomb=[1,4,2,8,23,2]
-
-function MinErtekKereses(tomb)
-{
- let minErtek=tomb[0];
- let min=0;
-    for(let i=1;i<tomb.length;i++)
-    {
-     if(tomb[i]<minErtek)
-     {
-         minErtek=tomb[i];
-         min=i+1;
-     }
-    }
-    document.write("<br> A tömb legkisebb elemének értéke: "+minErtek+"<br> helyen szerepel: "+min);
-    console.log("A tömb legkisebb elemének értéke: "+minErtek+" helyen szerepel: "+min);
+function kisebb(szam1,szam2){
+ if(szam1<szam2){
+     return szam1
+ }else{
+     return szam2
+ }
 }
 
-function MaxErtekKereses(tomb)
-{
- let maxErtek=tomb[0];
- let max=0;
-    for(let j=1;j<tomb.length;j++)
-    {
-     if(tomb[j]>maxErtek)
-     {
-         maxErtek=tomb[j];
-         max=j+1;
-     }
+function nagyobb(szam1,szam2){
+    if(szam1>szam2){
+        return szam1
+    }else{
+        return szam2
     }
-    document.write("<br> A tömb legnagyobb elemének értéke: "+maxErtek+"<br> helyen szerepel: "+max);
-    console.log("A tömb legnagyobb elemének értéke: "+maxErtek+" helyen szerepel: "+max);
+   }
+
+   function RandomEgesz(alsoHatar,felsoHatart){
+       let generatSzam=Math.round(Math.random()*(felsoHatart-alsoHatar))+alsoHatar;
+       return generatSzam;
+   }
+
+function tombGenerator(meret,hatar1,hatar2){
+    let generaltTomb=[];
+    for (let i = 0; i < meret; i++) {
+        generaltTomb.push(RandomEgesz(kisebb(hatar1,hatar2),nagyobb(hatar1,hatar2)));
+    }
+    console.log(generaltTomb)
+
+return generaltTomb;
 }
 
-MinErtekKereses(tomb);
-MaxErtekKereses(tomb);
+tomb=tombGenerator(6,1,6);
+let seged=0;
+
+for (let i = 0; i < tomb.length; i++) {
+    if(tomb[i]%2==0){
+        seged++;
+    }
+    
+}
+console.log("Páros számok mennyisége a tömbben: "+seged);
+document.write("Tömb: "+tomb+"<br>")
+document.write("Páros számok mennyisége a tömbben: "+seged)
