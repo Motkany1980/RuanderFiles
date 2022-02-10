@@ -33,13 +33,17 @@ return generaltTomb;
 
 tomb=tombGenerator(6,1,6);
 let seged=0;
+tombParos=[];
 
 for (let i = 0; i < tomb.length; i++) {
     if(tomb[i]%2==0){
         seged++;
+        tombParos.push(tomb[i]);
     }
     
 }
 console.log("Páros számok mennyisége a tömbben: "+seged);
+console.log("Páros elemek a tömbben: "+tombParos);
 document.write("Tömb: "+tomb+"<br>")
-document.write("Páros számok mennyisége a tömbben: "+seged)
+document.write("Páros számok mennyisége a tömbben: "+seged+"<br>")
+document.write("Páros elemek a tömbben: "+tombParos)

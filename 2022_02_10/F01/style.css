@@ -1,0 +1,48 @@
+body {
+    background-size: cover;
+    font-weight: 500;
+    background-image: url("TellerEde/physics_back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  
+  p {
+    margin: 5px;
+    text-indent: 15px;
+    line-height: 140%;
+    text-align: justify;
+    
+  }
+  
+  #tartalom {
+    background-color: rgba(200, 200, 200, 0.85);
+    border-radius: 30px;
+    width: 60%;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h1 {
+    font-style: italic;
+  }
+  
+  table {
+    width: 50%;
+    margin: auto;
+  }
+  
+  ul {
+    list-style-image: url('physics_icon.png');
+  }
+  
+  span{
+      font-weight: 800px;
+  }
+  span:hover{
+      color:red;
+  }
+  .linkeles:hover{
+      text-decoration: none;
+  }
