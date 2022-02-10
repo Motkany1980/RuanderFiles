@@ -31,10 +31,11 @@ body {
   table {
     width: 50%;
     margin: auto;
+    float: right;
   }
   
   ul {
-    list-style-image: url('physics_icon.png');
+    list-style-image: url('TellerEde/physics_icon.png');
   }
   
   span{
