@@ -4,7 +4,7 @@ body {
     background-image: url("TellerEde/physics_back.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: center center;
   }
   
   p {
@@ -45,4 +45,8 @@ body {
   }
   .linkeles:hover{
       text-decoration: none;
+  }
+  #teller_kep{
+    width: 260px;
+    float: right;
   }
