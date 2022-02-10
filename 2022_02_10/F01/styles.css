@@ -48,5 +48,17 @@ body {
   }
   #teller_kep{
     width: 260px;
+    margin-left: 20px;
     float: right;
+  }
+
+  td{
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    text-align: center;
+  }
+  th{
+    color: white;
+    background-color: gray;
+    text-align: center;
   }
