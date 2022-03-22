@@ -1,0 +1,336 @@
+[{
+    "ArrayIndex": 0,
+    "KeyToFind": "QuestionVar0",
+    "ValueFound": "Which statement is false? "
+  },
+  {
+    "ArrayIndex": 1,
+    "KeyToFind": "AnswerVar0",
+    "ValueFound": @ {
+      outputs('Get_response_details') ? ['body/r3307317421114786b49edf59f7ede774']
+    }
+  },
+  {
+    "ArrayIndex": 2,
+    "KeyToFind": "ResultVar0",
+    "ValueFound": "RWD includes all data from RCTs and healthcare-related data."
+  },
+  {
+    "ArrayIndex": 3,
+    "KeyToFind": "QuestionVar1",
+    "ValueFound": "Which one of the below data sources is not included in Real-World Data? "
+  },
+  {
+    "ArrayIndex": 4,
+    "KeyToFind": "AnswerVar1",
+    "ValueFound": @ {
+      outputs('Get_response_details') ? ['body/r53ed99a68aff4d8a8364d60910c2a45a']
+    }
+  },
+  {
+    "ArrayIndex": 5,
+    "KeyToFind": "ResultVar1",
+    "ValueFound": "Phase 1 to 3 clinical studies"
+  },
+  {
+    "ArrayIndex": 6,
+    "KeyToFind": "What is Big Data?",
+    "ValueFound": "What is the preferred classification of clinical trials according to ICH E8? "
+  },
+  {
+    "ArrayIndex": 7,
+    "KeyToFind": "AnswerVar2",
+    "ValueFound": @ {
+      outputs('Get_response_details') ? ['body/r62cdf9c98a404d6eb882ba9f347cc989']
+    }
+  },
+  {
+    "ArrayIndex": 8,
+    "KeyToFind": "ResultVar2",
+    "ValueFound": "Big Data refers to the collection of data that cannot be processed in a timely manner using traditional database application."
+  },
+  {
+    "ArrayIndex": 9,
+    "KeyToFind": "QuestionVar3",
+    "ValueFound": "Which component is not part of Data Science Venn Diagram?"
+  },
+  {
+    "ArrayIndex": 10,
+    "KeyToFind": "AnswerVar3",
+    "ValueFound": @ {
+      outputs('Get_response_details') ? ['body/r0f52951b0bba4a83ad8529b41c9495b1']
+    }
+  },
+  {
+    "ArrayIndex": 11,
+    "KeyToFind": "ResultVar3",
+    "ValueFound": "Quantum chromodynamics"
+  },
+  {
+    "ArrayIndex": 12,
+    "KeyToFind": "QuestionVar4",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 13,
+    "KeyToFind": "AnswerVar4",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 14,
+    "KeyToFind": "ResultVar4",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 15,
+    "KeyToFind": "QuestionVar5",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 16,
+    "KeyToFind": "AnswerVar5",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 17,
+    "KeyToFind": "ResultVar5",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 18,
+    "KeyToFind": "QuestionVar6",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 19,
+    "KeyToFind": "AnswerVar6",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 20,
+    "KeyToFind": "ResultVar6",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 21,
+    "KeyToFind": "QuestionVar7",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 22,
+    "KeyToFind": "AnswerVar0",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 23,
+    "KeyToFind": "ResultVar7",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 24,
+    "KeyToFind": "QuestionVar8",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 25,
+    "KeyToFind": "AnswerVar8",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 26,
+    "KeyToFind": "ResultVar8",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 27,
+    "KeyToFind": "QuestionVar9",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 28,
+    "KeyToFind": "AnswerVar9",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 29,
+    "KeyToFind": "ResultVar9",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 30,
+    "KeyToFind": "QuestionVar10",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 31,
+    "KeyToFind": "AnswerVar10",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 32,
+    "KeyToFind": "ResultVar10",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 33,
+    "KeyToFind": "QuestionVar11",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 34,
+    "KeyToFind": "AnswerVar11",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 35,
+    "KeyToFind": "ResultVar11",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 36,
+    "KeyToFind": "QuestionVar12",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 37,
+    "KeyToFind": "AnswerVar12",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 38,
+    "KeyToFind": "ResultVar12",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 39,
+    "KeyToFind": "QuestionVar13",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 40,
+    "KeyToFind": "AnswerVar13",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 41,
+    "KeyToFind": "ResultVar13",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 42,
+    "KeyToFind": "QuestionVar14",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 43,
+    "KeyToFind": "AnswerVar14",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 44,
+    "KeyToFind": "ResultVar14",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 45,
+    "KeyToFind": "QuestionVar15",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 46,
+    "KeyToFind": "AnswerVar15",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 47,
+    "KeyToFind": "ResultVar15",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 48,
+    "KeyToFind": "QuestionVar16",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 49,
+    "KeyToFind": "AnswerVar16",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 50,
+    "KeyToFind": "ResultVar16",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 51,
+    "KeyToFind": "QuestionVar17",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 52,
+    "KeyToFind": "AnswerVar17",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 53,
+    "KeyToFind": "ResultVar17",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 54,
+    "KeyToFind": "QuestionVar18",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 55,
+    "KeyToFind": "AnswerVar18",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 56,
+    "KeyToFind": "ResultVar18",
+    "ValueFound": "+"
+  },
+  {
+    "ArrayIndex": 57,
+    "KeyToFind": "QuestionVar19",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 58,
+    "KeyToFind": "AnswerVar19",
+    "ValueFound": "-"
+  },
+  {
+    "ArrayIndex": 59,
+    "KeyToFind": "ResultVar19",
+    "ValueFound": "+"
+  }
+]
+
+=IF
+(AND(NOT(ISBLANK([RMP Distribution Date])),CommitNone="No"),
+                                      "Commitments Reporting",
+IF
+(AND(NOT(ISBLANK([RMP Distribution Date])),CommitNone="Yes"),
+                                      "Distributed RMP",
+IF
+(OR(AND(NOT(ISBLANK([HA Evaluation Date])),OR(MAH="GR Headquarter",MAH="Both"),[RMP Status]<>"Rejected"),Migrated="Yes"),
+                                      "RMP Distribution",
+IF
+(AND(NOT(ISBLANK([HA Evaluation Date])),MAH="Partner"),
+                                      "Valid Partner RMP",
+IF
+(NOT(ISBLANK([Date of submission])),
+                                      "HA Evaluation",
+IF
+(NOT(ISBLANK([Date of transmission])),
+                                      "Submission",
+IF
+(NOT(ISBLANK([RMPD Approval Date])),
+                                      "Transmission",
+IF
+(OR([SPR Meeting Needed]="No",[SPR decision]=TRUE),
+                                      "Compilation",
+"Initial Step")
+)))))))
