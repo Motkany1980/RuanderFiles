@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIV elem megjelenítése/elrejtése</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery.js"></script>
+</head>
+
+<body>
+    <div id="elemMegjelenito">Elem megjelenítés Ki-Be</div>
+    <div id="megjelenitendoElem">
+        <!--Ide bármi kerülhetne tartalmilag-->
+    </div>
+
+    <hr>
+
+    <input type="text" placeholder="Ide írd a szöveget" id="vizsgalandoSzoveg">
+    <p id="szovegMeret">(0 karakter)</p>
+    
+    <hr>
+    <input type="password" id="jelszoMezo">
+    <input type="button" value="Jelszó megjelenítése" id="megjelenitoGomb">
+    <!--onclick="Lathatosag()" - kellett a sima dom megoldás esetén, vagy egy addEventListener-->
+
+    <script src="script.js"></script>
+</body>
+
+</html>
