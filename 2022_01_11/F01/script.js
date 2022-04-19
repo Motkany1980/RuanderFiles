@@ -15,6 +15,7 @@ function PrimGenerator() {
     let generaltSzam = 0;
     while (megvan == false) {
         generaltSzam = RandomEgesz(1, 100);
+        document.write("! "+generaltSzam+"<br>");
         let oszto = 0;
         // 1-100-ig mindíg lefut és, ha két osztója van csak 1 és önmaga akkor prim
         for (let i = 1; i <= generaltSzam; i++) {
