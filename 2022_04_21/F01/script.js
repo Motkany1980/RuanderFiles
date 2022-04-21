@@ -25,3 +25,12 @@ function NegyzetKeruletFuggveny(a) {
     return a * 4;
 }
 document.write(`<br> - Kerület ${NegyzetKeruletFuggveny(3)}`);
+// Téglalap terület
+function TeglalapKeruletTeruletEljaras(a, b) {
+    let kerulet = 2 * (a + b);
+    let terulet = a * b;
+    document.write(`Kerület és terület`);
+    document.write(`<br> - Téglalap Kerület ${kerulet}`);
+    document.write(`<br> - Téglalap Terulet ${terulet}`);
+}
+TeglalapKeruletTeruletEljaras(2, 3);
