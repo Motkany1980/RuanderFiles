@@ -34,3 +34,14 @@ function TeglalapKeruletTeruletEljaras(a, b) {
     document.write(`<br> - Téglalap Terulet ${terulet}`);
 }
 TeglalapKeruletTeruletEljaras(2, 3);
+// Páros e a megadott szám
+let param = 4;
+function ParosE(paros) {
+    if (paros % 2 == 0) {
+        document.write(`A szám páros `);
+    }
+    else {
+        document.write(`A szám páratlan `);
+    }
+}
+ParosE(param);
