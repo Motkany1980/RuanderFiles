@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5. feladat</title>
+</head>
+
+<body>
+    <form>
+        <input type="text" id="nev" placeholder="Név" required><br>
+        <input type="text" id="fnev" placeholder="Felhasználóinév" required><br>
+        <input type="date" id="datum" required><br>
+        <button type="button" id="feltoltoGomb">Adatok feltöltése</button>
+        <!--- Minden mezőt kötelező kitölteni - required tulajdonság!-->
+    </form>
+    <script>
+        feltoltoGomb.addEventListener("click", feltoltes);
+
+        function feltoltes() {
+            let nevErtek = document.querySelector("#nev").value
+            let fnevErtek = document.querySelector("#fnev").value
+            let datumErtek = document.querySelector("#datum").value
+
+            if (nevTeszt(nevErtek) == false) {
+                alert("A név nem megfelelő, tartalmazni kell egy szóközt, legalább 8 max 50 karakter");
+            }
+            if (fnevTeszt(fnevErtek) == false) {
+                alert("A felhasználói név nem megfelelő, legalább 6 maximum 28 karakter");
+            }
+            if (datumTeszt() == false) {
+                alert("A születési dátumnak 1916. január 1. utáninak kell lennie, és nem lehet nagyobb mint a mai nap");
+            }
+            if (nevTeszt(nevErtek) == true && fnevTeszt(fnevErtek) == true && datumTeszt() == true) {
+                alert("A feltöltés sikerült");
+            }
+        }
+        nev.addEventListener("change", nevTesztelo);
+        function nevTesztelo() {
+            let nevErtek = document.querySelector("#nev").value
+            if (nevTeszt(nevErtek) == false) {
+                alert("A név nem megfelelő, tartalmazni kell egy szóközt, legalább 8 max 50 karakter");
+            }
+        }
+
+        //A név mező legalább 8, maximum 50 karakter hosszú lehet és kötelezően tartalmazni kell 1 db szóközt (a szóköz nem állhat a név elején vagy végén)
+        function nevTeszt(vizsgaltNev) {
+            if (vizsgaltNev.length >= 8 && vizsgaltNev.length <= 50 && vizsgaltNev.trim().includes(" ") == true) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+
+
+        fnev.addEventListener("change", fnevTesztelo);
+        function fnevTesztelo() {
+            let fnevErtek = document.querySelector("#fnev").value
+            if (fnevTeszt(fnevErtek) == false) {
+                alert("A név nem megfelelő, tartalmazni kell egy szóközt, legalább 8 max 50 karakter");
+            }
+        }
+
+        //A felhasználónév legalább 6, maximum 28 karakter hosszú lehet
+        function fnevTeszt(vizsgaltFNev) {
+            if (vizsgaltFNev.length >= 8 && vizsgaltFNev.length <= 28) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+
+
+
+        datum.addEventListener("change", datumTesztelo);
+        function datumTesztelo() {
+            let datumErtek = document.querySelector("#datum").value
+            if (datumTeszt(datumErtek) == false) {
+                alert("A név nem megfelelő, tartalmazni kell egy szóközt, legalább 8 max 50 karakter");
+            }
+        }
+
+        //A születési dátumnak nagyobbnak kell lenni, mint 1916-01-01, viszont nem haladhatja meg a mai napot. (a mai nap a mindenkori mai nap legyen dinamikusan… tehát holnap is jól működjön)
+        function datumTeszt() {
+            let adat = document.getElementById("datum").value;
+            let beirtDatum = new Date(adat);
+            let regiDatum = new Date("1916-01-01");
+            let maiNap = new Date();
+            if (beirtDatum < maiNap && beirtDatum > regiDatum) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+    </script>
+</body>
+
+</html>

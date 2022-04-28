@@ -1,0 +1,19 @@
+A múlt órai adminfelületen készíteni egy "űrlap feltöltés előtti" ellenőrzés funkciót, illetve hibaüzeneteket, ha az adott input nem valid...
+
+
+
+
+Illetve a múlt órai szorgalmik is érvényesek még mindig, mert csak 1 fő küldte be őket.
+
+1) Bővítsd a színválasztó vagy a szemteszt feladatokat, saját ötletekkel.
+
+2) Próbáld meg általánosítani a múltkori feladatsorból(szemteszt), a range típusú mező adatlekérését.
+
+3)Pródáld meg a színválasztó szemteszt, hexakód átalakítóját módosítani, hogy 10 alatti érték esetén a szám elé írjon egy 0-t.
+(akár külün függvény segítségével)
+
+4) Készítsetek saját regex kifejezések valós problémákra.
+
+5) A korábbi objektumos feladatok, adatait próbáljátok meg táblázatos formában kiíratani.
+
+6) Próbáld meg a Sávok ki be kapcsolását és a DARK/Light mode-ot egy gombra meghívni, működőképesre.

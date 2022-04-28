@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kérjük be egy henger alapjának sugarát ( r ) és magasságát ( m ), majd 
+    határozzuk meg a henger felszínét és térfogatát.">
+    <title>Második feladat</title>
+</head>
+
+<body>
+    <script>
+        function feladat02() {
+            let r = Number(prompt("Add meg a henger sugarának méretét:"));
+            let m = Number(prompt("Add meg a henger magasságát."));
+            let felszin = 2 * r * r * Math.PI + 2 * r * Math.PI * m; //Biztos ez a jó képlet?
+            let terfogat = r * r * Math.PI * m;
+            document.write(`A henger felszínének területe: ${felszin}m<sup>2</sup><br>`);
+            document.write(`A henger térfogata: ${terfogat}m<sup>3</sup>`);
+        }
+        feladat02();
+    </script>
+
+</body>
+
+</html>

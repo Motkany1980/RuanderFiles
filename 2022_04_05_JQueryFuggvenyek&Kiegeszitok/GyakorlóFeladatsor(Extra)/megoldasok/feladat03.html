@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Rádiógombok segítségével jelenítsünk meg 5 különböző színt. Ha a rádiógombokra kattintva 
+megváltozik a kiválasztott szín, akkor ennek hatására változzon a weboldalon egy div háttérszíne is 
+(természetesen olyan színűre, mint ami kiválasztásra került).">
+    <title>Harmadik feladat</title>
+
+<body>
+    <!--
+Rádiógombok segítségével jelenítsünk meg 5 különböző színt. Ha a rádiógombokra kattintva 
+megváltozik a kiválasztott szín, akkor ennek hatására változzon a weboldalon egy div háttérszíne is 
+(természetesen olyan színűre, mint ami kiválasztásra került).
+-->
+    <form>
+        Kék:<input type="radio" value="blue" name="szin" onclick="szinValto()"><br>
+        Zöld:<input type="radio" value="green" name="szin" onclick="szinValto()"><br>
+        Piros:<input type="radio" value="red" name="szin" onclick="szinValto()"><br>
+        Sárga:<input type="radio" value="yellow" name="szin" onclick="szinValto()"><br>
+        Lila:<input type="radio" value="purple" name="szin" onclick="szinValto()"><br>
+    </form>
+
+    <script>
+
+        function szinValto() {
+            let szinTipus = document.querySelector('input[name="szin"]:checked').value;
+            document.body.style.backgroundColor = szinTipus;
+        }
+
+    </script>
+</body>
+
+</html>
