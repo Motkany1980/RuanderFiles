@@ -1,0 +1,39 @@
+#elemMegjelenito {
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    margin: 0px auto;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+#megjelenitendoElem {
+    width: 240px;
+    height: 400px;
+    margin: 10px auto;
+    color: white;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: inline-block;
+    animation-duration: 2s;
+}
+
+@keyframes lenyilasAnimacio {
+    from {
+        height: 0px;
+    }
+
+    to {
+        height: 400px;
+    }
+}
+@keyframes becsuk {
+    from {
+        height: 400px;
+    }
+
+    to {
+        height: 0px;
+    }
+}
