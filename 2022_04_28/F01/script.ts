@@ -49,4 +49,21 @@ if(Katika.jegy<2){
 
 // Harmadik feladat
 
+let tombocske:any=['10','23','12','24','31','33','42','20'];
+let oszthato:any=[];
+
+for (let i = 0; i < tombocske.length; i++) {
+//    console.log(`- ${i}`)
+//    console.log(`- Elem :${tombocske[i]}`)
+
+    tombocske[i]
+    if(tombocske[i]%3 ==0){
+        console.log("- Osztható: "+tombocske[i]);
+        oszthato.push=tombocske[i];
+    }else{
+        console.log(`Nem osztható`)
+    }
+}
+
+console.log(oszthato);
 
