@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form action="#" id="mainForm">
+        <label for="Input field">1.ktuális szöveghossz:</label>
+        <input type="text" id="value1">
+        <p id="karakterszam"></p>
+
+        <hr>
+        <label for="Input field">2.Kirajzoló:</label>
+        <label for="x">X</label>
+        <input type="number" id="firstInput">
+        <label for="x">Y</label>
+        <input type="number" id="secondInput">
+        <button onclick="kirajzolo()">Kirajzoló</button>
+        <button onclick="hide()">Elrejt</button>
+
+        <span id="kocka"></span>
+        <hr>
+        <label for="bujocska">3.Bújócska</label>
+
+    <button id="visibilities" onclick="hides()">Visibility</button>
+    <img src="hidingCat.jpg" alt="hidingCat" id="hidingCat">
+    </form>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
