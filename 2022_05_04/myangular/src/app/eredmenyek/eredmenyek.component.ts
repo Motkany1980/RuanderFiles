@@ -82,7 +82,6 @@ export class EredmenyekComponent implements OnInit {
     console.log("+++"+feltoltendoElem)
     for (let i = 0; i < feltoltendoElem.length; i++) {
       let daraboltSor:string[]=feltoltendoElem[i].split(",");
-      console.log(daraboltSor)
       let daraboltelem:string[]=daraboltSor[0].split(" ");
       console.log(daraboltelem)
       const esemenyElem:Esemeny=new Esemeny(Number(daraboltelem[0]),Number(daraboltelem[1]),daraboltelem[2],daraboltelem[3]);
