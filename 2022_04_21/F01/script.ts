@@ -17,6 +17,7 @@ function NegyzetKeruletTeruletEljaras(a:number):void {
 }
 NegyzetKeruletTeruletEljaras(2);
 
+
 // Visszatérési értékes és paraméter nélküli függvény
 function RandomGeneraloFuggveny():number {
   return Math.round(Math.random()*100);
@@ -40,13 +41,13 @@ function TeglalapKeruletTeruletEljaras(a:number,b:number):void {
 TeglalapKeruletTeruletEljaras(2,3);
 
 // Páros e a megadott szám
-let param=4;
+let param=5;
 
 function ParosE(paros:number):void{
 if(paros%2 ==0){
-    document.write(`A szám páros `);
+    document.write(`<br> - A szám páros : <b>${paros}</b>`);
 }else{
-    document.write(`A szám páratlan `);
+    document.write(`<br> - A szám páratlan : <b>${paros}</b> `);
 }
 }
 

@@ -1,0 +1,79 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Motkany1980 
+pyscript
+/
+pyscript
+Public
+Code
+Issues
+96
+Pull requests
+27
+Actions
+Projects
+Wiki
+Security
+Insights
+pyscript/pyscriptjs/examples/panel.html
+@fpliger
+fpliger fixed some minor things related to examples while testing
+Latest commit 4e66764 13 days ago
+ History
+ 2 contributors
+@fpliger@philippjfr
+35 lines (31 sloc)  1.13 KB
+   
+<html>
+  <head>
+    <title>Panel Example</title>
+    <meta charset="iso-8859-1">
+    <link rel="icon" type="image/x-icon" href="./favicon.png">
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.js"></script>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.2.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.2.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@holoviz/panel@0.13.0-rc.10/dist/panel.min.js"></script>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+  </head>
+  <body>
+    <py-env>
+      - bokeh
+      - numpy
+      - panel==0.13.1a2
+    </py-env>
+    <h1>Panel Example</h1>
+    <div id="myplot"></div>
+    <py-script>
+import asyncio
+import panel as pn
+
+slider = pn.widgets.FloatSlider(start=0, end=10, name='Amplitude')
+
+def callback(new):
+    return f'Amplitude is: {new}'
+
+row = pn.Row(slider, pn.bind(callback, slider))
+
+await pn.io.pyodide.show(row, 'myplot')
+    </py-script>
+</body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete

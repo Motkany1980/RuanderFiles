@@ -1,0 +1,43 @@
+<h2>Data binding minta oldal</h2>
+
+<h3>Interpolation (Egyszerű érték átadás)</h3>
+<div><b>Az oldalt készítette1:</b> {{keszito}}</div>
+<div><a href={{utvonal}} target="_blank">Angular oldala</a></div>
+<br>
+
+<h3>Property Binding (Tulajdonság megadása)</h3>
+<div><a [href]="utvonal" target="_blank">Angular oldala</a></div>
+<br>
+
+<h3>Event Binding ( eseményhez kötés )</h3>
+<div>
+  <button class="btn btn-primary m-2" (click)="uzenet()">Event handler Üzenet</button>
+  <button class="btn btn-success m-2" (click)="modosito()">Event handler Készítő nevének váltása</button>
+</div>
+<br>
+
+<h3>Kétirányú Data Binding</h3>
+
+<h2>Négyzet kerület terület</h2>
+
+<div class="form-group">
+  <label for="oldalA">A oldal mérete</label>
+  <input type="number" [(ngModel)]="aOldal" id="oldalA" class="form-control">
+</div>
+<p>A négyzet A oldalának mérete: {{aOldal}} cm</p>
+<p>A négyzet kerülete: {{aOldal*4}} cm</p>
+<p>A négyzet területe: {{aOldal*aOldal}} cm</p>
+
+<p>Tümbünk legelső eleme : {{bevasarLoLista[0]}}</p>
+
+<ul *ngFor="let gyumolcs of bevasarLoLista">
+  <li>{{gyumolcs}}</li>
+</ul>
+
+<h3>Dolgozó adatai: ( egy objektum adatai - interfaceElem)</h3>
+<p><b>Név:</b> {{interfaceElem.nev}},<b> Kor:</b> {{interfaceElem.kor}},<b>Fizetés:</b> {{interfaceElem.fizetes}},<b> Beosztás:</b> {{interfaceElem.beosztas}}</p>
+
+<h3>Tömb összes elemének listázása ( benne található Objektumok alapján - interFaceTomb:Dolgozo[] )</h3>
+<ul *ngFor="let dolgozokTomb of interFaceTomb">
+  <li>Név: {{dolgozokTomb.nev}}, Fizetés: {{dolgozokTomb.fizetes}} </li>
+</ul>
